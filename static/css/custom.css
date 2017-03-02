@@ -1,23 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather|Open+Sans');
 
-/* color palette
-
-SFU palette
+/* Colour Palette - SFU palette
 
 SFU Red - Pantone 187 - #A6192E
 SFU Black - Pantone 425 - #54585A
 SFU Blue - Pantone 7705 - #007096
 SFU Gold - Pantone 7753 - #C1A01E
 
-Previous
-
-see https://coolors.co/f7ebcb-594f3b-776258-63535b-494850
-
-#f7ebcb -- champagne
-#594f3b -- umber
-#776258 -- deep taupe
-#63535b -- wenge
-#494850 -- quartz
 */
 
 body {
@@ -37,9 +26,10 @@ h6,
 .button.primary {
 	background-color: #007096;
 	font-size: 16px;
+	font-weight: bold;
 }
 .button.primary:hover {
-	background-color: #52444B;
+	background-color: #005977;
 	text-decoration: underline;
 }
 
@@ -49,11 +39,16 @@ footer {
 }
 
 .hero-panel {
-	background-image: url("../img/subtle_white_feathers.png");
+	background-image: url("../img/topography.png");
 }
 
 .hero-panel h1 {
 	font-size: 50px;
+}
+
+.hero-subtitle {
+	font-size: 30px;
+	font-family: 'Merriweather', serif;
 }
 
 .menu > li > a {
