@@ -57,4 +57,9 @@ footer {
 
 footer a {
 	font-size: 0.9em;
+	color: rgba(255,255,255, 0.8);
+}
+
+footer a span {
+	color: rgba(255,255,255, 0.5);
 }
