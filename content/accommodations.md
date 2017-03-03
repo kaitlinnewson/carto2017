@@ -3,7 +3,7 @@ title = "Accommodations"
 layout = "single-para"
 +++
 
-##Recommended Hotels
+### Recommended Hotels
 
 {{< embedmap 12rxb2OyXOcR_IS1kkngKzXFWTLQ >}}
 
