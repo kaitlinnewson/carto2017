@@ -40,6 +40,7 @@ footer {
 
 .hero-panel {
 	background-image: url("../img/topography.png");
+	height: 350px;
 }
 
 .hero-panel h1 {
