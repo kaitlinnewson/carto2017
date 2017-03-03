@@ -33,7 +33,7 @@ name = "Venue"
 url = "/venue"
 
 [[menu.main]]
-name = "accommodations"
+name = "Accommodations"
 url = "/accommodations"
 
 [[menu.main]]
