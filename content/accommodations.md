@@ -1,5 +1,5 @@
 +++
-title = "accommodations"
+title = "Accommodations"
 layout = "single-para"
 +++
 
