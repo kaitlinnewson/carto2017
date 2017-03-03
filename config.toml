@@ -34,7 +34,7 @@ url = "/venue"
 
 [[menu.main]]
 name = "Accommodations"
-url = "/accommodations"
+url = "/Accommodations"
 
 [[menu.main]]
 name = "Register"
