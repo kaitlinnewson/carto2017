@@ -9,7 +9,7 @@ layout = "single-para"
 
 | Name | Price | Notes |
 |------|-------|-------|
-|[Delta Hotels Vancouver Downtown Suites](http://www.marriott.com/hotels/travel/yvrdv-delta-hotels-vancouver-downtown-suites/)|$219 a night with corporate discount code|Contact [Julie Jones](jsj7@sfu.ca) for discount code|
+|[Delta Hotels Vancouver Downtown Suites](http://www.marriott.com/hotels/travel/yvrdv-delta-hotels-vancouver-downtown-suites/)|$219 a night with corporate discount code|Contact [Julie Jones](mailto:jsj7@sfu.ca) for discount code|
 |[The Victorian Hotel](http://victorianhotel.ca/)|Rooms from $155|Charming European-style hotel. Breakfast included.|
 |[Kingston Hotel](http://www.kingstonhotelvancouver.com/)|Rooms from $99|"Vancouver's best budget boutique hotel."|
 |[YWCA Hotel Vancouver](https://ywcavan.org/hotel)|Rooms from $86|Recently refurbished and a great budget option. Very clean.|
