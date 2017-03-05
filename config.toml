@@ -5,6 +5,7 @@ languageCode = "en-us"
 theme = "hugof"
 enableRobotsTXT = true
 SectionPagesMenu = ["main"]
+googleAnalytics = "UA-52735236-2"
 
 [params.meta]
 description = "The 51st Annual Conference of the Association of Canadian Map Libraries and Archives (ACMLA)"
