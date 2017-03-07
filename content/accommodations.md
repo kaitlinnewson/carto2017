@@ -3,7 +3,8 @@ title = "Accommodations"
 layout = "single-para"
 +++
 
-### Recommended Hotels
+### Recommended Lodging
+Vancouver is a very busy city, tourism-wise, especially during the summer months [(over 10 million people visited Vancouver in 2016!)](https://www.tourismvancouver.com/media/corporate-communications/vancouvers-tourism-industry-fast-facts/). As such, we urge you to book accommodations as soon as possible. In addition to the options on the interactive map below, conference attendees who work at institutions that are members of CAUBO (the Canadian Association of University Business Officers) have access to [preferential rates at selected Canadian hotels in 2017-2018](https://www.caubo.ca/discover-caubo/member-discounts/hotels/). You can check to see if your institution is a member of CAUBO on [this page](https://www.caubo.ca/discover-caubo/am-i-a-caubo-member/). 
 
 {{< embedmap 12rxb2OyXOcR_IS1kkngKzXFWTLQ >}}
 
