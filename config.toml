@@ -13,9 +13,10 @@ keywords = "libraries, archives, maps, cartography, data"
 
 [params.hero]
 herotitle = "Digital Revolutions | Analog Renaissance"
-herosubtitle = ""
 herodescription = "The 51st Annual Conference of the Association of Canadian Map Libraries and Archives (ACMLA) Conference hosted by Simon Fraser University, Vancouver, British Columbia"
 btnblue = "Registration Coming Soon!"
+logo = "img/Carto2017header.png"
+logo-alt = "Carto 2017 logo"
 
 [params.main]
 contentOneTitle = "Call for Papers"
