@@ -14,7 +14,7 @@ SFU Gold - Pantone 7753 - #C1A01E
 
 /* Retrieved from http://fontpro.com/neou-font-1906 */
 @font-face {
-  font-family: 'neou-thin';
+  font-family: 'neou';
   src: url('../fonts/neou-thin.eot');
   src: url('../fonts/neou-thin.eot?#iefix') format('embedded-opentype'), url('../fonts/neou-thin.woff') format('woff'), url('../fonts/neou-thin.ttf') format('truetype'), url('../fonts/neou-thin.svg#neou-thin') format('svg');
   font-weight: normal;
@@ -22,10 +22,10 @@ SFU Gold - Pantone 7753 - #C1A01E
 }
 
 @font-face {
-  font-family: 'neou-bold';
+  font-family: 'neou';
   src: url('../fonts/neou-bold.eot');
   src: url('../fonts/neou-bold.eot?#iefix') format('embedded-opentype'), url('../fonts/neou-bold.woff') format('woff'), url('../fonts/neou-bold.ttf') format('truetype'), url('../fonts/neou-bold.svg#neou-bold') format('svg');
-  font-weight: normal;
+  font-weight: bold;
   font-style: normal;
 }
 /* -- */
@@ -41,7 +41,8 @@ h4,
 h5,
 h6,
 .site-logo {
-	font-family: 'neou-bold', sans-serif;
+	font-family: 'neou', sans-serif;
+	font-weight: bold;
 }
 
 .button.primary {
