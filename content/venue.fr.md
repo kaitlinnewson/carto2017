@@ -1,5 +1,5 @@
 +++
-title = "Lieu"
+title = "Venue"
 layout = "single-para"
 +++
 

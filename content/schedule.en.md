@@ -1,5 +1,5 @@
 +++
-title = "Programme"
+title = "Schedule"
 layout = "single-para"
 +++
 

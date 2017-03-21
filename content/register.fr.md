@@ -1,5 +1,5 @@
 +++
-title = "Inscription"
+title = "Register"
 layout = "single-para"
 +++
 

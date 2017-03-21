@@ -60,9 +60,43 @@ nav > div > div > a > h3 {
 	text-decoration: underline;
 }
 
-.nav-desktop,
-footer {
+.top-bar .wrapper {
+	max-width: 80%;
+}
+
+.nav-desktop {
 	background-color: #A6192E;
+}
+
+.menu > li > a {
+	white-space: nowrap;
+}
+
+.lang-block {
+	font-weight: bold;
+	color: #fff;
+	padding-left: 20px;
+}
+
+@media screen and (min-width: 892px) and (max-width: 979px) {
+	.top-bar .wrapper {
+		max-width: 100%;
+	}
+}
+
+@media screen and (min-width: 640px) and (max-width: 891px) {
+	.site-logo {
+		display: none;
+	}
+	.lang-block {
+		padding-left: 0px;
+	}
+	.nav-desktop {
+		display: inherit;
+	}
+	.top-bar-right {
+		float: none;
+	}
 }
 
 .hero-panel {
@@ -94,6 +128,10 @@ footer {
     left: 0;
     width: 100% !important;
     height: 100% !important;
+}
+
+footer {
+	background-color: #A6192E;
 }
 
 footer a {
