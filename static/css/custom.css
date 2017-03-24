@@ -101,7 +101,7 @@ nav > div > div > a > h3 {
 
 .hero-panel {
 	background-image: url("../img/topography.png");
-	height: 450px;
+	height: 425px;
 }
 
 .hero-panel h1 {
@@ -110,6 +110,10 @@ nav > div > div > a > h3 {
 
 .header-img {
 	padding-bottom: 15px;
+}
+
+.main-content {
+	padding: 40px 0px;
 }
 
 .menu > li > a {
