@@ -33,8 +33,8 @@ copy = "2017 ACMLA-ACACC"
 name = "Program"
 url = "/schedule"
 [[Languages.en.menu.main]]
-name = "Venue"
-url = "/venue"
+name = "Local Information"
+url = "/localinfo"
 [[Languages.en.menu.main]]
 name = "Accommodations"
 url = "/accommodations"
