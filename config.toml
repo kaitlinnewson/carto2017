@@ -57,15 +57,13 @@ herotitle = "Révolution numérique | Renaissance analogique"
 herodescription = "51e colloque annuel de l’Association des cartothèques et archives cartographiques du Canada (ACACC). Colloque organisé par l’Université Simon Fraser, Vancouver, Colombie-Britannique"
 btnblue = "Registration Coming Soon!"
 logo = "img/Carto2017header.png"
-logo-alt = "Carto 2017 logo"
-
+logoalt = "Carto 2017 logo"
 [Languages.fr.main]
 contentOneTitle = "Révolution numérique | Renaissance analogique"
 contentOneBody = "La révolution numérique a entraîné des changements considérables tant pour les utilisateurs que pour les administrateurs de l'information cartographique et géospatiale : les progrès des technologies d'imagerie ont facilité la migration numérique massive des collections physiques; la montée de l'information cartographique et géospatiale « née numérique » a transformé la façon dont les collections sont développées et utilisées; et l'élargissement des mandats de libre accès change activement les attentes en matière de gestion et de diffusion de ces données. Bien que cette « transition numérique » ait introduit de nouvelles possibilités de collecte, d'enquête et de partage, elle a également présenté une variété de nouveaux défis à relever. De plus, l'expansion des collections numériques n'a pas laissé obsolètes leurs homologues analogiques. Elle fournit plutôt une occasion de réflexion critique sur le rôle des collections physiques et leur valeur persistante pour la recherche, la pédagogie et l'engagement du public. <br><br>Les membres du comité de programmation sont :<br><ul><li>Francine Berish, Queen’s University</li><li>Jason Brodeur, McMaster University</li><li>Sue McKee, University of Calgary</li><li>Andrew Nicholson, University of Toronto Mississauga</li><li>Sarah Simpkin, Université d’Ottawa</li><li>Wenonah Van Heyst, Brandon University</li></ul>"
 [Languages.fr.footer]
 email = "webmaster@acmla-acacc.ca"
 copy = "2017 ACMLA-ACACC"
-
 [[Languages.fr.menu.main]]
 name = "Programme"
 url = "/fr/schedule"
