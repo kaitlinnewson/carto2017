@@ -19,6 +19,12 @@
 			{{end}}
 		</div>
 
+		<div class="column">
+			<a href="{{ .Site.Params.footer.footlink }}">
+				<img src="{{ .Site.Params.footer.footlogo | relURL }}" alt="{{ .Site.Params.footer.footlogoalt }}" class="img-responsive footer-img">
+			</a>
+		</div>
+
 	</div>
 </footer> {{ "<!-- END FOOTER -->" | safeHTML }}
 

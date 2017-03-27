@@ -146,3 +146,7 @@ footer a {
 footer a span {
 	color: rgba(255,255,255, 0.5);
 }
+
+.footer-img {
+	padding-top: 3px;
+}

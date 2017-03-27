@@ -8,6 +8,7 @@ googleAnalytics = "UA-52735236-2"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
+
 [Languages]
 [Languages.en]
 languageCode = "en-us"
@@ -29,6 +30,9 @@ contentOneBody = "The digital revolution has brought about considerable change f
 [Languages.en.footer]
 email = "webmaster@acmla-acacc.ca"
 copy = "2017 ACMLA-ACACC"
+footlogo = "img/sfu-white.png"
+footlogoalt = "Simon Fraser University"
+footlink = "http://www.sfu.ca/"
 [[Languages.en.menu.main]]
 name = "Program"
 url = "/schedule"
@@ -64,6 +68,9 @@ contentOneBody = "La révolution numérique a entraîné des changements consid�
 [Languages.fr.footer]
 email = "webmaster@acmla-acacc.ca"
 copy = "2017 ACMLA-ACACC"
+footlogo = "img/sfu-white.png"
+footlogoalt = "Simon Fraser University"
+footlink = "http://www.sfu.ca/"
 [[Languages.fr.menu.main]]
 name = "Programme"
 url = "/fr/schedule"
