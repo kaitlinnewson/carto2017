@@ -1,6 +1,6 @@
 +++
-title = "Speakers"
+title = "Conférenciers"
 layout = "single-para"
 +++
 
-Coming soon!
+### Disponible bientôt!
