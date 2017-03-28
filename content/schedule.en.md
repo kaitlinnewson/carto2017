@@ -3,4 +3,4 @@ title = "Schedule"
 layout = "single-para"
 +++
 
-### Program Coming Soon!
+### Programme disponible bientôt!
