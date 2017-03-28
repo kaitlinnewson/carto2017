@@ -1,6 +1,6 @@
 +++
-title = "Calendrier"
+title = "Schedule"
 layout = "single-para"
 +++
 
-### Programme disponible bientôt!
+### Program coming soon!
