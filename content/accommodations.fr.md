@@ -25,4 +25,4 @@ Vancouver est une ville très animée et touristique, surtout pendant les mois d
 |[Skwachàys Lodge](http://skwachays.com/)|250 $/chambre par nuit et plus|Premier hôtel artistique autochtone du Canada. Petit hôtel-boutique. Tres unique.|
 |[Windsor Guest House](http://www.windsor.beautifulguesthouse.ca/)|135 $/chambre par nuit et plus|Petit déjeuner inclus.|
 |[Maple Beach B&B](http://www.maplehouse.com/home.html)|130 $/chambre par nuit et plus|       |
-|[Between Friends B&B](http://www.betweenfriends-vancouver.com/)|80 $/chambre par nuit et plus|       |
+|[Between Friends B&B](http://www.betweenfriends-vancouver.com/)|80 $/chambre par nuit et plus| |
