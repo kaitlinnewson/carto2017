@@ -1,5 +1,5 @@
 +++
-title = "Schedule"
+title = "Calendrier"
 layout = "single-para"
 +++
 
