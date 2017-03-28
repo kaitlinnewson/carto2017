@@ -3,26 +3,26 @@ title = "Accommodations"
 layout = "single-para"
 +++
 
-### Recommended Lodging
-Vancouver is a very busy city, tourism-wise, especially during the summer months [(over 10 million people visited Vancouver in 2016!)](https://www.tourismvancouver.com/media/corporate-communications/vancouvers-tourism-industry-fast-facts/). As such, we urge you to book accommodations as soon as possible. In addition to the options on the interactive map below, conference attendees who work at institutions that are members of CAUBO (the Canadian Association of University Business Officers) have access to [preferential rates at selected Canadian hotels in 2017-2018](https://www.caubo.ca/discover-caubo/member-discounts/hotels/). You can check to see if your institution is a member of CAUBO on [this page](https://www.caubo.ca/discover-caubo/am-i-a-caubo-member/). 
+### Hébergement recommandé
+Vancouver est une ville très animée et touristique, surtout pendant les mois d'été [(plus de 10 millions de personnes ont visité Vancouver en 2016!)](https://www.tourismvancouver.com/media/corporate-communications/vancouvers-tourism-industry-fast-facts/). En tant que tel, nous vous invitons à réserver vos chambres dès que possible. En plus des options sur la carte interactive ci-dessous, les participants travaillant pour des établissements qui sont membres de l'ACPAU (l'Association canadienne du personnel administratif universitaire) ont accès à des [tarifs préférentiels dans certains hôtels canadiens en 2017-2018](https://www.caubo.ca/discover-caubo/member-discounts/hotels/). Vous pouvez vérifier si votre institution est membre de l'ACPAU sur [cette page](https://www.caubo.ca/discover-caubo/am-i-a-caubo-member/).
 
 {{< embedmap 12rxb2OyXOcR_IS1kkngKzXFWTLQ >}}
 
-| Name | Price | Notes |
+| Nom | Prix | Remarques |
 |------|-------|-------|
-|[Delta Hotels Vancouver Downtown Suites](http://www.marriott.com/hotels/travel/yvrdv-delta-hotels-vancouver-downtown-suites/)|$219 a night with corporate discount code|Contact [Julie Jones](mailto:jsj7@sfu.ca) for discount code|
-|[The Victorian Hotel](http://victorianhotel.ca/)|Rooms from $155|Charming European-style hotel. Breakfast included.|
-|[Kingston Hotel](http://www.kingstonhotelvancouver.com/)|Rooms from $99|"Vancouver's best budget boutique hotel."|
-|[YWCA Hotel Vancouver](https://ywcavan.org/hotel)|Rooms from $86|Recently refurbished and a great budget option. Very clean.|
-|[Days Inn Vancouver Downtown](http://www.daysinnvancouver.com/)|Rooms from $179|       |
-|[Ramada Limited Vancouver Downtown](http://bit.ly/2lMffgc)|Rooms from $242|       |
-|[Ashby House Bed & Breakfast](http://ashbyhousebb.com/)|Rooms from $150 a night|       |
-|[The Sylvia Hotel](https://sylviahotel.com/)|Rooms from $179|       |
-|[The Buchan Hotel](http://www.buchanhotel.com/)|Rooms from $109|Small walk-up hotel very close to the beach and Stanley Park|
-|[Lord Stanley Suites on the Park ](http://www.lordstanley.com/about-us/)|Suites from $249|Boutique-style apartment hotel right by Stanley Park. Includes breakfast.|
-|[Times Square Suites Hotel](http://www.timessquaresuites.com/)|Suites from $215|Close to Stanley Park and beaches.|
-|[Bee & Thistle Guest House](http://www.beeandthistle.ca/)|Rooms from $165|B & B in a vibrant neighbourhood.|
-|[Skwachàys Lodge](http://skwachays.com/)|Rooms from $250|Canada’s first Aboriginal arts hotel. Small boutique hotel. Very unique.|
-|[Windsor Guest House](http://www.windsor.beautifulguesthouse.ca/)|Rooms from $135|Includes breakfast.|
-|[Maple Beach B&B](http://www.maplehouse.com/home.html)|Rooms from $130|       |
-|[Between Friends B&B](http://www.betweenfriends-vancouver.com/)|Rooms from $80|       |
+|[Delta Hotels Vancouver Downtown Suites](http://www.marriott.com/hotels/travel/yvrdv-delta-hotels-vancouver-downtown-suites/)|219 $/chambre par nuit et plus avec code de réduction | Contactez [Julie Jones](mailto:jsj7@sfu.ca) pour code de réduction|
+|[The Victorian Hotel](http://victorianhotel.ca/)|155 $/chambre par nuit et plus|Charming European-style hotel. Petit déjeuner inclus.|
+|[Kingston Hotel](http://www.kingstonhotelvancouver.com/)|99 $/chambre par nuit et plus|"Vancouver's best budget boutique hotel."|
+|[YWCA Hotel Vancouver](https://ywcavan.org/hotel)|86 $/chambre par nuit et plus|Recently refurbished and a great budget option. Very clean.|
+|[Days Inn Vancouver Downtown](http://www.daysinnvancouver.com/)|179 $/chambre par nuit et plus|       |
+|[Ramada Limited Vancouver Downtown](http://bit.ly/2lMffgc)|242 $/chambre par nuit et plus|       |
+|[Ashby House Bed & Breakfast](http://ashbyhousebb.com/)|150 $/chambre par nuit et plus|       |
+|[The Sylvia Hotel](https://sylviahotel.com/)|179 $/chambre par nuit et plus|       |
+|[The Buchan Hotel](http://www.buchanhotel.com/)|109 $/chambre par nuit et plus|Small walk-up hotel very close to the beach and Stanley Park|
+|[Lord Stanley Suites on the Park ](http://www.lordstanley.com/about-us/)|249 $/chambre par nuit et plus|Boutique-style apartment hotel right by Stanley Park. Petit déjeuner inclus.|
+|[Times Square Suites Hotel](http://www.timessquaresuites.com/)|215 $/chambre par nuit et plus|Close to Stanley Park and beaches.|
+|[Bee & Thistle Guest House](http://www.beeandthistle.ca/)|165 $/chambre par nuit et plus|B & B in a vibrant neighbourhood.|
+|[Skwachàys Lodge](http://skwachays.com/)|250 $/chambre par nuit et plus|Canada’s first Aboriginal arts hotel. Small boutique hotel. Very unique.|
+|[Windsor Guest House](http://www.windsor.beautifulguesthouse.ca/)|135 $/chambre par nuit et plus|Petit déjeuner inclus.|
+|[Maple Beach B&B](http://www.maplehouse.com/home.html)|130 $/chambre par nuit et plus|       |
+|[Between Friends B&B](http://www.betweenfriends-vancouver.com/)|80 $/chambre par nuit et plus|       |
