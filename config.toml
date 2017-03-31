@@ -76,7 +76,7 @@ name = "Programme"
 url = "/fr/schedule"
 [[Languages.fr.menu.main]]
 name = "Lieu"
-url = "/fr/venue"
+url = "/fr/localinfo"
 [[Languages.fr.menu.main]]
 name = "Hébergement"
 url = "/fr/accommodations"
