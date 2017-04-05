@@ -36,18 +36,23 @@ footlink = "http://www.lib.sfu.ca/"
 [[Languages.en.menu.main]]
 name = "Program"
 url = "/schedule"
+weight = 1
 [[Languages.en.menu.main]]
 name = "Local Information"
 url = "/localinfo"
+weight = 2
 [[Languages.en.menu.main]]
 name = "Accommodations"
 url = "/accommodations"
+weight = 3
 [[Languages.en.menu.main]]
 name = "Register"
 url = "/register"
+weight = 4
 [[Languages.en.menu.main]]
 name = "About"
 url = "/about"
+weight = 5
 
 [Languages.fr]
 languageCode = "fr"
@@ -74,15 +79,20 @@ footlink = "http://www.lib.sfu.ca/"
 [[Languages.fr.menu.main]]
 name = "Programme"
 url = "/fr/schedule"
+weight = 1
 [[Languages.fr.menu.main]]
 name = "Lieu"
 url = "/fr/localinfo"
+weight = 2
 [[Languages.fr.menu.main]]
 name = "Hébergement"
 url = "/fr/accommodations"
+weight = 3
 [[Languages.fr.menu.main]]
 name = "Inscription"
 url = "/fr/register"
+weight = 4
 [[Languages.fr.menu.main]]
 name = "À propos"
 url = "/fr/about"
+weight = 5
