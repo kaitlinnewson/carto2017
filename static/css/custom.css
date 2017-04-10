@@ -50,11 +50,16 @@ nav > div > div > a > h3 {
 	margin-bottom: 0rem;
 }
 
+.button {
+	border-radius: 5px;
+}
+
 .button.primary {
 	background-color: #007096;
 	font-size: 16px;
 	font-weight: bold;
 }
+
 .button.primary:hover {
 	background-color: #005977;
 	text-decoration: underline;
@@ -120,12 +125,28 @@ nav > div > div > a > h3 {
 	font-size: 16px;
 }
 
+.program .button {
+	background-color: #f1f1f1;
+	font-size: 1rem;
+	color: #000;
+	border-bottom: 4px solid transparent;
+}
+
+.program .button:hover {
+	border-bottom: 4px solid #abb2b5;
+}
+
+.program .active {
+	border-bottom: 4px solid #abb2b5;
+}
+
 .google-mymaps {
     position: relative;
-    padding-bottom: 75%; // This is the aspect ratio
+    padding-bottom: 75%;
     height: 0;
     overflow: hidden;
 }
+
 .google-mymaps iframe {
     position: absolute;
     top: 0;

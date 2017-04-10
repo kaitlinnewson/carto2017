@@ -1,4 +1,5 @@
-baseurl = "https://acmla-acacc.ca/carto2017/"
+# baseurl = "https://acmla-acacc.ca/carto2017/"
+baseurl = "http://localhost/carto2017/public/"
 author = "ACMLA-ACACC"
 title = "Carto 2017"
 theme = "hugof"
@@ -7,7 +8,6 @@ SectionPagesMenu = ["main"]
 googleAnalytics = "UA-52735236-2"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
-
 
 [Languages]
 [Languages.en]
@@ -64,7 +64,7 @@ description = "51e colloque annuel de l’Association des cartothèques et archi
 [Languages.fr.hero]
 herotitle = "Révolution numérique | Renaissance analogique"
 herodescription = "51e colloque annuel de l’Association des cartothèques et archives cartographiques du Canada (ACACC). Colloque organisé par l’Université Simon Fraser, Vancouver, Colombie-Britannique"
-btnblue = "Registration Coming Soon!"
+btnblue = "Inscription à venir!"
 logo = "img/Carto2017header.png"
 logoalt = "Carto 2017 logo"
 [Languages.fr.main]

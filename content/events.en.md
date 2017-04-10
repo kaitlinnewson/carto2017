@@ -1,9 +1,16 @@
 +++
-title = "Events"
+title = "Program"
 layout = "single-para"
 +++
 
-### Schedule of Events
+<div class="program expanded button-group">
+  <a href="../schedule" class="button">Schedule</a>
+  <a href="../speakers" class="button">Speakers</a>
+  <a href="../events" class="button active">Events</a>
+</div>
+<br />
+
+### Events
 
 | Event | Date | Time (PDT) | Location|
 |------|-------|-------|-------|

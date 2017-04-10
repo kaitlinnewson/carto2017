@@ -1,6 +1,15 @@
 +++
-title = "Calendrier"
+title = "Programme"
 layout = "single-para"
 +++
 
-### Programme disponible bientôt!
+<div class="program expanded button-group">
+  <a href="../schedule" class="button active">Calendrier</a>
+  <a href="../speakers" class="button">Conférenciers</a>
+  <a href="../events" class="button">Evénements</a>
+</div>
+<br />
+
+### Calendrier
+
+Programme disponible bientôt!
