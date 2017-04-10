@@ -12,5 +12,3 @@ The conference banquet will be held at the SFU [Burnaby Campus](https://www.sfu.
 ### Maps and Directions
 
 An interactive campus map may be found through the SFU website [Maps + Directions page](https://www.sfu.ca/campuses/maps-and-directions/burnaby-map.html)
-
-### Food
