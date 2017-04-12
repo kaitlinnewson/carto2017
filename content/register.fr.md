@@ -3,4 +3,8 @@ title = "Register"
 layout = "single-para"
 +++
 
-Earlybird registration will open April 2nd, 2017. Stay tuned!
+| Event | Date |
+|------|-------|
+|L'inscription s'ouvre|Lundi 17 avril 2017|
+|Date limite pour la demande de financement de voyage|Lundi 15 mai 2017|
+|Early-bird registration ends|Mercredi 31 mai 2017|
