@@ -12,7 +12,7 @@ layout = "single-para"
 
 ### Confirmed Speakers
 
-#### Rebecca Bartlet, Carleton University
+#### Rebecca Bartlett, Carleton University
 #### Trevor Ford, Wilfrid Laurier University
 #### Gordon Beck, McMaster University
 #### Jay Brodeur, McMaster University
