@@ -12,4 +12,13 @@ layout = "single-para"
 
 ### Conférenciers
 
-Disponible bientôt!
+#### Rebecca Bartlet, Carleton University
+#### Trevor Ford, Wilfrid Laurier University
+#### Gordon Beck, McMaster University
+#### Jay Brodeur, McMaster University
+#### Deena Yanofsky, McGill University
+#### Nathalie Cooke, McGill University
+#### Julie Jones, Simon Fraser University
+#### Rachel Bergquist, University of British Columbia
+#### Francine Berish, Queens University
+#### Marcel Fortin, University of Toronto
