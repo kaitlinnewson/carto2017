@@ -21,4 +21,6 @@ layout = "single-para"
 |ACMLA AGM|Thursday, 22-June|1200-1330|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html)|
 |Banquet|Thursday, 22-June|1730-2000 (approx.)|[SFU Burnaby](http://www.sfu.ca/campuses/burnaby.html)|
 |Conference, Day 3|Friday, 23-June|0930-1200|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html)|
-|Field Trip|Friday, 23-June|1330-1530 (approx.)|TBA|
+|Field Trip|Friday, 23-June|1330-1530 (approx.)| [City of Vancouver Archives*](http://vancouver.ca/your-government/city-of-vancouver-archives.aspx) & [Museum of Vancouver](http://www.museumofvancouver.ca/)|
+
+*$11 admission fee per person, plus additional transportation costs.
