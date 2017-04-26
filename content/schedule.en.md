@@ -12,22 +12,26 @@ layout = "single-para"
 
 # Tuesday, 20-June
 Location: SFU Vancouver - Computer Lab 1350
-## 0830 - 0900 Registration 
-## 0900 - 1600 Pre-Conference Workshop
-### Building "deep" maps of the Great War: Critical Information and Modern Approaches for Developing Integrated, Interactive Map Exhibits Using Historical Resources
-Rebecca Bartlett, Carleton University  
-Gordon Beck, McMaster University  
-Jason Brodeur, McMaster University  
-Trevor Ford, Wilfrid Laurier University  
+
+|Time  | Speaker(s) | Title | Notes |
+|------------| -----------| -----------|-----------|
+|0830 - 0900|--|Registration|Register outside Room 1350|
+|0900 - 1600|Rebecca Bartlett, Carleton University, Gordon Beck & Jason Brodeur, McMaster University, Trevor Ford, Wilfrid Laurier University |Workshop: Building "deep" maps of the Great War||
+|1830|--|Icebreaker|[TAPshack - Coal Harbour, 1199 W Cordova St](http://tapshack.ca/menu.html)|
 
 # Wednesday, 21-June
 Location: SFU Vancouver - 1400-1420 Segal Centre 
-## 0830 - 0900 Registration 
-## 0900 - Opening Remarks & Welcome
-## 0915 - Keynote Address
-### Indigineous Mapping in Canada
-Chris Ames, The Firelight Group
-## 1015 - Morning Break
+|Time  | Speaker(s) | Title |
+|------------| -----------| -----------|
+|0830 - 0900|--|Registration|Register outside Room 1400-1420|
+|0900|--|Opening Remarks & Welcome|
+|0915|Chris Ames, The Firelight Group|Keynote Address: Indigeneous Mapping in Canada|
+|1015|--|Morning Break|
+||||
+||||
+
+
+## 
 ## 1030 - Presentation Session 01: Integrating with Digital and Spatial Humanities
 ### Spatial Humanities: Collaborating, Facilitating, Supporting
 Julie Jones, Simon Fraser University
