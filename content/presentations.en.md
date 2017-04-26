@@ -77,7 +77,7 @@ It is one thing to scan, georeference and overlay a fire insurance plan onto a c
 ### Speaker
 Francine Berish, Queen's University 
 
-## 1530 Roundtable Discussion
+## Roundtable Discussion
 What has kept you awake at night this year? What has you inspired and excited?
 This session will provide participants an opportunity to engage in informal discussion around one of a number of emerging issues in map libraries and archives. Attendees will collaborate in groups to discuss challenges and opportunities in these areas, with the purpose of improving understanding, developing potential solutions and, at the end of the session, communicating group discussion outcomes to the larger audience.
 ### Facilitator
