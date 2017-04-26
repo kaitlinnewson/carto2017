@@ -29,6 +29,9 @@ Jason Brodeur, McMaster University
 Trevor Ford, Wilfrid Laurier University  
 
 # Wednesday, 22-June
+
+## Keynote Address: Indigenous Mapping in Canada 
+
 ## Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph 
 How can spatial exploration and mapping help you develop new understandings and unique perspectives of fictional and historical material? 
  
@@ -78,9 +81,6 @@ This session will provide participants an opportunity to engage in informal disc
 Julie Jones, Simon Fraser University
 
 # Thursday, 23-June
-Location: SFU Vancouver - 1400-1420 Segal Centre
-## 0830 - 0900 Registration 
-Location: SFU Vancouver - 1400-1420 Segal Centre
 ## 0900 Keynote
 
 ## 1000 Morning Break
