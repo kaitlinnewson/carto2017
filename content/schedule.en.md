@@ -28,12 +28,12 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 |0900|--|Opening Remarks & Welcome|
 |0915|Chris Ames, The Firelight Group|Keynote Address: Indigeneous Mapping in Canada|
 |1015|--|Morning Break|
-|1030<td colspan="2" align="center">**Presentation Session 01: Supporting Digital and Spatial Humanities**</td>
+|1030<td colspan="2" align="center">**Presentation Session 01: Supporting Digital and Spatial Humanities**</td>|
 ||Julie Jones, Simon Fraser University|Spatial Humanities: Collaborating, Facilitating, Supporting|
 ||Quin Shirk-Luckett & Teresa Lewitzky, University of Guelph|Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph|
 ||Marcel Fortin, University of Toronto|HGIS Using ArcGIS Online|
 ||Deena Yanofsky & Nathalie Cooke, McGill University|GIS Lite & Online Visualization Tools in the Humanities Classroom: Tales From the Front Lines of a Librarian-Faculty Collaboration|
-|1215|<td colspan="2" align="center">**Lunch (on own)**</td>
+|1215<td colspan="2" align="center">**Lunch (on own)**</td>
 |1345<td colspan="2" align="center">**Presentation Session 02: Digitization and Digital Mapping**</td>
 ||Martin Gingras, Surveyor General Branch, Natural Resources Canada|Transformation of Legal Canada Lands Surveys Records to Authoritative Digital Records|
 ||Rebecca Bartlett, Carleton University & Trevor Ford, Wilfrid Laurier University|Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge|
