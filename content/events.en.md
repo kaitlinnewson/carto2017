@@ -21,4 +21,4 @@ layout = "single-para"
 |ACMLA AGM|Thursday, 22-June|1200-1330|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html) - 1400-1420 Segal Centre|
 |Banquet|Thursday, 22-June|1730-2000 (approx.)|[SFU Burnaby](http://www.sfu.ca/campuses/burnaby.html)|
 |Conference, Day 3|Friday, 23-June|0930-1200|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html) - 1700 Labatt Hall|
-|Field Trip|Friday, 23-June|1330-1530 (approx.)| Private boat tour of False Creek with drop off at Granville Island Public Market for lunch. Tour of the [City of Vancouver Archives](http://vancouver.ca/your-government/city-of-vancouver-archives.aspx) and a visit to the [Museum of Vancouver](http://www.museumofvancouver.ca/). Cost: $21.75, including all transportation (but not lunch!).
+|Field Trip|Friday, 23-June|1330-1530 (approx.)| Private boat tour of False Creek with drop off at Granville Island Public Market for lunch. Tour of the [City of Vancouver Archives](http://vancouver.ca/your-government/city-of-vancouver-archives.aspx) and a visit to the [Museum of Vancouver](http://www.museumofvancouver.ca/). Cost: $21.75, including all transportation (but not lunch!).|
