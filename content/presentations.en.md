@@ -30,7 +30,10 @@ Trevor Ford, Wilfrid Laurier University
 
 # Wednesday, 22-June
 
-## Keynote Address: Indigenous Mapping in Canada 
+## Keynote Address: Indigenous Mapping in Canada
+Abstract coming soon.
+### Speaker 
+Chris Ames, The Firelight Group
 
 ## Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph 
 How can spatial exploration and mapping help you develop new understandings and unique perspectives of fictional and historical material? 
