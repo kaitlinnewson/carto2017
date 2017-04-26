@@ -30,27 +30,26 @@ Finding and understanding materials from the Great War
 Tackling common issues in HGIS
 Creating geospatial information from historical materials
 Developing ‘deep maps’: An introduction to a variety of platforms for creating interactive map exhibits.
-# Wednesday, 22-June, 2017
+# Wednesday, 22-June
 ## 0830 - 0900 Registration 
 Location: SFU Vancouver - 1400-1420 Segal Centre 
-## 0900 - 0915 Opening Remarks & Welcome
-## 0915 - 1015 Keynote 
+## 0900 - Opening Remarks & Welcome
+## 0915 - Keynote 
 ### Title
 ### Presenter
 ### Abstract
-## 1015 - 1030 Morning Break
-## 1030 - 1215 Presentation Session 01
-### 01-01 Title 
-### Presenter
-### Abstract
+## 1015 - Morning Break
+## 1030 - Presentation Session 01: Integrating with Digital and Spatial Humanities
+### Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph 
+#### Quin Shirk-Luckett, Teresa Lewitzky
 ### 01-02 Title 
 ### Presenter
 ### Abstract
 ### 01-03 Title 
 ### Presenter
 ### Abstract
-## 1215 - 1345 Lunch (on own)
-## 1345 - 1515 Presentation Session 02
+## 1215 - Lunch (on own)
+## 1345 - Presentation Session 02
 ### Title 
 ### Presenter
 ### Abstract
@@ -65,7 +64,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 ### Facilitator 
 Julie Jones, Simon Fraser University
 
-# Thursday, 23-June, 2017
+# Thursday, 23-June
 Location: SFU Vancouver - 1400-1420 Segal Centre
 ## 0830 - 0900 Registration 
 Location: SFU Vancouver - 1400-1420 Segal Centre
@@ -103,7 +102,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 Jason Brodeur, McMaster University
 
 
-# Friday, 24-June, 2017
+# Friday, 24-June
 Location: SFU Vancouver - 1400-1420 Segal Centre
 ## 0900 - 0930 Registration 
 Location: SFU Vancouver - 1700 Labatt Hall
