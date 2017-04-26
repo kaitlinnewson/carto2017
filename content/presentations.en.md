@@ -84,22 +84,28 @@ This session will provide participants an opportunity to engage in informal disc
 Julie Jones, Simon Fraser University
 
 # Thursday, 23-June
-## 0900 Keynote
+## 0900 Keynote Address: TBA
+### Speaker
+Coming Soon
 
-## 1000 Morning Break
-## 1015 Presentation Session 03: Considering Map Collections in the Physical and Digital
-### Time to Talk: Seeing, Holding and Sharing Print Map Collections
+## Time to Talk: Seeing, Holding and Sharing Print Map Collections
+With the rise of the so-called “digital revolution” and in the age of “born digital,” academic libraries face challenges regarding their existing print map collections. Some universities have opted to resolve library space issues by deaccessioning cartographic materials, or to place their maps in permanent dark storage. On the other hand, print maps are enduring documentary sources of the public record; there is much to be gained from studying a print map rather than its digitised counterpart. This creates a dilemma between seeing, holding, and sharing print maps. Institutional collaboration and enhanced partnerships can preclude the loss of valuable collections and last copy materials on a large scale. Our 20-minute presentation focuses on three universities in British Columbia (Simon Fraser University, University of Victoria, and University of British Columbia) and their respective print map dilemmas.We outline some of the major challenges of print map collection maintenance, and how this impacts decision-making processes in regards to sharing and accessing print maps. We conclude by asking, will shared print map collections become the new normal for academic libraries? Is it possible to initiate effective methods for the academic community to see and hold print map collections that are shared across institutions and regions? We aim to spark conversation between map librarians about facilitating better access for hands-on collection use. It is time to talk about the future of print map collections in a collaborative shared framework amongst institutions.
+### Speaker
 Rachel Bergquist, Emily Sugerman, University of British Columbia
-### OK, We’ve Scanned the Maps--What Now? Reflecting on Five Years of Map Digitization
+
+## OK, We’ve Scanned the Maps--What Now? Reflecting on Five Years of Map Digitization
+With the purchase of a large-format scanner in early 2012, the McMaster University Library’s Lloyd Reeds Map Collection embarked on a self-supported digitization program that aimed to increase access to and use of its special and local historical collections. Through the dedicated work of staff and students during the past five years, over 7500 maps, plans, and aerial photos have been digitized, and nearly 10000 total items have been made discoverable, and freely and openly accessible through the Library’s [Digital Archive](http://digitalarchive.mcmaster.ca/maps). As the digitization program approaches significant duration- and size-related milestones, it presents an opportunity to reflect on its successes, challenges, and lessons-learned, as well as discuss the broader questions that will direct its future development. Through this talk, we aim to explore the value of accessible, digitized map collections, while simultaneously critically assessing their place alongside physical materials in research, teaching, and public engagement.
+### Speakers
 Gordon Beck, Jason Brodeur, McMaster University
-### Transformation of legal Canada Lands Surveys Records to authoritative digital records
+
+### Transformation of legal Canada Lands Surveys Records to Authoritative Digital Records
 Martin Gingras, Surveyor General Branch, Natural Resources Canada
 ## 1200 ACMLA-ACACC Annual General Meeting
 Boxed lunch provided to ACMLA Members
 ## 1400 Presentation Session 04
 ### Mapping en Plein Air: Painting the Way to Experiential Learning
 Francine Berish, Queen's University 
-### Vimy at 100: New methods for understanding and communicating the battle of Vimy Ridge
+### Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge
 Rebecca Bartlett, Carleton University
 Trevor Ford, Wilfrid Laurier University
 ### Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project 
