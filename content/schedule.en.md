@@ -89,7 +89,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 ### Abstract
 
 ## 1200 - 1400 ACMLA-ACACC Annual General Meeting
-## 1400 - 1530 Presentation Session 02
+## 1400 - 1530 Presentation Session 04
 ### Title 
 ### Presenter
 ### Abstract
@@ -108,6 +108,6 @@ Jason Brodeur, McMaster University
 
 # Friday, 24-June, 2017
 Location: SFU Vancouver - 1400-1420 Segal Centre
-
-## 0830 - 0900 Registration 
+## 0900 - 0930 Registration 
 Location: SFU Vancouver - 1700 Labatt Hall
+## 0930 - 1100 Presentation Session 05 
