@@ -35,7 +35,7 @@ Julie Jones, Simon Fraser University
 Quin Shirk-Luckett, Teresa Lewitzky, University of Guelph
 ### HGIS Using ArcGIS Online
 Marcel Fortin, University of Toronto
-### GIS lite & online visualization tools in the humanities classroom: Tales from the front lines of a librarian-faculty collaboration
+### GIS lite & Online Visualization Tools in the Humanities Classroom: Tales From the Front Lines of a Librarian-Faculty Collaboration
 Deena Yanofsky, Nathalie Cooke, McGill University
 ## 1215 - Lunch (on own)
 ## 1345 - Presentation Session 02: Digitization and Digital Mapping
