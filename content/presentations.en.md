@@ -29,15 +29,6 @@ Developing ‘deep maps’: An introduction to a variety of platforms for creati
 * Trevor Ford, Wilfrid Laurier University
 
 # Wednesday, 22-June
-## 0830 - 0900 Registration 
-Location: SFU Vancouver - 1400-1420 Segal Centre 
-## 0900 - Opening Remarks & Welcome
-## 0915 - Keynote 
-### Title
-### Presenter
-### Abstract
-## 1015 - Morning Break
-## 1030 - Presentation Session 01: Integrating with Digital and Spatial Humanities
 ### Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph 
 Quin Shirk-Luckett, Teresa Lewitzky, University of Guelph
 ### Spatial Humanities: Collaborating, Facilitating, Supporting
