@@ -25,8 +25,8 @@ Trevor Ford, Wilfrid Laurier University
 ## 0830 - 0900 Registration 
 Location: SFU Vancouver - 1400-1420 Segal Centre 
 ## 0900 - Opening Remarks & Welcome
-## 0915 - Keynote 
-
+## 0915 - Keynote Address
+Chris Ames
 ## 1015 - Morning Break
 ## 1030 - Presentation Session 01: Integrating with Digital and Spatial Humanities
 ### Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph 
@@ -53,7 +53,7 @@ Facilitator: Julie Jones, Simon Fraser University
 Location: SFU Vancouver - 1400-1420 Segal Centre
 ## 0830 - 0900 Registration 
 Location: SFU Vancouver - 1400-1420 Segal Centre
-## 0900 Keynote
+## 0900 Keynote Address
 ## 1000 Morning Break
 ## 1015 Presentation Session 03: Considering Map Collections in the Physical and Digital
 ### Time to Talk: Seeing, Holding and Sharing Print Map Collections
