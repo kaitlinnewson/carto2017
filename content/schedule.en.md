@@ -43,6 +43,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 
 # Thursday, 22-June
 Location: SFU Vancouver - 1400-1420 Segal Centre
+
 |Time      | Speaker(s) | Title |
 |------------|-----------|-----------|
 |0830-0900|--|Registration|
