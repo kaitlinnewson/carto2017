@@ -98,26 +98,32 @@ With the purchase of a large-format scanner in early 2012, the McMaster Universi
 ### Speakers
 Gordon Beck, Jason Brodeur, McMaster University
 
-### Transformation of legal Canada Lands Surveys Records to Authoritative Digital Records
+## Transformation of legal Canada Lands Surveys Records to Authoritative Digital Records
+
+### Speaker
 Martin Gingras, Surveyor General Branch, Natural Resources Canada
-## 1200 ACMLA-ACACC Annual General Meeting
-Boxed lunch provided to ACMLA Members
-## 1400 Presentation Session 04
-### Mapping en Plein Air: Painting the Way to Experiential Learning
+
+
+## Mapping en Plein Air: Painting the Way to Experiential Learning
+### Speaker
 Francine Berish, Queen's University 
-### Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge
-Rebecca Bartlett, Carleton University
+
+## Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge
+### Speakers
+Rebecca Bartlett, Carleton University  
 Trevor Ford, Wilfrid Laurier University
-### Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project 
-Kara Handren, Scholars Portal 
-Sarah Simpkin, University of Ottawa
+
+## Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project 
+### Speakers
+Kara Handren, Scholars Portal  
+Sarah Simpkin, University of Ottawa  
+Jason Brodeur, McMaster University  
+
+## Breakout Session
+### Facilitator
 Jason Brodeur, McMaster University
-## 1530 Afternoon Break
-## 1545 Breakout Sessions
-Facilitator: Jason Brodeur, McMaster University
 
 # Friday, 24-June
-Location: SFU Vancouver - 1700 Labatt Hall
 ## 0930 - 1000 Registration 
 Location: SFU Vancouver - 1700 Labatt Hall
 ## 1000 Presentation Session 05 
