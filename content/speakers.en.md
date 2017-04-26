@@ -10,17 +10,18 @@ layout = "single-para"
 </div>
 <br />
 
-## Chris Ames
+## Chris Ames 
 Chris is a Mapping and GIS Specialist at Firelight. He is an an archaeologist, and received a PhD in anthropology from McGill University in 2014 and held a Postdoctoral Fellowship in the Department of Anthropology at the University of California-Berkeley from 2014-2016.
 
 In his research, Chris applies geographic and geoscience methods to better understand past cultural and environmental landscapes, especially the interaction between climate change and communities. He has worked in southwest and northwest British Columbia, northern Québec, as well as internationally in Jordan and South Africa. Spatial data collection, management, and analysis have been central to these research activities, as has been the production of clear and informative maps and graphics.
 
 In addition to his work at Firelight, Chris continues to explore and publish on his research interests as an Adjunct Assistant Professor in the Department of Anthropology at the University of Victoria.
 
-## Rebecca Bartlett
+<a name="Bartlett"></a>
+## Rebecca Bartlett 
 Rebecca Bartlett is the GIS and Digital Resources Librarian at Carleton University. She takes great pleasure in finding elevation profiles for bike routes that foolish colleagues share with her, thinking that an 8 km hill climb will dissuade her from a "pleasant" Sunday ride.
 
-## Gordon Beck
+## Gordon Beck <a name="Beck"></a>
 
 ## Rachel Bergquist 
 Rachel Bergquist is a Master’s of Library and Information Science candidate at the University of British Columbia, with a BA in Creative Writing from Sarah Lawrence College, New York. She has always been fascinated by maps. Print map love runs deep!
