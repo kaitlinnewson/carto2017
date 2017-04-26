@@ -90,12 +90,12 @@ Jason Brodeur, McMaster University
 ## 1545 Breakout Sessions
 Facilitator: Jason Brodeur, McMaster University
 
-
 # Friday, 24-June
-Location: SFU Vancouver - 1400-1420 Segal Centre
-## 0900 - 0930 Registration 
 Location: SFU Vancouver - 1700 Labatt Hall
-## 0930 - 1100 Presentation Session 05 
-## 1100 Closing Remarks
-## 1200 - 1630 Field Trip
+## 0930 - 1000 Registration 
+Location: SFU Vancouver - 1700 Labatt Hall
+## 1000 Presentation Session 05 
+### Speakers TBA
+## 1130 Closing Remarks
+## 1200 - 1700 Field Trip
 Aquataxi tour of False Creek, with drop off at Granville Island for lunch at the public market. Walk to Vanier Park for visit to the City of Vancouver Archives and the Museum of Vancouver. Bus home. $21.75 per person, lunch not included.
