@@ -39,7 +39,7 @@ Marcel Fortin, University of Toronto
 Deena Yanofsky, Nathalie Cooke, McGill University
 ## 1215 - Lunch (on own)
 ## 1345 - Presentation Session 02: Digitization and Digital Mapping
-### Transformation of legal Canada Lands Surveys Records to authoritative digital records
+### Transformation of Legal Canada Lands Surveys Records to Authoritative Digital Records
 Martin Gingras, Surveyor General Branch, Natural Resources Canada
 ### Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge
 Rebecca Bartlett, Carleton University
