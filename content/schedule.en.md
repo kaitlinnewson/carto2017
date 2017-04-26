@@ -49,7 +49,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 |0830-0900|--|Registration|
 |0900|TBA|Keynote Address|
 |1000|--|Morning Break|
-|1015<td colspan="2" align="center">**Presentation Session 03: Reconsidering Map Collections**</td>|
+|1015<td colspan="2" align="center">**Presentation Session 03: Reconsidering Map Collections**</td>
 ||Francine Berish, Queen's University |Unearthing Geological History: Revealing and Protecting GSC Research Through Improved Metadata and Stewardship|
 ||Gordon Beck & Jason Brodeur, McMaster University|OK, We’ve Scanned the Maps--What Now? Reflecting on Five Years of Map Digitization|
 ||Rachel Bergquist & Emily Sugerman, University of British Columbia|Time to Talk: Seeing, Holding and Sharing Print Map Collections|
@@ -58,27 +58,19 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 ||Barbara Znamirowski, Trent University|Spatial Thinking by the Numbers|
 ||Cynthia Dietz, University of Manitoba|Digital Content and Marketing Strategies to Boost GIS Workshop Attendance|
 ||Francine Berish, Queen's University |Mapping en Plein Air: Painting the Way to Experiential Learning|
-|1515|--|Afternoon Break|
-|1530|Julie Jones, Simon Fraser University|Roundtable Discussion|
-
-
-
-## 1400 Presentation Session 04: 
-### Spatial Thinking by the Numbers 
-Barbara Znamirowski, Trent University
-### Digital Content and Marketing Strategies to Boost GIS Workshop Attendance
-Cynthia Dietz, University of Manitoba
-### Mapping en Plein Air: Painting the Way to Experiential Learning
-Francine Berish, Queen's University 
-
-## 1530 Afternoon Break
-
-## 1545 Breakout Sessions
-Facilitator: Jason Brodeur, McMaster University
+|1530|--|Afternoon Break|
+|1545|Jason Brodeur, McMaster University|Breakout Session|
 
 # Friday, 23-June
 Location: SFU Vancouver - 1700 Labatt Hall
-## 0930 - 1000 Registration 
+
+|Time      | Speaker(s) | Title |
+|------------|-----------|-----------|
+|0930-1000|--|Registration|
+|1000<td colspan="2" align="center">**Presentation Session 03: Reconsidering Map Collections**</td>
+|1000|--|Morning Break|
+
+## 0930 - 1000 Registration
 ## 1000 Presentation Session 05 
 ### Speakers TBA
 ## 1130 Closing Remarks
