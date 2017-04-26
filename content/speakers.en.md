@@ -17,6 +17,9 @@ Rebecca Bartlett is the GIS and Digital Resources Librarian at Carleton Universi
 ## Rachel Bergquist 
 Rachel Bergquist is a Master’s of Library and Information Science candidate at the University of British Columbia, with a BA in Creative Writing from Sarah Lawrence College, New York. She has always been fascinated by maps. Print map love runs deep!
 
+## Francine Berish
+Francine Berish is the Geospatial Data Librarian and Liaison Librarian for Geography and Planning at Queen’s University.
+
 ## Jay Brodeur
 Jay Brodeur holds a Ph.D. in Geography and Earth Sciences from McMaster University and is the Manager of Maps, Data, GIS in the McMaster University Library. His interests include projects that improve access to cartographic and geospatial information, and integrates them into research, teaching and learning, and public use.
 
