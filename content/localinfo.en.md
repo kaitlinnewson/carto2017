@@ -4,7 +4,6 @@ layout = "single-para"
 +++###
 
 
-
 ### Venues
 
 The conference will take place at Simon Fraser University's [Vancouver Campus](https://www.sfu.ca/campuses/vancouver.html) in downtown Vancouver, BC. 
