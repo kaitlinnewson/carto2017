@@ -50,7 +50,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 |0900|TBA|Keynote Address|
 |1000|--|Morning Break|
 |1015<td colspan="2" align="center">**Presentation Session 03: Reconsidering Map Collections**</td>
-||Francine Berish, Queen's University |Unearthing Geological History: Revealing and Protecting GSC Research Through Improved Metadata and Stewardship|
+||Francine Berish, Queen's University|Unearthing Geological History: Revealing and Protecting GSC Research Through Improved Metadata and Stewardship|
 ||Gordon Beck & Jason Brodeur, McMaster University|OK, We’ve Scanned the Maps--What Now? Reflecting on Five Years of Map Digitization|
 ||Rachel Bergquist & Emily Sugerman, University of British Columbia|Time to Talk: Seeing, Holding and Sharing Print Map Collections|
 |1200-1400<td colspan="2" align="center">**ACMLA-ACACC Annual General Meeting (Boxed lunch provided to ACMLA Members)**</td>
@@ -67,12 +67,7 @@ Location: SFU Vancouver - 1700 Labatt Hall
 |Time      | Speaker(s) | Title |
 |------------|-----------|-----------|
 |0930-1000|--|Registration|
-|1000<td colspan="2" align="center">**Presentation Session 03: Reconsidering Map Collections**</td>
-|1000|--|Morning Break|
-
-## 0930 - 1000 Registration
-## 1000 Presentation Session 05 
-### Speakers TBA
-## 1130 Closing Remarks
-## 1200 - 1700 Field Trip
-Aquataxi tour of False Creek, with drop off at Granville Island for lunch at the public market. Walk to Vanier Park for visit to the City of Vancouver Archives and the Museum of Vancouver. Bus home. $21.75 per person, lunch not included.
+|1000<td colspan="2" align="center">**Presentation Session 05**</td>
+||Speakers TBA||
+|1130|--|Closing Remarks|
+|1200-1700|--|Field Trip: Aquataxi Tour of False Creek, City of Vancouver Archives, and the Museum of Vancouver|
