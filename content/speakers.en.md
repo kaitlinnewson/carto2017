@@ -17,11 +17,11 @@ In his research, Chris applies geographic and geoscience methods to better under
 
 In addition to his work at Firelight, Chris continues to explore and publish on his research interests as an Adjunct Assistant Professor in the Department of Anthropology at the University of Victoria.
 
-<a name="Bartlett"></a>
-## Rebecca Bartlett 
+
+## <a name="Bartlett"></a>Rebecca Bartlett 
 Rebecca Bartlett is the GIS and Digital Resources Librarian at Carleton University. She takes great pleasure in finding elevation profiles for bike routes that foolish colleagues share with her, thinking that an 8 km hill climb will dissuade her from a "pleasant" Sunday ride.
 
-## Gordon Beck <a name="Beck"></a>
+## Gordon Beck<a name="Beck"></a>
 
 ## Rachel Bergquist 
 Rachel Bergquist is a Master’s of Library and Information Science candidate at the University of British Columbia, with a BA in Creative Writing from Sarah Lawrence College, New York. She has always been fascinated by maps. Print map love runs deep!
