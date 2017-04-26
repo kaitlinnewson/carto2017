@@ -24,7 +24,7 @@ Francine Berish is the Geospatial Data Librarian and Liaison Librarian for Geogr
 Jay Brodeur holds a Ph.D. in Geography and Earth Sciences from McMaster University and is the Manager of Maps, Data, GIS in the McMaster University Library. His interests include projects that improve access to cartographic and geospatial information, and integrates them into research, teaching and learning, and public use.
 
 ## Nathalie Cooke 
-Nathalie Cooke is professor of English, affiliate member of History and, since 2016, aAssociate dDean of McGill Library’s rRare Books and sSpecial cCollections. She was formerly a secondary school math teacher.
+Nathalie Cooke is professor of English, affiliate member of History and, since 2016, Associate Dean of McGill Library’s Rare Books and Special Collections. She was formerly a secondary school math teacher.
 
 ## Cynthia Dietz
 Cynthia Dietz is the GIS Environmental Studies Librarian at the University of Manitoba. She promotes GIS and hosts workshops using ArcGIS, Geomatica, and Google Earth Pro. She holds an MS in Marine Environmental Science and an MLIS.
