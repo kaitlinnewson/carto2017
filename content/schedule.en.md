@@ -57,9 +57,11 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 ## 1000 - 1015 Morning Break
 ## 1015 - 1200 Presentation Session 03
 ## 1200 - 1400 ACMLA-ACACC Annual General Meeting
-## 1345 - 1515 Presentation Session 02
-## 1515 - 1530 Afternoon Break
-## 1530 - 1630 Roundtable Discussion
+## 1400 - 1530 Presentation Session 02
+## 1530 - 1545 Afternoon Break
+## 1545 - 1630 Breakout Sessions
+### Facilitator 
+Jay Brodeur, McMaster University
 
 ### Title
 ### Presenter
