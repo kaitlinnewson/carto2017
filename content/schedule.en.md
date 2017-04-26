@@ -11,10 +11,9 @@ layout = "single-para"
 <br />
 
 # Tuesday, 21-June, 2017
+Location: SFU Vancouver - Computer Lab 1350
 ## 0830 - 0900 Registration 
-Location: SFU Vancouver - Computer Lab 1350
 ## 0900 - 1600 Pre-Conference Workshop
-Location: SFU Vancouver - Computer Lab 1350
 ### Building "deep" maps of the Great War: Critical information and modern approaches for developing integrated, interactive map exhibits using historical resources
 Rebecca Bartlett, Carleton University  
 Gordon Beck, McMaster University  
@@ -22,8 +21,8 @@ Jason Brodeur, McMaster University
 Trevor Ford, Wilfrid Laurier University  
 
 # Wednesday, 22-June
-## 0830 - 0900 Registration 
 Location: SFU Vancouver - 1400-1420 Segal Centre 
+## 0830 - 0900 Registration 
 ## 0900 - Opening Remarks & Welcome
 ## 0915 - Keynote Address
 ### Indigineous Mapping in Canada
@@ -53,7 +52,6 @@ Facilitator: Julie Jones, Simon Fraser University
 # Thursday, 23-June
 Location: SFU Vancouver - 1400-1420 Segal Centre
 ## 0830 - 0900 Registration 
-Location: SFU Vancouver - 1400-1420 Segal Centre
 ## 0900 Keynote Address
 ## 1000 Morning Break
 ## 1015 Presentation Session 03: Considering Map Collections in the Physical and Digital
@@ -82,7 +80,6 @@ Facilitator: Jason Brodeur, McMaster University
 # Friday, 24-June
 Location: SFU Vancouver - 1700 Labatt Hall
 ## 0930 - 1000 Registration 
-Location: SFU Vancouver - 1700 Labatt Hall
 ## 1000 Presentation Session 05 
 ### Speakers TBA
 ## 1130 Closing Remarks
