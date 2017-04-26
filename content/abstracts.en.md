@@ -10,7 +10,7 @@ layout = "single-para"
 </div>
 <br />
 
-# Tuesday, 21-June
+# Tuesday, 20-June
 ## Building "deep" maps of the Great War: Critical information and modern approaches for developing integrated, interactive map exhibits using historical resources
 Corresponding with Canada’s 150th anniversary, the ongoing centenary of the First World War provides Canadians with an occasion to rediscover stories from a conflict that helped shape the identity of a nation. Among the many modes for communicating these experiences and events, interactive digital maps--or “deep maps”--provide a unique and powerful means of presenting information and engaging audiences. By interacting with diverse types of digitized historical materials arranged in both time and space, the user is afforded a media-rich, multidimensional experience of a story. 
 
@@ -28,7 +28,7 @@ Gordon Beck, McMaster University
 Jason Brodeur, McMaster University  
 Trevor Ford, Wilfrid Laurier University  
 
-# Wednesday, 22-June
+# Wednesday, 21-June
 ## Keynote Address: Indigenous Mapping in Canada
 Abstract coming soon.
 ### Speaker 
@@ -85,7 +85,7 @@ This session will provide participants an opportunity to engage in informal disc
 ### Facilitator
 Julie Jones, Simon Fraser University
 
-# Thursday, 23-June
+# Thursday, 22-June
 ## Keynote Address: TBA
 ### Speaker
 Coming Soon
@@ -124,5 +124,5 @@ Francine Berish, Queen's University
 ### Facilitator
 Jason Brodeur, McMaster University
 
-# Friday, 24-June
+# Friday, 23-June
 ## Speakers TBA
