@@ -53,7 +53,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 ||Francine Berish, Queen's University|Unearthing Geological History: Revealing and Protecting GSC Research Through Improved Metadata and Stewardship|
 ||Gordon Beck & Jason Brodeur, McMaster University|OK, We’ve Scanned the Maps--What Now? Reflecting on Five Years of Map Digitization|
 ||Rachel Bergquist & Emily Sugerman, University of British Columbia|Time to Talk: Seeing, Holding and Sharing Print Map Collections|
-|1200 to 1400<td colspan="2" align="center">**ACMLA-ACACC Annual General Meeting (Boxed lunch provided to ACMLA Members)**
+|1200 to 1400<td colspan="2" align="center">**ACMLA-ACACC Annual General Meeting (Boxed lunch provided to ACMLA Members)**</td>
 |1400<td colspan="2" align="center">**Presentation Session 04: Improving Spatial Literacy**</td>
 ||Barbara Znamirowski, Trent University|Spatial Thinking by the Numbers|
 ||Cynthia Dietz, University of Manitoba|Digital Content and Marketing Strategies to Boost GIS Workshop Attendance|
