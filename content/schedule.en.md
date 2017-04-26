@@ -14,17 +14,17 @@ layout = "single-para"
 Location: SFU Vancouver - Computer Lab 1350
 
 |Time      | Speaker(s) | Title | Notes |
-|------------| -----------| -----------|-----------|
-|0830 - 0900|--|Registration|Register outside Room 1350|
-|0900 - 1600|Rebecca Bartlett, Carleton University, Gordon Beck & Jason Brodeur, McMaster University, Trevor Ford, Wilfrid Laurier University |Workshop: Building "Deep" Maps of The Great War||
+|:------------:| -----------| -----------|-----------|
+|0830 to 0900|--|Registration|Register outside Room 1350|
+|0900 to 1600|Rebecca Bartlett, Carleton University, Gordon Beck & Jason Brodeur, McMaster University, Trevor Ford, Wilfrid Laurier University |Workshop: Building "Deep" Maps of The Great War||
 |1830|--|Icebreaker|[TAPshack - Coal Harbour, 1199 W Cordova St](http://tapshack.ca/menu.html)|
 
 # Wednesday, 21-June
 Location: SFU Vancouver - 1400-1420 Segal Centre 
 
 |Time      | Speaker(s) | Title |
-|------------|-----------|-----------|
-|0830 - 0900|--|Registration|
+|:------------:|-----------|-----------|
+|0830 to 0900|--|Registration|
 |0900|--|Opening Remarks & Welcome|
 |0915|Chris Ames, The Firelight Group|Keynote Address: Indigeneous Mapping in Canada|
 |1015|--|Morning Break|
@@ -45,15 +45,15 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 Location: SFU Vancouver - 1400-1420 Segal Centre
 
 |Time      | Speaker(s) | Title |
-|------------------------|-----------|-----------|
-|0830 - 0900|--|Registration|
+|:-----------:|-----------|-----------|
+|0830 to 0900|--|Registration|
 |0900|TBA|Keynote Address|
 |1000|--|Morning Break|
 |1015<td colspan="2" align="center">**Presentation Session 03: Reconsidering Map Collections**</td>
 ||Francine Berish, Queen's University|Unearthing Geological History: Revealing and Protecting GSC Research Through Improved Metadata and Stewardship|
 ||Gordon Beck & Jason Brodeur, McMaster University|OK, We’ve Scanned the Maps--What Now? Reflecting on Five Years of Map Digitization|
 ||Rachel Bergquist & Emily Sugerman, University of British Columbia|Time to Talk: Seeing, Holding and Sharing Print Map Collections|
-|1200 - 1400<td colspan="2" align="center">**ACMLA-ACACC Annual General Meeting (Boxed lunch provided to ACMLA Members)**</td>
+|1200 to 1400<td colspan="2" align="center">**ACMLA-ACACC Annual General Meeting (Boxed lunch provided to ACMLA Members)**</td>
 |1400<td colspan="2" align="center">**Presentation Session 04: Improving Spatial Literacy**</td>
 ||Barbara Znamirowski, Trent University|Spatial Thinking by the Numbers|
 ||Cynthia Dietz, University of Manitoba|Digital Content and Marketing Strategies to Boost GIS Workshop Attendance|
@@ -65,9 +65,9 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 Location: SFU Vancouver - 1700 Labatt Hall
 
 |Time      | Speaker(s) | Title |
-|------------|-----------|-----------|
-|0930 - 1000|--|Registration|
+|:------------:|-----------|-----------|
+|0930 to 1000|--|Registration|
 |1000<td colspan="2" align="center">**Presentation Session 05**</td>
 ||Speakers TBA||
 |1130|--|Closing Remarks|
-|1200 - 1700|--|Field Trip: Aquataxi Tour of False Creek, City of Vancouver Archives, and the Museum of Vancouver|
+|1200 to 1700|--|Field Trip: Aquataxi Tour of False Creek, City of Vancouver Archives, and the Museum of Vancouver|
