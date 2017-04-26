@@ -31,6 +31,6 @@ Finding and understanding materials from the Great War
 Tackling common issues in HGIS
 Creating geospatial information from historical materials
 Developing ‘deep maps’: An introduction to a variety of platforms for creating interactive map exhibits.
-
-
-Coming soon!
+# Wednesday, 22-June, 2017
+# Thursday, 23-June, 2017
+# Friday, 24-June, 2017
