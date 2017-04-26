@@ -26,9 +26,7 @@ Trevor Ford, Wilfrid Laurier University
 Location: SFU Vancouver - 1400-1420 Segal Centre 
 ## 0900 - Opening Remarks & Welcome
 ## 0915 - Keynote 
-### Title
-### Presenter
-### Abstract
+
 ## 1015 - Morning Break
 ## 1030 - Presentation Session 01: Integrating with Digital and Spatial Humanities
 ### Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph 
