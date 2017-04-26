@@ -30,18 +30,20 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 |1015|--|Morning Break|
 |1030|Presentation Session 01: Supporting Digital and Spatial Humanities||
 ||Julie Jones, Simon Fraser University|Spatial Humanities: Collaborating, Facilitating, Supporting|
-
+||Quin Shirk-Luckett & Teresa Lewitzky, University of Guelph|Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph|
+||Marcel Fortin, University of Toronto|HGIS Using ArcGIS Online|
+||Deena Yanofsky & Nathalie Cooke, McGill University|GIS Lite & Online Visualization Tools in the Humanities Classroom: Tales From the Front Lines of a Librarian-Faculty Collaboration|
 
 ## 
 ## 1030 - Presentation Session 01: Supporting Digital and Spatial Humanities
 ### 
 
-### Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph 
-Quin Shirk-Luckett, Teresa Lewitzky, University of Guelph
-### HGIS Using ArcGIS Online
-Marcel Fortin, University of Toronto
-### GIS lite & Online Visualization Tools in the Humanities Classroom: Tales From the Front Lines of a Librarian-Faculty Collaboration
-Deena Yanofsky, Nathalie Cooke, McGill University
+###  
+
+### 
+
+### 
+
 ## 1215 - Lunch (on own)
 ## 1345 - Presentation Session 02: Digitization and Digital Mapping
 ### Transformation of Legal Canada Lands Surveys Records to Authoritative Digital Records
