@@ -26,7 +26,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 |:------------:|-----------|-----------|
 |0830 to 0900|--|Registration|
 |0900|--|Opening Remarks & Welcome|
-|0915|Chris Ames, The Firelight Group|Keynote Address: Indigeneous Mapping in Canada|
+|0915|[Chris Ames](../speakers#Ames), The Firelight Group|Keynote Address: Indigeneous Mapping in Canada|
 |1015|--|Morning Break|
 |1030<td colspan="2" align="center">**Presentation Session 01: Supporting Digital and Spatial Humanities**</td>
 ||[Julie Jones](../speakers#Jones), Simon Fraser University|Spatial Humanities: Collaborating, Facilitating, Supporting|
