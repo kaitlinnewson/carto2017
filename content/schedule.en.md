@@ -18,10 +18,7 @@ Location: SFU Vancouver - Computer Lab 1350
 ### Title
 Building "deep" maps of the Great War: Critical information and modern approaches for developing integrated, interactive map exhibits using historical resources
 ### Presenters
-Rebecca Bartlett, Carleton University
-Gordon Beck, McMaster University
-Jason Brodeur, McMaster University
-Trevor Ford, Wilfrid Laurier University
+Rebecca Bartlett, Carleton University | Gordon Beck, McMaster University | Jason Brodeur, McMaster University | Trevor Ford, Wilfrid Laurier University
 ### Abstract
 Corresponding with Canada’s 150th anniversary, the ongoing centenary of the First World War provides Canadians with an occasion to rediscover stories from a conflict that helped shape the identity of a nation. Among the many modes for communicating these experiences and events, interactive digital maps--or “deep maps”--provide a unique and powerful means of presenting information and engaging audiences. By interacting with diverse types of digitized historical materials arranged in both time and space, the user is afforded a media-rich, multidimensional experience of a story. 
 
@@ -111,3 +108,6 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 ## 0900 - 0930 Registration 
 Location: SFU Vancouver - 1700 Labatt Hall
 ## 0930 - 1100 Presentation Session 05 
+## 1100 Closing Remarks
+## 1200 - 1630 Field Trip
+Aquataxi tour of False Creek, with drop off at Granville Island for lunch at the public market. Walk to Vanier Park for visit to the City of Vancouver Archives and the Museum of Vancouver. Bus home. $21.75 per person, lunch not included.
