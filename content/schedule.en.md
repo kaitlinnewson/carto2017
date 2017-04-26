@@ -53,6 +53,8 @@ Facilitator: Julie Jones, Simon Fraser University
 Location: SFU Vancouver - 1400-1420 Segal Centre
 ## 0830 - 0900 Registration 
 ## 0900 Keynote Address
+### TBA
+Speaker TBA
 ## 1000 Morning Break
 ## 1015 Presentation Session 03: Considering Map Collections in the Physical and Digital
 ### Time to Talk: Seeing, Holding and Sharing Print Map Collections
