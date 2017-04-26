@@ -73,29 +73,11 @@ Trevor Ford, Wilfrid Laurier University
 
 ## Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project 
 Initiated through a grant by the Ontario Council of University Libraries in the Fall of 2014, the OCUL Historical Topographic Map Digitization Project is an endeavor to preserve and provide broad access to historical topographic maps covering Ontario at the 1:25000 and 1:63360 scales. Over the past two and a half years, participants at OCUL institutions and Scholars Portal have worked collaboratively to digitize, describe, georeference, and make available over 1100 sheets published between 1904 and 1977. Accessible through Scholars GeoPortal, this digitized collection provides historical snapshots that allow researchers, students, and the general public to travel through time to explore changes in natural and human environments.
-
 In a follow-up to our 2015 Carto presentation, we will present the entirety of the project workflow, discuss the lessons learned and methodological improvements realized, and exhibit the project’s outcomes via a live demonstration of the Scholars GeoPortal-based interface. Additionally, we seek to present a framework and workflow for expanding this work to include all of Canada’s historical topographic maps. 
 ### Speakers
 Kara Handren, Scholars Portal  
 Sarah Simpkin, University of Ottawa  
 Jason Brodeur, McMaster University
-
-
-
-## Spatial Thinking By the Numbers
-This paper will look at approaches to data visualization focusing on innovative methods of introducing spatial thinking to quantitative analysis in the social sciences. Options for visualization of quantitative data including survey microdata and aggregated statistics have evolved and now have important roles in map and data communities. Key questions which will be considered include: what leading visualization tools are used by our researchers, how do statistical packages offering mapping options influence use of more traditional mapping tools and practices, what are the key drivers for change, and what issues should client support consider when engaging our academic communities and assisting researchers with visualizing quantitative data spatially?  Examples of diverse applications and services such as cloud services, apps, software plugins and extensions will be presented in terms of trends, relevancy and use for thinking spatially. 
-### Speaker
-Barbara Znamirowski, Trent University
-
-## Digital Content and Marketing Strategies to Boost GIS Workshop Attendance
-Digital and content marketing strategies boosted attendance at GIS workshops at the University of Manitoba dramatically. The first strategy involved the development of a Geospatial Semester of seven basic to intermediate workshops that would appeal to graduate students and faculty as well as undergraduates. The content of our workshops was changed to address the top strategic research goals at the University of Manitoba.  The second strategy involved the marketing of those workshops to graduate students by the Faculty of Graduate Studies on their webpage two weeks prior to each semester and thereafter. Not to deny all U. of Manitoba affiliates an opportunity, identical workshops were offered to faculty, staff and all students within a day or two of the graduate offerings. All workshops were advertised by the Library through its subject guides.  Tools introduced in the workshops seemed to be in demand. They included visualizations using maps and charts, the use of map series, hot spot analyses showing degrees of confidence, georeferencing maps for historical analyses, analyzing satellite imagery and shoreline change, map analysis, and the use of photos, videos and webpages in a Story Map. Details will be offered concerning the attendance and registrations by department and faculty.
-### Speaker
-Cynthia Dietz, University of Manitoba
-
-## Mapping en Plein Air: Painting the Way to Experiential Learning
-It is one thing to scan, georeference and overlay a fire insurance plan onto a contemporary base map creating an artifact—although providing some well-needed context, these maps still require  imagination. It is another thing entirely to overlay the historic features onto a life-sized, true-to-scale context, allowing tour goers to step into another world. Standing on the green grass in Douglas Fluhrer Park on the St. Lawrence River in downtown Kingston, Ontario, it is hard to imagine the once dark and industrial landscape marked with oil drums, factories and rail lines. One windy day, armed with coordinates pulled from a georeferenced fire insurance plan overlay, our smartphones, and some flags, a few of us conspired to bring social history to life by transposing the historic rail lines onto the grass using field marking paint. We began by marking the endpoints for our volunteer field painter, and by the following morning the park was transformed into an immersive backdrop for sharing oral histories from this often overlooked Inner Harbour neighbourhood of industrial waterfront. This project was the brainchild of Laura Murray and the Swamp Ward and Inner Harbour History Project (SWIHHP), and in addition to the experiential learning component provided by life-size learning, the project was also able to feature the georeferenced historical map and fire insurance plan artefacts by passing them around during the tour as well as posting them on the project blog.
-### Speaker
-Francine Berish, Queen's University 
 
 ## Roundtable Discussion
 What has kept you awake at night this year? What has you inspired and excited?
@@ -118,14 +100,25 @@ With the purchase of a large-format scanner in early 2012, the McMaster Universi
 ### Speakers
 Gordon Beck, Jason Brodeur, McMaster University
 
-
-
 ## Unearthing geological history: Revealing and protecting GSC research through improved metadata and stewardship
 Geological Survey of Canada (GSC) members were instrumental in the exploration and mapping of Canada's geology. The information collected over the past 174 years has been distributed as publications such as maps, reports, monograph series (e.g. GSC Memoirs, Papers, Bulletin), and data. These publications are valuable because geological observations remain relevant despite age; because these publications are so detailed; and because, in general, the information cannot be found elsewhere. GSC published series include various titles and formats. Unfortunately, these details are often omitted from brief series catalogue records, making these treasures less discoverable for users. In an ecosystem that is progressively digital, large physical collections like the GSC series pose significant challenges. At Queen’s University, these important series were historically duplicated across department libraries with varying levels of description, and, at times, different classification systems. Our project focuses on improving discoverability and ease of retrieval for these series through the creation and enhancement of electronic catalogue records; by co-locating maps and documents in order to create conditions for improved stewardship and preservation; and by uniting maps with scanning equipment, information services and support.
 ### Speaker
 Francine Berish, Queen's University 
 
-  
+## Spatial Thinking By the Numbers
+This paper will look at approaches to data visualization focusing on innovative methods of introducing spatial thinking to quantitative analysis in the social sciences. Options for visualization of quantitative data including survey microdata and aggregated statistics have evolved and now have important roles in map and data communities. Key questions which will be considered include: what leading visualization tools are used by our researchers, how do statistical packages offering mapping options influence use of more traditional mapping tools and practices, what are the key drivers for change, and what issues should client support consider when engaging our academic communities and assisting researchers with visualizing quantitative data spatially?  Examples of diverse applications and services such as cloud services, apps, software plugins and extensions will be presented in terms of trends, relevancy and use for thinking spatially. 
+### Speaker
+Barbara Znamirowski, Trent University
+
+## Digital Content and Marketing Strategies to Boost GIS Workshop Attendance
+Digital and content marketing strategies boosted attendance at GIS workshops at the University of Manitoba dramatically. The first strategy involved the development of a Geospatial Semester of seven basic to intermediate workshops that would appeal to graduate students and faculty as well as undergraduates. The content of our workshops was changed to address the top strategic research goals at the University of Manitoba.  The second strategy involved the marketing of those workshops to graduate students by the Faculty of Graduate Studies on their webpage two weeks prior to each semester and thereafter. Not to deny all U. of Manitoba affiliates an opportunity, identical workshops were offered to faculty, staff and all students within a day or two of the graduate offerings. All workshops were advertised by the Library through its subject guides.  Tools introduced in the workshops seemed to be in demand. They included visualizations using maps and charts, the use of map series, hot spot analyses showing degrees of confidence, georeferencing maps for historical analyses, analyzing satellite imagery and shoreline change, map analysis, and the use of photos, videos and webpages in a Story Map. Details will be offered concerning the attendance and registrations by department and faculty.
+### Speaker
+Cynthia Dietz, University of Manitoba
+
+## Mapping en Plein Air: Painting the Way to Experiential Learning
+It is one thing to scan, georeference and overlay a fire insurance plan onto a contemporary base map creating an artifact—although providing some well-needed context, these maps still require  imagination. It is another thing entirely to overlay the historic features onto a life-sized, true-to-scale context, allowing tour goers to step into another world. Standing on the green grass in Douglas Fluhrer Park on the St. Lawrence River in downtown Kingston, Ontario, it is hard to imagine the once dark and industrial landscape marked with oil drums, factories and rail lines. One windy day, armed with coordinates pulled from a georeferenced fire insurance plan overlay, our smartphones, and some flags, a few of us conspired to bring social history to life by transposing the historic rail lines onto the grass using field marking paint. We began by marking the endpoints for our volunteer field painter, and by the following morning the park was transformed into an immersive backdrop for sharing oral histories from this often overlooked Inner Harbour neighbourhood of industrial waterfront. This project was the brainchild of Laura Murray and the Swamp Ward and Inner Harbour History Project (SWIHHP), and in addition to the experiential learning component provided by life-size learning, the project was also able to feature the georeferenced historical map and fire insurance plan artefacts by passing them around during the tour as well as posting them on the project blog.
+### Speaker
+Francine Berish, Queen's University  
 
 ## Breakout Session
 ### Facilitator
