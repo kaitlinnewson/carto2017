@@ -10,7 +10,7 @@ layout = "single-para"
 </div>
 <br />
 
-# Tuesday, 21-June, 2017
+# Tuesday, 20-June
 Location: SFU Vancouver - Computer Lab 1350
 ## 0830 - 0900 Registration 
 ## 0900 - 1600 Pre-Conference Workshop
@@ -20,7 +20,7 @@ Gordon Beck, McMaster University
 Jason Brodeur, McMaster University  
 Trevor Ford, Wilfrid Laurier University  
 
-# Wednesday, 22-June
+# Wednesday, 21-June
 Location: SFU Vancouver - 1400-1420 Segal Centre 
 ## 0830 - 0900 Registration 
 ## 0900 - Opening Remarks & Welcome
@@ -52,7 +52,7 @@ Jason Brodeur, McMaster University
 ## 1530 Roundtable Discussion
 Facilitator: Julie Jones, Simon Fraser University
 
-# Thursday, 23-June
+# Thursday, 22-June
 Location: SFU Vancouver - 1400-1420 Segal Centre
 ## 0830 - 0900 Registration 
 ## 0900 Keynote Address
@@ -60,12 +60,12 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 Speaker TBA
 ## 1000 Morning Break
 ## 1015 Presentation Session 03: Considering Map Collections in the Physical and Digital
-### Time to Talk: Seeing, Holding and Sharing Print Map Collections
-Rachel Bergquist, Emily Sugerman, University of British Columbia
-### OK, We’ve Scanned the Maps--What Now? Reflecting on Five Years of Map Digitization
-Gordon Beck, Jason Brodeur, McMaster University
 ### Unearthing Geological History: Revealing and Protecting GSC Research Through Improved Metadata and Stewardship
 Francine Berish, Queen's University 
+### OK, We’ve Scanned the Maps--What Now? Reflecting on Five Years of Map Digitization
+Gordon Beck, Jason Brodeur, McMaster University
+### Time to Talk: Seeing, Holding and Sharing Print Map Collections
+Rachel Bergquist, Emily Sugerman, University of British Columbia
 
 ## 1200 ACMLA-ACACC Annual General Meeting
 Boxed lunch provided to ACMLA Members
@@ -83,7 +83,7 @@ Francine Berish, Queen's University
 ## 1545 Breakout Sessions
 Facilitator: Jason Brodeur, McMaster University
 
-# Friday, 24-June
+# Friday, 23-June
 Location: SFU Vancouver - 1700 Labatt Hall
 ## 0930 - 1000 Registration 
 ## 1000 Presentation Session 05 
