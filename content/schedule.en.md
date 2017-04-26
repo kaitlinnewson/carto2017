@@ -38,31 +38,8 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 ||Martin Gingras, Surveyor General Branch, Natural Resources Canada|Transformation of Legal Canada Lands Surveys Records to Authoritative Digital Records|
 ||Rebecca Bartlett, Carleton University & Trevor Ford, Wilfrid Laurier University|Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge|
 ||Kara Handren, Scholars Portal, Sarah Simpkin, University of Ottawa, Jason Brodeur, McMaster University|Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project|
-
-## 
-## 1030 - Presentation Session 01: Supporting Digital and Spatial Humanities
-### 
-
-###  
-
-### 
-
-### 
-
-## 1215 - Lunch (on own)
-## 1345 - Presentation Session 02: Digitization and Digital Mapping
-### Transformation of Legal Canada Lands Surveys Records to Authoritative Digital Records
-Martin Gingras, Surveyor General Branch, Natural Resources Canada
-### Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge
-Rebecca Bartlett, Carleton University
-Trevor Ford, Wilfrid Laurier University
-### Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project 
-Kara Handren, Scholars Portal 
-Sarah Simpkin, University of Ottawa
-Jason Brodeur, McMaster University
-## 1515 Afternoon Break
-## 1530 Roundtable Discussion
-Facilitator: Julie Jones, Simon Fraser University
+|1515|--|Afternoon Break|
+|1530|Julie Jones, Simon Fraser University|Roundtable Discussion|
 
 # Thursday, 22-June
 Location: SFU Vancouver - 1400-1420 Segal Centre
