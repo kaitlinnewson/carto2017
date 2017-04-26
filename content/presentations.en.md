@@ -37,19 +37,26 @@ Arguably all topics of research in the Humanities have some relationship with sp
 Not surprisingly, there has been a steady uptake in GIS usage among Humanities academics.  The results of which have been visually powerful and in many cases offer new perspectives on long studied topics.
  
 In 2016, and again in 2017, we had the opportunity to offer a week-long hands-on course introducing spatial humanities through DH@Guelph summer institute.  We examined primary archival source materials; walked and mapped a fictional text; created spatial data; learned GIS processes and techniques; and explored tools for creating online exhibits of artefacts, research, and maps.  We used a heavily experiential and active learning approach to immerse the class in spatial insight, while also learning technical skills, and having fun!  We will share what we learned, what surprised us, what we improved, and what we would change next time. 
-
- 
 ### Speakers
 Quin Shirk-Luckett, Teresa Lewitzky, University of Guelph
 
 ## Spatial Humanities: Collaborating, Facilitating, Supporting
+Abstract coming soon.
 ### Speaker
 Julie Jones, Simon Fraser University
 
-### HGIS Using ArcGIS Online
+## HGIS Using ArcGIS Online
+Abstract coming soon.
+### Speaker
 Marcel Fortin, University of Toronto
-### GIS lite & online visualization tools in the humanities classroom: Tales from the front lines of a librarian-faculty collaboration
+
+## GIS lite & online visualization tools in the humanities classroom: Tales from the front lines of a librarian-faculty collaboration
+Faculty-librarian collaborations are a frequent topic of discussion in the professional literature and often seen as the gold standard associated with student information literacy and IL curriculum integration on campus. Opportunities for blended, faculty-librarian course instruction, however, tend to be rare; librarians tend to be limited to teaching skills-based workshops or one-shot sessions rather than fully integrated into disciplinary courses.  Over the past few years, increased interest in digital scholarship has renewed attention toon the role of librarians and, in particular, the contributions that GIS and data librarians can make to both undergraduate and graduate education in the classroom. Courses in digital scholarship curriculum strongly reflect key aspects of librarianship, including open access, sustainable formats and tools, archives and archival theory, data sharing, information ethics, metadata, openness, and digital publication. Digital scholarship on campus provides librarians with new and meaningful opportunities to imbue syllabi and pedagogical styles with the values of librarianship.
+This session will focus on a collaboration between a disciplinary faculty member and a data librarian to create and teach a digital humanities course. From librarian and archivist class visits to information and digital literacy focused projects and assignments, this course blended disciplinary concepts and course content with critical lessons on digital publication, data evaluation and usage, and archival theory to produce digital projects. The presenters will provide an overview of the course design and syllabus, show examples of class assignments, and share student feedback in an effort to extract best practices, as well as some of the lessons learned, that will help others looking to build similar on-campus collaborations. 
+### Speakers
 Deena Yanofsky, Nathalie Cooke, McGill University
+
+
 ## 1215 - Lunch (on own)
 ## 1345 - Presentation Session 02: Building Spatial Literacy
 ### Spatial Thinking by the Numbers 
@@ -67,6 +74,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 ## 0830 - 0900 Registration 
 Location: SFU Vancouver - 1400-1420 Segal Centre
 ## 0900 Keynote
+
 ## 1000 Morning Break
 ## 1015 Presentation Session 03: Considering Map Collections in the Physical and Digital
 ### Time to Talk: Seeing, Holding and Sharing Print Map Collections
