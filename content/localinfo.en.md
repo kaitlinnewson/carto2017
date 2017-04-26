@@ -21,7 +21,7 @@ The conference banquet will be held at the SFU [Burnaby Campus](https://www.sfu.
 
 YVR Airport to SFU Vancouver by taxi. Cost: about $40. Time: About 40 minutes.
 
-### Getting Around Vancouver and Beyond
+### Transportation
 
 **Public transit**
 Translink provides public transit for the region. Services consist of buses, Skytrain (above and below ground subway), Seabus (commuter ferry service to North Vancouver), and a commuter rail service to the eastern suburbs. Not sure what bus or train to catch? Use the [Translink Trip Planner](http://tripplanning.translink.ca/) or the very handy [Transit real-time app](https://transitapp.com/). Fare for travel within the City of Vancouver is $2.75. 
@@ -41,9 +41,18 @@ Vancouver has an [extensive network of cycling routes and paths](http://vancouve
 **Float Plane**
 Three seaplane companies operate out of the [Vancouver Harbour Flight Centre](http://vhfc.ca/) (a 10 minute walk from the conference venue) and [Helijet](http://helijet.com/) is nearby as well. 
 
-
 **Intercity Coach Bus**
 [Greyhound](https://www.greyhound.ca/), [Pacific Coach Lines](http://www.pacificcoach.com/), and [BoltBus](https://www.boltbus.com/) are available out of [Pacific Central Station](https://en.wikipedia.org/wiki/Pacific_Central_Station). [Quick Coach](http://www.quickcoach.com/) operates between Vancouver and Seattle, leaving from many Vancouver locations daily. 
+
+### Food & Drink
+
+Coming soon. 
+
+### Local Attractions
+
+Coming soon. 
+
+
 
 
 
