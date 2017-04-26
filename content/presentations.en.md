@@ -29,17 +29,14 @@ Jason Brodeur, McMaster University
 Trevor Ford, Wilfrid Laurier University  
 
 # Wednesday, 22-June
-
 ## Keynote Address: Indigenous Mapping in Canada
 Abstract coming soon.
 ### Speaker 
 Chris Ames, The Firelight Group
-
 ## Spatial Humanities: Collaborating, Facilitating, Supporting
 Abstract coming soon.
 ### Speaker
 Julie Jones, Simon Fraser University
-
 ## Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph 
 How can spatial exploration and mapping help you develop new understandings and unique perspectives of fictional and historical material? 
  
@@ -62,7 +59,30 @@ This session will focus on a collaboration between a disciplinary faculty member
 ### Speakers
 Deena Yanofsky, Nathalie Cooke, McGill University
 
-## Spatial Thinking by the Numbers
+## Transformation of legal Canada Lands Surveys Records to Authoritative Digital Records
+The CLSR is a collection of official survey documents dating back to the early 1800’s, which support land transaction on the Canada Lands Survey System. This collection has been appraised by Library and Archives Canada, as the most valuable geospatial collection in the Government of Canada and includes records confirming the extent of property right on land such as National Parks, Territories and First Nations lands. The transformation of legal Canada Lands Surveys Records to authoritative digital records was an ambitious project that resulted in the transfer of the legal value of these physical documents to an authoritative digital record, which now can be accessed instantly on the web to support economic and social development on these lands.
+The presentation describes all the steps and processes taken to ensure high integrity conversion, starting with the scanning procedures, Quality control and quality assurance processes and handling of these documents from our office location to the contractor and to Library and Archives.
+### Speaker
+Martin Gingras, Surveyor General Branch, Natural Resources Canada
+
+## Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge
+Absract coming soon.
+### Speakers
+Rebecca Bartlett, Carleton University  
+Trevor Ford, Wilfrid Laurier University
+
+## Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project 
+Initiated through a grant by the Ontario Council of University Libraries in the Fall of 2014, the OCUL Historical Topographic Map Digitization Project is an endeavor to preserve and provide broad access to historical topographic maps covering Ontario at the 1:25000 and 1:63360 scales. Over the past two and a half years, participants at OCUL institutions and Scholars Portal have worked collaboratively to digitize, describe, georeference, and make available over 1100 sheets published between 1904 and 1977. Accessible through Scholars GeoPortal, this digitized collection provides historical snapshots that allow researchers, students, and the general public to travel through time to explore changes in natural and human environments.
+
+In a follow-up to our 2015 Carto presentation, we will present the entirety of the project workflow, discuss the lessons learned and methodological improvements realized, and exhibit the project’s outcomes via a live demonstration of the Scholars GeoPortal-based interface. Additionally, we seek to present a framework and workflow for expanding this work to include all of Canada’s historical topographic maps. 
+### Speakers
+Kara Handren, Scholars Portal  
+Sarah Simpkin, University of Ottawa  
+Jason Brodeur, McMaster University
+
+
+
+## Spatial Thinking By the Numbers
 This paper will look at approaches to data visualization focusing on innovative methods of introducing spatial thinking to quantitative analysis in the social sciences. Options for visualization of quantitative data including survey microdata and aggregated statistics have evolved and now have important roles in map and data communities. Key questions which will be considered include: what leading visualization tools are used by our researchers, how do statistical packages offering mapping options influence use of more traditional mapping tools and practices, what are the key drivers for change, and what issues should client support consider when engaging our academic communities and assisting researchers with visualizing quantitative data spatially?  Examples of diverse applications and services such as cloud services, apps, software plugins and extensions will be presented in terms of trends, relevancy and use for thinking spatially. 
 ### Speaker
 Barbara Znamirowski, Trent University
@@ -98,28 +118,14 @@ With the purchase of a large-format scanner in early 2012, the McMaster Universi
 ### Speakers
 Gordon Beck, Jason Brodeur, McMaster University
 
-## Transformation of legal Canada Lands Surveys Records to Authoritative Digital Records
-The CLSR is a collection of official survey documents dating back to the early 1800’s, which support land transaction on the Canada Lands Survey System. This collection has been appraised by Library and Archives Canada, as the most valuable geospatial collection in the Government of Canada and includes records confirming the extent of property right on land such as National Parks, Territories and First Nations lands. The transformation of legal Canada Lands Surveys Records to authoritative digital records was an ambitious project that resulted in the transfer of the legal value of these physical documents to an authoritative digital record, which now can be accessed instantly on the web to support economic and social development on these lands.
 
-The presentation describes all the steps and processes taken to ensure high integrity conversion, starting with the scanning procedures, Quality control and quality assurance processes and handling of these documents from our office location to the contractor and to Library and Archives.
-### Speaker
-Martin Gingras, Surveyor General Branch, Natural Resources Canada
 
 ## Unearthing geological history: Revealing and protecting GSC research through improved metadata and stewardship
 Geological Survey of Canada (GSC) members were instrumental in the exploration and mapping of Canada's geology. The information collected over the past 174 years has been distributed as publications such as maps, reports, monograph series (e.g. GSC Memoirs, Papers, Bulletin), and data. These publications are valuable because geological observations remain relevant despite age; because these publications are so detailed; and because, in general, the information cannot be found elsewhere. GSC published series include various titles and formats. Unfortunately, these details are often omitted from brief series catalogue records, making these treasures less discoverable for users. In an ecosystem that is progressively digital, large physical collections like the GSC series pose significant challenges. At Queen’s University, these important series were historically duplicated across department libraries with varying levels of description, and, at times, different classification systems. Our project focuses on improving discoverability and ease of retrieval for these series through the creation and enhancement of electronic catalogue records; by co-locating maps and documents in order to create conditions for improved stewardship and preservation; and by uniting maps with scanning equipment, information services and support.
 ### Speaker
 Francine Berish, Queen's University 
 
-## Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge
-### Speakers
-Rebecca Bartlett, Carleton University  
-Trevor Ford, Wilfrid Laurier University
-
-## Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project 
-### Speakers
-Kara Handren, Scholars Portal  
-Sarah Simpkin, University of Ottawa  
-Jason Brodeur, McMaster University  
+  
 
 ## Breakout Session
 ### Facilitator
