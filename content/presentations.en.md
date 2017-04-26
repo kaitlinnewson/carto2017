@@ -99,12 +99,14 @@ With the purchase of a large-format scanner in early 2012, the McMaster Universi
 Gordon Beck, Jason Brodeur, McMaster University
 
 ## Transformation of legal Canada Lands Surveys Records to Authoritative Digital Records
+The CLSR is a collection of official survey documents dating back to the early 1800’s, which support land transaction on the Canada Lands Survey System. This collection has been appraised by Library and Archives Canada, as the most valuable geospatial collection in the Government of Canada and includes records confirming the extent of property right on land such as National Parks, Territories and First Nations lands. The transformation of legal Canada Lands Surveys Records to authoritative digital records was an ambitious project that resulted in the transfer of the legal value of these physical documents to an authoritative digital record, which now can be accessed instantly on the web to support economic and social development on these lands.
 
+The presentation describes all the steps and processes taken to ensure high integrity conversion, starting with the scanning procedures, Quality control and quality assurance processes and handling of these documents from our office location to the contractor and to Library and Archives.
 ### Speaker
 Martin Gingras, Surveyor General Branch, Natural Resources Canada
 
-
-## Mapping en Plein Air: Painting the Way to Experiential Learning
+## Unearthing geological history: Revealing and protecting GSC research through improved metadata and stewardship
+Geological Survey of Canada (GSC) members were instrumental in the exploration and mapping of Canada's geology. The information collected over the past 174 years has been distributed as publications such as maps, reports, monograph series (e.g. GSC Memoirs, Papers, Bulletin), and data. These publications are valuable because geological observations remain relevant despite age; because these publications are so detailed; and because, in general, the information cannot be found elsewhere. GSC published series include various titles and formats. Unfortunately, these details are often omitted from brief series catalogue records, making these treasures less discoverable for users. In an ecosystem that is progressively digital, large physical collections like the GSC series pose significant challenges. At Queen’s University, these important series were historically duplicated across department libraries with varying levels of description, and, at times, different classification systems. Our project focuses on improving discoverability and ease of retrieval for these series through the creation and enhancement of electronic catalogue records; by co-locating maps and documents in order to create conditions for improved stewardship and preservation; and by uniting maps with scanning equipment, information services and support.
 ### Speaker
 Francine Berish, Queen's University 
 
