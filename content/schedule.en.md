@@ -41,8 +41,8 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 ### Title
 ### Presenter
 ### Abstract
-## 1015 - 1045 Morning Break
-## 1045 - 1215 Presentation Session 01
+## 1015 - 1030 Morning Break
+## 1030 - 1215 Presentation Session 01
 ## 1215 - 1345 Lunch (on own)
 ## 1345 - 1515 Presentation Session 02
 ## 1515 - 1530 Afternoon Break
@@ -54,6 +54,13 @@ Julie Jones, Simon Fraser University
 ## 0830 - 0900 Registration 
 Location: SFU Vancouver - 1400-1420 Segal Centre
 ## 0900 - 1000 Keynote
+## 1000 - 1015 Morning Break
+## 1015 - 1200 Presentation Session 03
+## 1200 - 1400 ACMLA-ACACC Annual General Meeting
+## 1345 - 1515 Presentation Session 02
+## 1515 - 1530 Afternoon Break
+## 1530 - 1630 Roundtable Discussion
+
 ### Title
 ### Presenter
 ### Abstract
