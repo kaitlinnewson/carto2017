@@ -56,18 +56,23 @@ This session will focus on a collaboration between a disciplinary faculty member
 ### Speakers
 Deena Yanofsky, Nathalie Cooke, McGill University
 
-
-## 1215 - Lunch (on own)
-## 1345 - Presentation Session 02: Building Spatial Literacy
-### Spatial Thinking by the Numbers 
+## Spatial Thinking by the Numbers 
+### Speaker
 Barbara Znamirowski, Trent University
-### Digital Content and Marketing Strategies to Boost GIS Workshop Attendance
+
+## Digital Content and Marketing Strategies to Boost GIS Workshop Attendance
+### Speaker
 Cynthia Dietz, University of Manitoba
-### Mapping en Plein Air: Painting the Way to Experiential Learning
+
+## Mapping en Plein Air: Painting the Way to Experiential Learning
+### Speaker
 Francine Berish, Queen's University 
-## 1515 Afternoon Break
+
 ## 1530 Roundtable Discussion
-Facilitator: Julie Jones, Simon Fraser University
+What has kept you awake at night this year? What has you inspired and excited?
+This session will provide participants an opportunity to engage in informal discussion around one of a number of emerging issues in map libraries and archives. Attendees will collaborate in groups to discuss challenges and opportunities in these areas, with the purpose of improving understanding, developing potential solutions and, at the end of the session, communicating group discussion outcomes to the larger audience.
+### Facilitator
+Julie Jones, Simon Fraser University
 
 # Thursday, 23-June
 Location: SFU Vancouver - 1400-1420 Segal Centre
