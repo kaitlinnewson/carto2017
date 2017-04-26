@@ -50,16 +50,16 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 |0900|TBA|Keynote Address|
 |1000|--|Morning Break|
 |1015<td colspan="2" align="center">**Presentation Session 03: Reconsidering Map Collections**</td>
-||Francine Berish, Queen's University|Unearthing Geological History: Revealing and Protecting GSC Research Through Improved Metadata and Stewardship|
-||Gordon Beck & Jason Brodeur, McMaster University|OK, We’ve Scanned the Maps--What Now? Reflecting on Five Years of Map Digitization|
-||Rachel Bergquist & Emily Sugerman, University of British Columbia|Time to Talk: Seeing, Holding and Sharing Print Map Collections|
+||[Francine Berish](../speakers#Berish), Queen's University|Unearthing Geological History: Revealing and Protecting GSC Research Through Improved Metadata and Stewardship|
+||[Gordon Beck](../speakers#Beck) & [Jason Brodeur](../speakers#Brodeur), McMaster University|OK, We’ve Scanned the Maps--What Now? Reflecting on Five Years of Map Digitization|
+||[Rachel Bergquist](../speakers#Bergquist) & [Emily Sugerman](../speakers#Sugerman), University of British Columbia|Time to Talk: Seeing, Holding and Sharing Print Map Collections|
 |1200 to 1400<td colspan="2" align="center">**ACMLA-ACACC Annual General Meeting (Boxed lunch provided to ACMLA Members)**</td>
 |1400<td colspan="2" align="center">**Presentation Session 04: Improving Spatial Literacy**</td>
-||Barbara Znamirowski, Trent University|Spatial Thinking by the Numbers|
-||Cynthia Dietz, University of Manitoba|Digital Content and Marketing Strategies to Boost GIS Workshop Attendance|
-||Francine Berish, Queen's University |Mapping en Plein Air: Painting the Way to Experiential Learning|
+||[Barbara Znamirowski](../speakers#Znamirowski), Trent University|Spatial Thinking by the Numbers|
+||[Cynthia Dietz](../speakers#Dietz), University of Manitoba|Digital Content and Marketing Strategies to Boost GIS Workshop Attendance|
+||[Francine Berish](../speakers#Berish), Queen's University |Mapping en Plein Air: Painting the Way to Experiential Learning|
 |1530|--|Afternoon Break|
-|1545|Jason Brodeur, McMaster University|Breakout Session|
+|1545|[Jason Brodeur](../speakers#Brodeur), McMaster University|Breakout Session|
 
 # Friday, 23-June
 Location: SFU Vancouver - 1700 Labatt Hall
