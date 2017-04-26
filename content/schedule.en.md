@@ -52,7 +52,12 @@ Julie Jones, Simon Fraser University
 
 # Thursday, 23-June, 2017
 ## 0830 - 0900 Registration 
-Location: SFU Vancouver - 1400-1420 Segal Centre 
+Location: SFU Vancouver - 1400-1420 Segal Centre
+## 0900 - 1000 Keynote
+### Title
+### Presenter
+### Abstract
+
 # Friday, 24-June, 2017
 ## 0830 - 0900 Registration 
 Location: SFU Vancouver - 1700 Labatt Hall
