@@ -35,11 +35,11 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 ||[Deena Yanofsky](../speakers#Yanofsky) & [Nathalie Cooke](../speakers#Cooke), McGill University|GIS Lite & Online Visualization Tools in the Humanities Classroom: Tales From the Front Lines of a Librarian-Faculty Collaboration|
 |1215<td colspan="2" align="center">**Lunch (on own)**</td>
 |1345<td colspan="2" align="center">**Presentation Session 02: Digitization and Digital Mapping**</td>
-||Martin Gingras, Surveyor General Branch, Natural Resources Canada|Transformation of Legal Canada Lands Surveys Records to Authoritative Digital Records|
-||Rebecca Bartlett, Carleton University & Trevor Ford, Wilfrid Laurier University|Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge|
-||Kara Handren, Scholars Portal, Sarah Simpkin, University of Ottawa, Jason Brodeur, McMaster University|Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project|
+||[Martin Gingras]((../speakers#Gingras)), Surveyor General Branch, Natural Resources Canada|Transformation of Legal Canada Lands Surveys Records to Authoritative Digital Records|
+||[Rebecca Bartlett](../speakers#Bartlett), Carleton University & [Trevor Ford](../speakers#Ford), Wilfrid Laurier University|Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge|
+||[Kara Handren](../speakers#Handren), Scholars Portal, [Sarah Simpkin](../speakers#Simpkin), University of Ottawa, [Jason Brodeur](../speakers#Brodeur), McMaster University|Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project|
 |1515|--|Afternoon Break|
-|1530|Julie Jones, Simon Fraser University|Roundtable Discussion|
+|1530|[Julie Jones](../speakers#Jones), Simon Fraser University|Roundtable Discussion|
 
 # Thursday, 22-June
 Location: SFU Vancouver - 1400-1420 Segal Centre
