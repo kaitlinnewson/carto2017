@@ -57,7 +57,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 |1400<td colspan="2" align="center">**Presentation Session 04: Improving Spatial Literacy**</td>
 ||[Barbara Znamirowski](../speakers#Znamirowski), Trent University|Spatial Thinking by the Numbers|
 ||[Cynthia Dietz](../speakers#Dietz), University of Manitoba|Digital Content and Marketing Strategies to Boost GIS Workshop Attendance|
-||[Francine Berish](../speakers#Berish), Queen's University |Mapping en Plein Air: Painting the Way to Experiential Learning|
+||[Francine Berish](../speakers#Berish), Queen's University|Mapping en Plein Air: Painting the Way to Experiential Learning|
 |1530|--|Afternoon Break|
 |1545|[Jason Brodeur](../speakers#Brodeur), McMaster University|Breakout Session|
 
