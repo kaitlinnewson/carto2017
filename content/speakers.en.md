@@ -23,6 +23,9 @@ Francine Berish is the Geospatial Data Librarian and Liaison Librarian for Geogr
 ## Jay Brodeur
 Jay Brodeur holds a Ph.D. in Geography and Earth Sciences from McMaster University and is the Manager of Maps, Data, GIS in the McMaster University Library. His interests include projects that improve access to cartographic and geospatial information, and integrates them into research, teaching and learning, and public use.
 
+## Nathalie Cooke 
+Nathalie Cooke is professor of English, affiliate member of History and, since 2016, aAssociate dDean of McGill Library’s rRare Books and sSpecial cCollections. She was formerly a secondary school math teacher.
+
 ## Cynthia Dietz
 Cynthia Dietz is the GIS Environmental Studies Librarian at the University of Manitoba. She promotes GIS and hosts workshops using ArcGIS, Geomatica, and Google Earth Pro. She holds an MS in Marine Environmental Science and an MLIS.
 
@@ -41,6 +44,9 @@ Quin Shirk-Luckett works in the Data Resource Centre at the University of Guelph
 
 ## Emily Sugerman
 Emily Sugerman os a Master’s of Library and Information Science candidate at the University of British Columbia, with a BA in Comparative Literature and Culture from the University of Western Ontario. Print map love runs deep!
+
+## Deena Yanofsky
+Deena Yanofsky is a Map and Data Librarian at McGill University. Her current research interests focus on digital scholarship, open data, and civic engagement.
 
 ## Barbara Znamirowski
 Barbara Znamirowski holds a Bachelor degree from Queen’s University and a Master of Library and Information Studies from Dalhousie University. She is Head of the Maps, Data & Government Information Centre at Trent University Library and ESRI Site License Administrator for Trent. Her current research interests include regional HGIS, pedagogical approaches to expanding data literacy on campus, and effective content management of web sites for maps, data and government publications. She is editor of the ACMLA Bulletin’s GIS Trends column.
