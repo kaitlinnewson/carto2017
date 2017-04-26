@@ -65,38 +65,30 @@ Facilitator: Julie Jones, Simon Fraser University
 Location: SFU Vancouver - 1400-1420 Segal Centre
 ## 0830 - 0900 Registration 
 Location: SFU Vancouver - 1400-1420 Segal Centre
-## 0900 - 1000 Keynote
-## 1000 - 1015 Morning Break
-## 1015 - 1200 Presentation Session 03
-### Title 
-### Presenter
-### Abstract
-### Title 
-### Presenter
-### Abstract
-### Title 
-### Presenter
-### Abstract
-### Title 
-### Presenter
-### Abstract
-
-## 1200 - 1400 ACMLA-ACACC Annual General Meeting
-## 1400 - 1530 Presentation Session 04
-### Title 
-### Presenter
-### Abstract
-### Title 
-### Presenter
-### Abstract
-### Title 
-### Presenter
-### Abstract
-
-## 1530 - 1545 Afternoon Break
-## 1545 - 1630 Breakout Sessions
-### Facilitator 
+## 0900 Keynote
+## 1000 Morning Break
+## 1015 Presentation Session 03: Considering Map Collections in the Physical and Digital
+### Time to Talk: Seeing, Holding and Sharing Print Map Collections
+Rachel Bergquist, Emily Sugerman, University of British Columbia
+### OK, We’ve Scanned the Maps--What Now? Reflecting on Five Years of Map Digitization
+Gordon Beck, Jason Brodeur, McMaster University
+### Transformation of legal Canada Lands Surveys Records to authoritative digital records
+Martin Gingras, Surveyor General Branch, Natural Resources Canada
+## 1200 ACMLA-ACACC Annual General Meeting
+Boxed lunch provided to ACMLA Members
+## 1400 Presentation Session 04
+### Mapping en Plein Air: Painting the Way to Experiential Learning
+Francine Berish, Queen's University 
+### Vimy at 100: New methods for understanding and communicating the battle of Vimy Ridge
+Rebecca Bartlett, Carleton University
+Trevor Ford, Wilfrid Laurier University
+### Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project 
+Kara Handren, Scholars Portal 
+Sarah Simpkin, University of Ottawa
 Jason Brodeur, McMaster University
+## 1530 Afternoon Break
+## 1545 Breakout Sessions
+Facilitator: Jason Brodeur, McMaster University
 
 
 # Friday, 24-June
