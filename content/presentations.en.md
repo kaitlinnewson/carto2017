@@ -35,6 +35,11 @@ Abstract coming soon.
 ### Speaker 
 Chris Ames, The Firelight Group
 
+## Spatial Humanities: Collaborating, Facilitating, Supporting
+Abstract coming soon.
+### Speaker
+Julie Jones, Simon Fraser University
+
 ## Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph 
 How can spatial exploration and mapping help you develop new understandings and unique perspectives of fictional and historical material? 
  
@@ -45,11 +50,6 @@ Not surprisingly, there has been a steady uptake in GIS usage among Humanities a
 In 2016, and again in 2017, we had the opportunity to offer a week-long hands-on course introducing spatial humanities through DH@Guelph summer institute.  We examined primary archival source materials; walked and mapped a fictional text; created spatial data; learned GIS processes and techniques; and explored tools for creating online exhibits of artefacts, research, and maps.  We used a heavily experiential and active learning approach to immerse the class in spatial insight, while also learning technical skills, and having fun!  We will share what we learned, what surprised us, what we improved, and what we would change next time. 
 ### Speakers
 Quin Shirk-Luckett, Teresa Lewitzky, University of Guelph
-
-## Spatial Humanities: Collaborating, Facilitating, Supporting
-Abstract coming soon.
-### Speaker
-Julie Jones, Simon Fraser University
 
 ## HGIS Using ArcGIS Online
 Abstract coming soon.
