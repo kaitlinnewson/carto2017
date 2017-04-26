@@ -45,6 +45,8 @@ Teresa Lewitzky has many years of experience working with GIS, data and maps in 
 ## Quin Shirk-Luckett
 Quin Shirk-Luckett works in the Data Resource Centre at the University of Guelph to support geospatial research and teaching across disciplines. She oversees the spatial data collection, guest lectures, teaches workshops on a wide-range of topics related to data and GIS, consults on research projects, and provides GIS user support.  
 
+## Sarah Simpkin
+
 ## Emily Sugerman
 Emily Sugerman os a Master’s of Library and Information Science candidate at the University of British Columbia, with a BA in Comparative Literature and Culture from the University of Western Ontario. Print map love runs deep!
 
