@@ -41,13 +41,13 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 ## 1015 - Morning Break
 ## 1030 - Presentation Session 01: Integrating with Digital and Spatial Humanities
 ### Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph 
-#### Quin Shirk-Luckett, Teresa Lewitzky
-### 01-02 Title 
-### Presenter
-### Abstract
-### 01-03 Title 
-### Presenter
-### Abstract
+Quin Shirk-Luckett, Teresa Lewitzky, University of Guelph
+### Spatial Humanities: Collaborating, Facilitating, Supporting
+Julie Jones, Simon Fraser University
+### HGIS Using ArcGIS Online
+Marcel Fortin, University of Toronto
+### GIS lite & online visualization tools in the humanities classroom: Tales from the front lines of a librarian-faculty collaboration
+Deena Yanofsky, Nathalie Cooke, McGill University
 ## 1215 - Lunch (on own)
 ## 1345 - Presentation Session 02
 ### Title 
