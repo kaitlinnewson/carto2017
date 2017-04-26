@@ -50,20 +50,16 @@ Marcel Fortin, University of Toronto
 ### GIS lite & online visualization tools in the humanities classroom: Tales from the front lines of a librarian-faculty collaboration
 Deena Yanofsky, Nathalie Cooke, McGill University
 ## 1215 - Lunch (on own)
-## 1345 - Presentation Session 02
-### Title 
-### Presenter
-### Abstract
-### Title 
-### Presenter
-### Abstract
-### Title 
-### Presenter
-### Abstract
-## 1515 - 1530 Afternoon Break
-## 1530 - 1630 Roundtable Discussion
-### Facilitator 
-Julie Jones, Simon Fraser University
+## 1345 - Presentation Session 02: Building Spatial Literacy
+### Spatial Thinking by the Numbers 
+Barbara Znamirowski, Trent University
+### Digital Content and Marketing Strategies to Boost GIS Workshop Attendance
+Cynthia Dietz, University of Manitoba
+### Mapping en Plein Air: Painting the Way to Experiential Learning
+Francine Berish, Queen's University 
+## 1515 Afternoon Break
+## 1530 Roundtable Discussion
+Facilitator: Julie Jones, Simon Fraser University
 
 # Thursday, 23-June
 Location: SFU Vancouver - 1400-1420 Segal Centre
