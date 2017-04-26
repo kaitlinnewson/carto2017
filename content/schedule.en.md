@@ -28,7 +28,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 |0900|--|Opening Remarks & Welcome|
 |0915|Chris Ames, The Firelight Group|Keynote Address: Indigeneous Mapping in Canada|
 |1015|--|Morning Break|
-|1030|<td colspan=2> Presentation Session 01: Supporting Digital and Spatial Humanities</td>|
+|1030|<td colspan=2>Presentation Session 01: Supporting Digital and Spatial Humanities</td>
 ||Julie Jones, Simon Fraser University|Spatial Humanities: Collaborating, Facilitating, Supporting|
 ||Quin Shirk-Luckett & Teresa Lewitzky, University of Guelph|Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph|
 ||Marcel Fortin, University of Toronto|HGIS Using ArcGIS Online|
