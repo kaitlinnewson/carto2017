@@ -33,6 +33,11 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 ||Quin Shirk-Luckett & Teresa Lewitzky, University of Guelph|Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph|
 ||Marcel Fortin, University of Toronto|HGIS Using ArcGIS Online|
 ||Deena Yanofsky & Nathalie Cooke, McGill University|GIS Lite & Online Visualization Tools in the Humanities Classroom: Tales From the Front Lines of a Librarian-Faculty Collaboration|
+|1215|<td colspan="2" align="center">**Lunch (on own)**</td>
+|1345<td colspan="2" align="center">**Presentation Session 02: Digitization and Digital Mapping**</td>
+||Martin Gingras, Surveyor General Branch, Natural Resources Canada|Transformation of Legal Canada Lands Surveys Records to Authoritative Digital Records|
+||Rebecca Bartlett, Carleton University & Trevor Ford, Wilfrid Laurier University|Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge|
+||Kara Handren, Scholars Portal, Sarah Simpkin, University of Ottawa, Jason Brodeur, McMaster University|Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project|
 
 ## 
 ## 1030 - Presentation Session 01: Supporting Digital and Spatial Humanities
