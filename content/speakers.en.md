@@ -10,7 +10,6 @@ layout = "single-para"
 </div>
 <br />
 
-# Speaker Biographies
 ## Rebecca Bartlett
 Rebecca Bartlett is the GIS and Digital Resources Librarian at Carleton University. She takes great pleasure in finding elevation profiles for bike routes that foolish colleagues share with her, thinking that an 8km hill climb will dissuade her from a "pleasant" Sunday ride.
 ## Jay Brodeur
