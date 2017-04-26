@@ -10,8 +10,6 @@ layout = "single-para"
 </div>
 <br />
 
-# Conférenciers
-
 ## Chris Ames
 Chris is a Mapping and GIS Specialist at Firelight. He is an an archaeologist, and received a PhD in anthropology from McGill University in 2014 and held a Postdoctoral Fellowship in the Department of Anthropology at the University of California-Berkeley from 2014-2016.
 
