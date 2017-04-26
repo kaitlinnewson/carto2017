@@ -34,5 +34,25 @@ Tackling common issues in HGIS
 Creating geospatial information from historical materials
 Developing ‘deep maps’: An introduction to a variety of platforms for creating interactive map exhibits.
 # Wednesday, 22-June, 2017
+## 0830 - 0900 Registration 
+Location: SFU Vancouver - 1400-1420 Segal Centre 
+## 0900 - 0915 Opening Remarks & Welcome
+## 0915 - 1015 Keynote 
+### Title
+### Presenter
+### Abstract
+## 1015 - 1045 Morning Break
+## 1045 - 1215 Presentation Session 01
+## 1215 - 1345 Lunch (on own)
+## 1345 - 1515 Presentation Session 02
+## 1515 - 1530 Afternoon Break
+## 1530 - 1630 Roundtable Discussion
+### Facilitator 
+Julie Jones, Simon Fraser University
+
 # Thursday, 23-June, 2017
+## 0830 - 0900 Registration 
+Location: SFU Vancouver - 1400-1420 Segal Centre 
 # Friday, 24-June, 2017
+## 0830 - 0900 Registration 
+Location: SFU Vancouver - 1700 Labatt Hall
