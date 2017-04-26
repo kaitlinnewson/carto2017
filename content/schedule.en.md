@@ -16,7 +16,7 @@ Location: SFU Vancouver - Computer Lab 1350
 |Time  | Speaker(s) | Title | Notes |
 |------------| -----------| -----------|-----------|
 |0830 - 0900|--|Registration|Register outside Room 1350|
-|0900 - 1600|Rebecca Bartlett, Carleton University, Gordon Beck & Jason Brodeur, McMaster University, Trevor Ford, Wilfrid Laurier University |Workshop: Building "deep" maps of the Great War||
+|0900 - 1600|Rebecca Bartlett, Carleton University, Gordon Beck & Jason Brodeur, McMaster University, Trevor Ford, Wilfrid Laurier University |Workshop: Building "Deep" Maps of The Great War||
 |1830|--|Icebreaker|[TAPshack - Coal Harbour, 1199 W Cordova St](http://tapshack.ca/menu.html)|
 
 # Wednesday, 21-June
