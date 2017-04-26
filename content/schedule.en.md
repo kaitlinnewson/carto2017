@@ -16,10 +16,10 @@ Location: SFU Vancouver - Computer Lab 1350
 ## 0900 - 1600 Pre-Conference Workshop
 Location: SFU Vancouver - Computer Lab 1350
 ### Building "deep" maps of the Great War: Critical information and modern approaches for developing integrated, interactive map exhibits using historical resources
-Rebecca Bartlett, Carleton University
-Gordon Beck, McMaster University 
-Jason Brodeur, McMaster University
-Trevor Ford, Wilfrid Laurier University
+Rebecca Bartlett, Carleton University  
+Gordon Beck, McMaster University  
+Jason Brodeur, McMaster University  
+Trevor Ford, Wilfrid Laurier University  
 
 # Wednesday, 22-June
 ## 0830 - 0900 Registration 
