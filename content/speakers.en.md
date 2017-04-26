@@ -36,6 +36,8 @@ With help from the Social Sciences and Humanities Research Council of Canada (SS
 
 ## Marcel Fortin
 
+## Kara Handren 
+
 ## Julie Jones
 Julie Jones is GIS & Map Librarian and Librarian for Geography at Simon Fraser University. Previous to her role at SFU, she was Liaison Librarian for Geography, Urban Planning, and Social Work at McGill University and before that she held (concurrent!) librarian positions in the public, non-profit, and corporate sectors.  Julie holds a MLIS from McGill University and a BA in English Literature from UBC. She is interested in the ways spatial thinking and GIS can empower citizens and researchers and make complex data more accessible and understandable. Her recent research has included climate change research syntheses and the examination of the role of librarians in systematic reviews.
 
