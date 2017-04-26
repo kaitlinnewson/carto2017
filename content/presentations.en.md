@@ -23,16 +23,29 @@ Tackling common issues in HGIS
 Creating geospatial information from historical materials
 Developing ‘deep maps’: An introduction to a variety of platforms for creating interactive map exhibits.
 ### Speakers 
-* Rebecca Bartlett, Carleton University
-* Gordon Beck, McMaster University 
-* Jason Brodeur, McMaster University
-* Trevor Ford, Wilfrid Laurier University
+Rebecca Bartlett, Carleton University  
+Gordon Beck, McMaster University  
+Jason Brodeur, McMaster University  
+Trevor Ford, Wilfrid Laurier University  
 
 # Wednesday, 22-June
-### Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph 
+## Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph 
+How can spatial exploration and mapping help you develop new understandings and unique perspectives of fictional and historical material? 
+ 
+Arguably all topics of research in the Humanities have some relationship with space.  Everything happens somewhere.  The general popularity and ubiquity of tools such as GPS and Google Maps have engendered a new level of spatial awareness.  Suddenly academics are presented with the opportunity to turn their bits of paper into bytes of data and create digitized versions of previously analog artefacts of history, culture, and literature.  This spatial analysis yields new ways to engage with the information, revealing new patterns, trends and understanding.
+ 
+Not surprisingly, there has been a steady uptake in GIS usage among Humanities academics.  The results of which have been visually powerful and in many cases offer new perspectives on long studied topics.
+ 
+In 2016, and again in 2017, we had the opportunity to offer a week-long hands-on course introducing spatial humanities through DH@Guelph summer institute.  We examined primary archival source materials; walked and mapped a fictional text; created spatial data; learned GIS processes and techniques; and explored tools for creating online exhibits of artefacts, research, and maps.  We used a heavily experiential and active learning approach to immerse the class in spatial insight, while also learning technical skills, and having fun!  We will share what we learned, what surprised us, what we improved, and what we would change next time. 
+
+ 
+### Speakers
 Quin Shirk-Luckett, Teresa Lewitzky, University of Guelph
-### Spatial Humanities: Collaborating, Facilitating, Supporting
+
+## Spatial Humanities: Collaborating, Facilitating, Supporting
+### Speaker
 Julie Jones, Simon Fraser University
+
 ### HGIS Using ArcGIS Online
 Marcel Fortin, University of Toronto
 ### GIS lite & online visualization tools in the humanities classroom: Tales from the front lines of a librarian-faculty collaboration
