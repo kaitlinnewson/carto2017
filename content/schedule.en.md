@@ -107,5 +107,7 @@ Jason Brodeur, McMaster University
 
 
 # Friday, 24-June, 2017
+Location: SFU Vancouver - 1400-1420 Segal Centre
+
 ## 0830 - 0900 Registration 
 Location: SFU Vancouver - 1700 Labatt Hall
