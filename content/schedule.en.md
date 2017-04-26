@@ -43,21 +43,24 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 
 # Thursday, 22-June
 Location: SFU Vancouver - 1400-1420 Segal Centre
-## 0830 - 0900 Registration 
-## 0900 Keynote Address
-### TBA
-Speaker TBA
-## 1000 Morning Break
-## 1015 Presentation Session 03: Considering Map Collections in the Physical and Digital
-### Unearthing Geological History: Revealing and Protecting GSC Research Through Improved Metadata and Stewardship
-Francine Berish, Queen's University 
-### OK, We’ve Scanned the Maps--What Now? Reflecting on Five Years of Map Digitization
-Gordon Beck, Jason Brodeur, McMaster University
-### Time to Talk: Seeing, Holding and Sharing Print Map Collections
-Rachel Bergquist, Emily Sugerman, University of British Columbia
+|Time      | Speaker(s) | Title |
+|------------|-----------|-----------|
+|0830-0900|--|Registration|
+|0900|TBA|Keynote Address|
+|1000|--|Morning Break|
+|1015<td colspan="2" align="center">**Presentation Session 03: Reconsidering Map Collections**</td>|
+||Francine Berish, Queen's University |Unearthing Geological History: Revealing and Protecting GSC Research Through Improved Metadata and Stewardship|
+||Gordon Beck & Jason Brodeur, McMaster University|OK, We’ve Scanned the Maps--What Now? Reflecting on Five Years of Map Digitization|
+||Rachel Bergquist & Emily Sugerman, University of British Columbia|Time to Talk: Seeing, Holding and Sharing Print Map Collections|
+|1200-1400<td colspan="2" align="center">**ACMLA-ACACC Annual General Meeting (Boxed lunch provided to ACMLA Members)**</td>
+|1400<td colspan="2" align="center">**Presentation Session 04: Improving Spatial Literacy**</td>
+||Barbara Znamirowski, Trent University|Spatial Thinking by the Numbers|
+||Cynthia Dietz, University of Manitoba|Digital Content and Marketing Strategies to Boost GIS Workshop Attendance|
+||Francine Berish, Queen's University |Mapping en Plein Air: Painting the Way to Experiential Learning|
+|1515|--|Afternoon Break|
+|1530|Julie Jones, Simon Fraser University|Roundtable Discussion|
 
-## 1200 ACMLA-ACACC Annual General Meeting
-Boxed lunch provided to ACMLA Members
+
 
 ## 1400 Presentation Session 04: 
 ### Spatial Thinking by the Numbers 
