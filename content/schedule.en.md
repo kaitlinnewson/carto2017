@@ -31,6 +31,7 @@ Finding and understanding materials from the Great War
 Tackling common issues in HGIS
 Creating geospatial information from historical materials
 Developing ‘deep maps’: An introduction to a variety of platforms for creating interactive map exhibits.
+
 # Wednesday, 22-June
 ## 0830 - 0900 Registration 
 Location: SFU Vancouver - 1400-1420 Segal Centre 
