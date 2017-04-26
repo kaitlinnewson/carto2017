@@ -29,22 +29,25 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 Chris Ames, The Firelight Group
 ## 1015 - Morning Break
 ## 1030 - Presentation Session 01: Integrating with Digital and Spatial Humanities
-### Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph 
-Quin Shirk-Luckett, Teresa Lewitzky, University of Guelph
 ### Spatial Humanities: Collaborating, Facilitating, Supporting
 Julie Jones, Simon Fraser University
+### Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph 
+Quin Shirk-Luckett, Teresa Lewitzky, University of Guelph
 ### HGIS Using ArcGIS Online
 Marcel Fortin, University of Toronto
 ### GIS lite & online visualization tools in the humanities classroom: Tales from the front lines of a librarian-faculty collaboration
 Deena Yanofsky, Nathalie Cooke, McGill University
 ## 1215 - Lunch (on own)
-## 1345 - Presentation Session 02: Building Spatial Literacy
-### Spatial Thinking by the Numbers 
-Barbara Znamirowski, Trent University
-### Digital Content and Marketing Strategies to Boost GIS Workshop Attendance
-Cynthia Dietz, University of Manitoba
-### Mapping en Plein Air: Painting the Way to Experiential Learning
-Francine Berish, Queen's University 
+## 1345 - Presentation Session 02: Digitization and Digital Mapping
+### Transformation of legal Canada Lands Surveys Records to authoritative digital records
+Martin Gingras, Surveyor General Branch, Natural Resources Canada
+### Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge
+Rebecca Bartlett, Carleton University
+Trevor Ford, Wilfrid Laurier University
+### Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project 
+Kara Handren, Scholars Portal 
+Sarah Simpkin, University of Ottawa
+Jason Brodeur, McMaster University
 ## 1515 Afternoon Break
 ## 1530 Roundtable Discussion
 Facilitator: Julie Jones, Simon Fraser University
@@ -61,21 +64,22 @@ Speaker TBA
 Rachel Bergquist, Emily Sugerman, University of British Columbia
 ### OK, We’ve Scanned the Maps--What Now? Reflecting on Five Years of Map Digitization
 Gordon Beck, Jason Brodeur, McMaster University
-### Transformation of legal Canada Lands Surveys Records to authoritative digital records
-Martin Gingras, Surveyor General Branch, Natural Resources Canada
+### Unearthing Geological History: Revealing and Protecting GSC Research Through Improved Metadata and Stewardship
+Francine Berish, Queen's University 
+
 ## 1200 ACMLA-ACACC Annual General Meeting
 Boxed lunch provided to ACMLA Members
-## 1400 Presentation Session 04
+
+## 1400 Presentation Session 04: 
+### Spatial Thinking by the Numbers 
+Barbara Znamirowski, Trent University
+### Digital Content and Marketing Strategies to Boost GIS Workshop Attendance
+Cynthia Dietz, University of Manitoba
 ### Mapping en Plein Air: Painting the Way to Experiential Learning
 Francine Berish, Queen's University 
-### Vimy at 100: New methods for understanding and communicating the battle of Vimy Ridge
-Rebecca Bartlett, Carleton University
-Trevor Ford, Wilfrid Laurier University
-### Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project 
-Kara Handren, Scholars Portal 
-Sarah Simpkin, University of Ottawa
-Jason Brodeur, McMaster University
+
 ## 1530 Afternoon Break
+
 ## 1545 Breakout Sessions
 Facilitator: Jason Brodeur, McMaster University
 
