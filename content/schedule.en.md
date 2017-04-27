@@ -35,9 +35,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 ||[Julie Jones](../speakers#Jones), Simon Fraser University|[Spatial Humanities: Collaborating, Facilitating, Supporting](../abstracts#pres01a)|
 ||[Quin Shirk-Luckett](../speakers#Shirk-Luckett) & [Teresa Lewitzky](../speakers#Lewitzky), University of Guelph|[Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph](../abstracts#pres01b)|
 ||[Deena Yanofsky](../speakers#Yanofsky) & [Nathalie Cooke](../speakers#Cooke), McGill University|[GIS Lite & Online Visualization Tools in the Humanities Classroom: Tales From the Front Lines of a Librarian-Faculty Collaboration](../abstracts#pres01d)|
-
 |1200<td colspan="2" align="left">**Lunch (on own)**</td>
-
 |1330<td colspan="2" align="left">**Presentation Session 02: Digitization,  Digital Mapping, and Historical GIS**</td>
 ||[Marcel Fortin](../speakers#Fortin), University of Toronto|[HGIS Using ArcGIS Online](../abstracts#pres01c)|
 ||[Rebecca Bartlett](../speakers#Bartlett), Carleton University & [Trevor Ford](../speakers#Ford), Wilfrid Laurier University|[Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge](../abstracts#pres02b)|
