@@ -72,4 +72,4 @@ Location: SFU Vancouver - 1700 Labatt Hall
 |1000<td colspan="2" align="left">**Presentation Session 05**</td>
 |||*Speakers TBA*|
 |1130|--|Closing Remarks|
-|1200 to 1700|--|Field Trip: Aquataxi Tour of False Creek, City of Vancouver Archives, and the Museum of Vancouver|
+|1200-1700|--|Field Trip: Aquataxi Tour of False Creek, City of Vancouver Archives, and the Museum of Vancouver|
