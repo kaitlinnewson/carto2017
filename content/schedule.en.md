@@ -40,7 +40,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 ||[Rebecca Bartlett](../speakers#Bartlett), Carleton University & [Trevor Ford](../speakers#Ford), Wilfrid Laurier University|[Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge](../abstracts#pres02b)|
 ||[Kara Handren](../speakers#Handren), Scholars Portal, [Sarah Simpkin](../speakers#Simpkin), University of Ottawa, [Jason Brodeur](../speakers#Brodeur), McMaster University|[Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project](../abstracts#pres02c)|
 |1515|--|Afternoon Break|
-|1530|[Julie Jones](../speakers#Jones), Simon Fraser University|Roundtable Discussion|
+|1530|[Julie Jones](../speakers#Jones), Simon Fraser University|[Roundtable Discussion](../abstracts#roundtable)|
 
 # Thursday, 22-June
 Location: SFU Vancouver - 1400-1420 Segal Centre
