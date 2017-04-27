@@ -3,6 +3,14 @@ title = "Program"
 layout = "single-para"
 +++
 
+<div class="program expanded button-group">
+  <a href="../schedule" class="button active">Schedule</a>
+  <a href="../speakers" class="button">Speakers</a>
+  <a href="../abstracts" class="button">Abstracts</a>
+  <a href="../events" class="button">Events</a>
+</div>
+<br />
+
 # Tuesday, 20-June
 ### <a name="work1"></a>Building "deep" maps of the Great War: Critical information and modern approaches for developing integrated, interactive map exhibits using historical resources
 Corresponding with Canada’s 150th anniversary, the ongoing centenary of the First World War provides Canadians with an occasion to rediscover stories from a conflict that helped shape the identity of a nation. Among the many modes for communicating these experiences and events, interactive digital maps--or “deep maps”--provide a unique and powerful means of presenting information and engaging audiences. By interacting with diverse types of digitized historical materials arranged in both time and space, the user is afforded a media-rich, multidimensional experience of a story. 
