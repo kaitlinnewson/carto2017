@@ -25,20 +25,19 @@ Instructional elements of this workshop will include:
 * Creating geospatial information from historical materials
 * Developing ‘deep maps’: An introduction to a variety of platforms for creating interactive map exhibits.
 #### Speakers 
-Rebecca Bartlett, Carleton University  
-Gordon Beck, McMaster University  
-Jason Brodeur, McMaster University  
-Trevor Ford, Wilfrid Laurier University  
+[Rebecca Bartlett](../speakers#Bartlett), Carleton University  
+[Gordon Beck](../speakers#Beck) & [Jason Brodeur](../speakers#Brodeur), McMaster University  
+[Trevor Ford](../speakers#Ford), Wilfrid Laurier University
 
 ## Wednesday, 21-June
 ### <a name="keynote1"></a>Keynote Address: Indigenous Mapping in Canada
 Abstract coming soon.
 #### Speaker 
-Chris Ames, The Firelight Group
+[Chris Ames](../speakers#Ames), The Firelight Group
 ### <a name="pres01a"></a>Spatial Humanities: Collaborating, Facilitating, Supporting
 Abstract coming soon.
 #### Speaker
-Julie Jones, Simon Fraser University
+[Julie Jones](../speakers#Jones), Simon Fraser University
 ### <a name="pres01b"></a>Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph 
 How can spatial exploration and mapping help you develop new understandings and unique perspectives of fictional and historical material? 
  
@@ -48,38 +47,38 @@ Not surprisingly, there has been a steady uptake in GIS usage among Humanities a
  
 In 2016, and again in 2017, we had the opportunity to offer a week-long hands-on course introducing spatial humanities through DH@Guelph summer institute.  We examined primary archival source materials; walked and mapped a fictional text; created spatial data; learned GIS processes and techniques; and explored tools for creating online exhibits of artefacts, research, and maps.  We used a heavily experiential and active learning approach to immerse the class in spatial insight, while also learning technical skills, and having fun!  We will share what we learned, what surprised us, what we improved, and what we would change next time. 
 #### Speakers
-Quin Shirk-Luckett & Teresa Lewitzky, University of Guelph
+[Quin Shirk-Luckett](../speakers#Shirk-Luckett) & [Teresa Lewitzky](../speakers#Lewitzky), University of Guelph
 
 ### <a name="pres01c"></a>HGIS Using ArcGIS Online
 Abstract coming soon.
 #### Speaker
-Marcel Fortin, University of Toronto
+[Marcel Fortin](../speakers#Fortin), University of Toronto
 
 ### <a name="pres01d"></a>GIS lite & Online Visualization Tools in the Humanities Classroom: Tales From the Front Lines of a Librarian-Faculty Collaboration
 Faculty-librarian collaborations are a frequent topic of discussion in the professional literature and often seen as the gold standard associated with student information literacy and IL curriculum integration on campus. Opportunities for blended, faculty-librarian course instruction, however, tend to be rare; librarians tend to be limited to teaching skills-based workshops or one-shot sessions rather than fully integrated into disciplinary courses.  Over the past few years, increased interest in digital scholarship has renewed attention toon the role of librarians and, in particular, the contributions that GIS and data librarians can make to both undergraduate and graduate education in the classroom. Courses in digital scholarship curriculum strongly reflect key aspects of librarianship, including open access, sustainable formats and tools, archives and archival theory, data sharing, information ethics, metadata, openness, and digital publication. Digital scholarship on campus provides librarians with new and meaningful opportunities to imbue syllabi and pedagogical styles with the values of librarianship.
 This session will focus on a collaboration between a disciplinary faculty member and a data librarian to create and teach a digital humanities course. From librarian and archivist class visits to information and digital literacy focused projects and assignments, this course blended disciplinary concepts and course content with critical lessons on digital publication, data evaluation and usage, and archival theory to produce digital projects. The presenters will provide an overview of the course design and syllabus, show examples of class assignments, and share student feedback in an effort to extract best practices, as well as some of the lessons learned, that will help others looking to build similar on-campus collaborations. 
 #### Speakers
-Deena Yanofsky, Nathalie Cooke, McGill University
+[Deena Yanofsky](../speakers#Yanofsky) & [Nathalie Cooke](../speakers#Cooke), McGill University
 
 ### <a name="pres02a"></a>Transformation of legal Canada Lands Surveys Records to Authoritative Digital Records
 The CLSR is a collection of official survey documents dating back to the early 1800’s, which support land transaction on the Canada Lands Survey System. This collection has been appraised by Library and Archives Canada, as the most valuable geospatial collection in the Government of Canada and includes records confirming the extent of property right on land such as National Parks, Territories and First Nations lands. The transformation of legal Canada Lands Surveys Records to authoritative digital records was an ambitious project that resulted in the transfer of the legal value of these physical documents to an authoritative digital record, which now can be accessed instantly on the web to support economic and social development on these lands.
 The presentation describes all the steps and processes taken to ensure high integrity conversion, starting with the scanning procedures, Quality control and quality assurance processes and handling of these documents from our office location to the contractor and to Library and Archives.
 #### Speaker
-Martin Gingras, Surveyor General Branch, Natural Resources Canada
+[Martin Gingras]((../speakers#Gingras)), Surveyor General Branch, Natural Resources Canada
 
 ### <a name="pres02b"></a>Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge
 Absract coming soon.
 #### Speakers
-Rebecca Bartlett, Carleton University  
-Trevor Ford, Wilfrid Laurier University
+[Rebecca Bartlett](../speakers#Bartlett), Carleton University  
+[Trevor Ford](../speakers#Ford), Wilfrid Laurier University
 
 ### <a name="pres02c"></a>Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project 
 Initiated through a grant by the Ontario Council of University Libraries in the Fall of 2014, the OCUL Historical Topographic Map Digitization Project is an endeavor to preserve and provide broad access to historical topographic maps covering Ontario at the 1:25000 and 1:63360 scales. Over the past two and a half years, participants at OCUL institutions and Scholars Portal have worked collaboratively to digitize, describe, georeference, and make available over 1100 sheets published between 1904 and 1977. Accessible through Scholars GeoPortal, this digitized collection provides historical snapshots that allow researchers, students, and the general public to travel through time to explore changes in natural and human environments.
 In a follow-up to our 2015 Carto presentation, we will present the entirety of the project workflow, discuss the lessons learned and methodological improvements realized, and exhibit the project’s outcomes via a live demonstration of the Scholars GeoPortal-based interface. Additionally, we seek to present a framework and workflow for expanding this work to include all of Canada’s historical topographic maps. 
 #### Speakers
-Kara Handren, Scholars Portal  
-Sarah Simpkin, University of Ottawa  
-Jason Brodeur, McMaster University
+[Kara Handren](../speakers#Handren), Scholars Portal  
+[Sarah Simpkin](../speakers#Simpkin), University of Ottawa  
+[Jason Brodeur](../speakers#Brodeur), McMaster University
 
 ### <a name="roundtable"></a>Roundtable Discussion
 What has kept you awake at night this year? What has you inspired and excited?
