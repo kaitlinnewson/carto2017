@@ -54,12 +54,6 @@ Not surprisingly, there has been a steady uptake in GIS usage among Humanities a
 In 2016, and again in 2017, we had the opportunity to offer a week-long hands-on course introducing spatial humanities through DH@Guelph summer institute.  We examined primary archival source materials; walked and mapped a fictional text; created spatial data; learned GIS processes and techniques; and explored tools for creating online exhibits of artefacts, research, and maps.  We used a heavily experiential and active learning approach to immerse the class in spatial insight, while also learning technical skills, and having fun!  We will share what we learned, what surprised us, what we improved, and what we would change next time. 
 
 ---
-### <a name="pres01c"></a>HGIS Using ArcGIS Online
-[Marcel Fortin](../speakers#Fortin), University of Toronto
-
-Abstract coming soon.
-
----
 ### <a name="pres01d"></a>GIS lite & Online Visualization Tools in the Humanities Classroom: Tales From the Front Lines of a Librarian-Faculty Collaboration
 [Deena Yanofsky](../speakers#Yanofsky) & [Nathalie Cooke](../speakers#Cooke), McGill University
 
@@ -67,11 +61,10 @@ Faculty-librarian collaborations are a frequent topic of discussion in the profe
 This session will focus on a collaboration between a disciplinary faculty member and a data librarian to create and teach a digital humanities course. From librarian and archivist class visits to information and digital literacy focused projects and assignments, this course blended disciplinary concepts and course content with critical lessons on digital publication, data evaluation and usage, and archival theory to produce digital projects. The presenters will provide an overview of the course design and syllabus, show examples of class assignments, and share student feedback in an effort to extract best practices, as well as some of the lessons learned, that will help others looking to build similar on-campus collaborations. 
 
 ---
-### <a name="pres02a"></a>Transformation of legal Canada Lands Surveys Records to Authoritative Digital Records
-[Martin Gingras]((../speakers#Gingras)), Surveyor General Branch, Natural Resources Canada
+### <a name="pres01c"></a>HGIS Using ArcGIS Online
+[Marcel Fortin](../speakers#Fortin), University of Toronto
 
-The CLSR is a collection of official survey documents dating back to the early 1800’s, which support land transaction on the Canada Lands Survey System. This collection has been appraised by Library and Archives Canada, as the most valuable geospatial collection in the Government of Canada and includes records confirming the extent of property right on land such as National Parks, Territories and First Nations lands. The transformation of legal Canada Lands Surveys Records to authoritative digital records was an ambitious project that resulted in the transfer of the legal value of these physical documents to an authoritative digital record, which now can be accessed instantly on the web to support economic and social development on these lands.
-The presentation describes all the steps and processes taken to ensure high integrity conversion, starting with the scanning procedures, Quality control and quality assurance processes and handling of these documents from our office location to the contractor and to Library and Archives.
+Abstract coming soon.
 
 ---
 ### <a name="pres02b"></a>Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge
@@ -140,4 +133,10 @@ It is one thing to scan, georeference and overlay a fire insurance plan onto a c
 **Facilitator:** [Jason Brodeur](../speakers#Brodeur), McMaster University
 
 ## Vendredi 23 juin
-### Speakers TBA
+
+---
+### <a name="pres02a"></a>Transformation of legal Canada Lands Surveys Records to Authoritative Digital Records
+[Martin Gingras]((../speakers#Gingras)), Surveyor General Branch, Natural Resources Canada
+
+The CLSR is a collection of official survey documents dating back to the early 1800’s, which support land transaction on the Canada Lands Survey System. This collection has been appraised by Library and Archives Canada, as the most valuable geospatial collection in the Government of Canada and includes records confirming the extent of property right on land such as National Parks, Territories and First Nations lands. The transformation of legal Canada Lands Surveys Records to authoritative digital records was an ambitious project that resulted in the transfer of the legal value of these physical documents to an authoritative digital record, which now can be accessed instantly on the web to support economic and social development on these lands.
+The presentation describes all the steps and processes taken to ensure high integrity conversion, starting with the scanning procedures, Quality control and quality assurance processes and handling of these documents from our office location to the contractor and to Library and Archives.
