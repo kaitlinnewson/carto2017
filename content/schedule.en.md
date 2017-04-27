@@ -47,7 +47,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 Location: SFU Vancouver - 1400-1420 Segal Centre
 
 |Time      | Speaker(s) | Title |
-|:-----------:|-----------|-----------|
+|:-----------|-----------|-----------|
 |0830-0900|--|Registration|
 |0900|TBA|Keynote Address|
 |1000|--|Morning Break|
