@@ -11,7 +11,7 @@ layout = "single-para"
 </div>
 <br />
 
-# Tuesday, 20-June
+## Tuesday, 20-June
 ### <a name="work1"></a>Building "deep" maps of the Great War: Critical information and modern approaches for developing integrated, interactive map exhibits using historical resources
 Corresponding with Canada’s 150th anniversary, the ongoing centenary of the First World War provides Canadians with an occasion to rediscover stories from a conflict that helped shape the identity of a nation. Among the many modes for communicating these experiences and events, interactive digital maps--or “deep maps”--provide a unique and powerful means of presenting information and engaging audiences. By interacting with diverse types of digitized historical materials arranged in both time and space, the user is afforded a media-rich, multidimensional experience of a story. 
 
@@ -30,7 +30,7 @@ Gordon Beck, McMaster University
 Jason Brodeur, McMaster University  
 Trevor Ford, Wilfrid Laurier University  
 
-# Wednesday, 21-June
+## Wednesday, 21-June
 ### <a name="keynote1"></a>Keynote Address: Indigenous Mapping in Canada
 Abstract coming soon.
 #### Speaker 
@@ -48,7 +48,7 @@ Not surprisingly, there has been a steady uptake in GIS usage among Humanities a
  
 In 2016, and again in 2017, we had the opportunity to offer a week-long hands-on course introducing spatial humanities through DH@Guelph summer institute.  We examined primary archival source materials; walked and mapped a fictional text; created spatial data; learned GIS processes and techniques; and explored tools for creating online exhibits of artefacts, research, and maps.  We used a heavily experiential and active learning approach to immerse the class in spatial insight, while also learning technical skills, and having fun!  We will share what we learned, what surprised us, what we improved, and what we would change next time. 
 #### Speakers
-Quin Shirk-Luckett, Teresa Lewitzky, University of Guelph
+Quin Shirk-Luckett & Teresa Lewitzky, University of Guelph
 
 ### <a name="pres01c"></a>HGIS Using ArcGIS Online
 Abstract coming soon.
@@ -87,7 +87,7 @@ This session will provide participants an opportunity to engage in informal disc
 #### Facilitator
 Julie Jones, Simon Fraser University
 
-# Thursday, 22-June
+## Thursday, 22-June
 ### <a name="keynote2"></a>Keynote Address: TBA
 #### Speaker
 Coming Soon
@@ -126,5 +126,5 @@ Francine Berish, Queen's University
 #### Facilitator
 Jason Brodeur, McMaster University
 
-# Friday, 23-June
+## Friday, 23-June
 ### Speakers TBA
