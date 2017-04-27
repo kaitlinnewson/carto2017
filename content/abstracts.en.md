@@ -18,11 +18,11 @@ Corresponding with Canada’s 150th anniversary, the ongoing centenary of the Fi
 To this end, the goal of this workshop is to enhance participants’ understanding of cartography and history of the Great War, and to develop their skills for using digital historical materials to create interactive and integrative map exhibits. Through a series of integrated information sessions and hands-on activities, participants will reinforce their learning by discovering and developing materials, and building their own interactive map exhibit using one (or multiple) platforms. In the process, the workshop content will address a number of common issues related to historical GIS development. 
 
 Instructional elements of this workshop will include:
-Cartography and the great war: historical context; understanding and using grid reference systems; finding cartographic resources.
-Finding and understanding materials from the Great War
-Tackling common issues in HGIS
-Creating geospatial information from historical materials
-Developing ‘deep maps’: An introduction to a variety of platforms for creating interactive map exhibits.
+* Cartography and the great war: historical context; understanding and using grid reference systems; finding cartographic resources.
+* Finding and understanding materials from the Great War
+* Tackling common issues in HGIS
+* Creating geospatial information from historical materials
+* Developing ‘deep maps’: An introduction to a variety of platforms for creating interactive map exhibits.
 #### Speakers 
 Rebecca Bartlett, Carleton University  
 Gordon Beck, McMaster University  
