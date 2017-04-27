@@ -67,7 +67,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 Location: SFU Vancouver - 1700 Labatt Hall
 
 |Time      | Speaker(s) | Title |
-|:------------:|-----------|-----------|
+|:------------|-----------|-----------|
 |0930-1000|--|Registration|
 |1000<td colspan="2" align="left">**Presentation Session 05**</td>
 |||*Speakers TBA*|
