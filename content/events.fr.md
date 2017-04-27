@@ -19,5 +19,5 @@ layout = "single-para"
 |Conférence, deuxième journée|Jeudi 22 juin|0830-1630|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html) - 1400-1420 Segal Centre|
 |Assemblée générale annuelle de l’ACACC|Jeudi 22 juin|1200-1400|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html) - 1400-1420 Segal Centre|
 |Banquet|Jeudi 22 juin|1730-2000 (approx.)|[SFU Burnaby](http://www.sfu.ca/campuses/burnaby.html)|
-|Conférence, troisième journée|Vendredi 23 juin|0930-1200|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html)|
+|Conférence, troisième journée|Vendredi 23 juin|0930-1200|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html) - 1700 Labatt Hall|
 |Excursion|Vendredi 23 juin|1330-1530 (approx.)|TBA|
