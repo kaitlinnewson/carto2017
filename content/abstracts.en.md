@@ -21,7 +21,8 @@ Corresponding with Canada’s 150th anniversary, the ongoing centenary of the Fi
 
 To this end, the goal of this workshop is to enhance participants’ understanding of cartography and history of the Great War, and to develop their skills for using digital historical materials to create interactive and integrative map exhibits. Through a series of integrated information sessions and hands-on activities, participants will reinforce their learning by discovering and developing materials, and building their own interactive map exhibit using one (or multiple) platforms. In the process, the workshop content will address a number of common issues related to historical GIS development. 
 
-Instructional elements of this workshop will include:  
+Instructional elements of this workshop will include:
+
 * Cartography and the great war: historical context; understanding and using grid reference systems; finding cartographic resources.
 * Finding and understanding materials from the Great War
 * Tackling common issues in HGIS
@@ -30,14 +31,18 @@ Instructional elements of this workshop will include:
 
 ## Wednesday, 21-June
 ### <a name="keynote1"></a>Keynote Address: Indigenous Mapping in Canada
-Abstract coming soon.
-#### Speaker 
 [Chris Ames](../speakers#Ames), The Firelight Group
-### <a name="pres01a"></a>Spatial Humanities: Collaborating, Facilitating, Supporting
+
 Abstract coming soon.
-#### Speaker
+
+### <a name="pres01a"></a>Spatial Humanities: Collaborating, Facilitating, Supporting
 [Julie Jones](../speakers#Jones), Simon Fraser University
+
+Abstract coming soon.
+
 ### <a name="pres01b"></a>Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph 
+[Quin Shirk-Luckett](../speakers#Shirk-Luckett) & [Teresa Lewitzky](../speakers#Lewitzky), University of Guelph
+
 How can spatial exploration and mapping help you develop new understandings and unique perspectives of fictional and historical material? 
  
 Arguably all topics of research in the Humanities have some relationship with space.  Everything happens somewhere.  The general popularity and ubiquity of tools such as GPS and Google Maps have engendered a new level of spatial awareness.  Suddenly academics are presented with the opportunity to turn their bits of paper into bytes of data and create digitized versions of previously analog artefacts of history, culture, and literature.  This spatial analysis yields new ways to engage with the information, revealing new patterns, trends and understanding.
@@ -45,8 +50,6 @@ Arguably all topics of research in the Humanities have some relationship with sp
 Not surprisingly, there has been a steady uptake in GIS usage among Humanities academics.  The results of which have been visually powerful and in many cases offer new perspectives on long studied topics.
  
 In 2016, and again in 2017, we had the opportunity to offer a week-long hands-on course introducing spatial humanities through DH@Guelph summer institute.  We examined primary archival source materials; walked and mapped a fictional text; created spatial data; learned GIS processes and techniques; and explored tools for creating online exhibits of artefacts, research, and maps.  We used a heavily experiential and active learning approach to immerse the class in spatial insight, while also learning technical skills, and having fun!  We will share what we learned, what surprised us, what we improved, and what we would change next time. 
-#### Speakers
-[Quin Shirk-Luckett](../speakers#Shirk-Luckett) & [Teresa Lewitzky](../speakers#Lewitzky), University of Guelph
 
 ### <a name="pres01c"></a>HGIS Using ArcGIS Online
 Abstract coming soon.
