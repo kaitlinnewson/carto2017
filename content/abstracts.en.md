@@ -83,10 +83,10 @@ Initiated through a grant by the Ontario Council of University Libraries in the 
 In a follow-up to our 2015 Carto presentation, we will present the entirety of the project workflow, discuss the lessons learned and methodological improvements realized, and exhibit the project’s outcomes via a live demonstration of the Scholars GeoPortal-based interface. Additionally, we seek to present a framework and workflow for expanding this work to include all of Canada’s historical topographic maps. 
 
 ### <a name="roundtable"></a>Roundtable Discussion
+**Facilitator:** [Julie Jones](../speakers#Jones), Simon Fraser University
+
 What has kept you awake at night this year? What has you inspired and excited?
 This session will provide participants an opportunity to engage in informal discussion around one of a number of emerging issues in map libraries and archives. Attendees will collaborate in groups to discuss challenges and opportunities in these areas, with the purpose of improving understanding, developing potential solutions and, at the end of the session, communicating group discussion outcomes to the larger audience.
-#### Facilitator
-[Julie Jones](../speakers#Jones), Simon Fraser University
 
 ## Thursday, 22-June
 ### <a name="keynote2"></a>Keynote Address: TBA
