@@ -29,13 +29,13 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 |0900|--|Opening Remarks & Welcome|
 |0915|[Chris Ames](../speakers#Ames), The Firelight Group|[Keynote Address: Indigeneous Mapping in Canada](../abstracts#keynote1)|
 |1015|--|Morning Break|
-|1030<td colspan="2" align="center">**Presentation Session 01: Supporting Digital and Spatial Humanities**</td>
+|1030<td colspan="2" align="left">**Presentation Session 01: Supporting Digital and Spatial Humanities**</td>
 ||[Julie Jones](../speakers#Jones), Simon Fraser University|Spatial Humanities: Collaborating, Facilitating, Supporting|
 ||[Quin Shirk-Luckett](../speakers#Shirk-Luckett) & [Teresa Lewitzky](../speakers#Lewitzky), University of Guelph|Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph|
 ||[Marcel Fortin](../speakers#Fortin), University of Toronto|HGIS Using ArcGIS Online|
 ||[Deena Yanofsky](../speakers#Yanofsky) & [Nathalie Cooke](../speakers#Cooke), McGill University|GIS Lite & Online Visualization Tools in the Humanities Classroom: Tales From the Front Lines of a Librarian-Faculty Collaboration|
-|1215<td colspan="2" align="center">**Lunch (on own)**</td>
-|1345<td colspan="2" align="center">**Presentation Session 02: Digitization and Digital Mapping**</td>
+|1215<td colspan="2" align="left">**Lunch (on own)**</td>
+|1345<td colspan="2" align="left">**Presentation Session 02: Digitization and Digital Mapping**</td>
 ||[Martin Gingras]((../speakers#Gingras)), Surveyor General Branch, Natural Resources Canada|Transformation of Legal Canada Lands Surveys Records to Authoritative Digital Records|
 ||[Rebecca Bartlett](../speakers#Bartlett), Carleton University & [Trevor Ford](../speakers#Ford), Wilfrid Laurier University|Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge|
 ||[Kara Handren](../speakers#Handren), Scholars Portal, [Sarah Simpkin](../speakers#Simpkin), University of Ottawa, [Jason Brodeur](../speakers#Brodeur), McMaster University|Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project|
@@ -50,12 +50,12 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 |0830 to 0900|--|Registration|
 |0900|TBA|Keynote Address|
 |1000|--|Morning Break|
-|1015<td colspan="2" align="center">**Presentation Session 03: Reconsidering Map Collections**</td>
+|1015<td colspan="2" align="left">**Presentation Session 03: Reconsidering Map Collections**</td>
 ||[Francine Berish](../speakers#Berish), Queen's University|Unearthing Geological History: Revealing and Protecting GSC Research Through Improved Metadata and Stewardship|
 ||[Gordon Beck](../speakers#Beck) & [Jason Brodeur](../speakers#Brodeur), McMaster University|OK, We’ve Scanned the Maps--What Now? Reflecting on Five Years of Map Digitization|
 ||[Rachel Bergquist](../speakers#Bergquist) & [Emily Sugerman](../speakers#Sugerman), University of British Columbia|Time to Talk: Seeing, Holding and Sharing Print Map Collections|
-|1200 to 1400<td colspan="2" align="center">**ACMLA-ACACC Annual General Meeting (Boxed lunch provided to ACMLA Members)**</td>
-|1400<td colspan="2" align="center">**Presentation Session 04: Improving Spatial Literacy**</td>
+|1200 to 1400<td colspan="2" align="left">**ACMLA-ACACC Annual General Meeting (Boxed lunch provided to ACMLA Members)**</td>
+|1400<td colspan="2" align="left">**Presentation Session 04: Improving Spatial Literacy**</td>
 ||[Barbara Znamirowski](../speakers#Znamirowski), Trent University|Spatial Thinking by the Numbers|
 ||[Cynthia Dietz](../speakers#Dietz), University of Manitoba|Digital Content and Marketing Strategies to Boost GIS Workshop Attendance|
 ||[Francine Berish](../speakers#Berish), Queen's University|Mapping en Plein Air: Painting the Way to Experiential Learning|
@@ -68,7 +68,7 @@ Location: SFU Vancouver - 1700 Labatt Hall
 |Time      | Speaker(s) | Title |
 |:------------:|-----------|-----------|
 |0930 to 1000|--|Registration|
-|1000<td colspan="2" align="center">**Presentation Session 05**</td>
+|1000<td colspan="2" align="left">**Presentation Session 05**</td>
 ||Speakers TBA||
 |1130|--|Closing Remarks|
 |1200 to 1700|--|Field Trip: Aquataxi Tour of False Creek, City of Vancouver Archives, and the Museum of Vancouver|
