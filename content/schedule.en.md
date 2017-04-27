@@ -17,8 +17,8 @@ Location: SFU Vancouver - Computer Lab 1350
 
 |Time      | Speaker(s) | Title |
 |:------------:| -----------| -----------|
-|0830 to 0900|--|Registration|
-|0900 to 1600|[Rebecca Bartlett](../speakers#Bartlett), Carleton University, [Gordon Beck](../speakers#Beck) & [Jason Brodeur](../speakers#Brodeur), McMaster University, [Trevor Ford](../speakers#Ford), Wilfrid Laurier University|[Workshop: Building "Deep" Maps of The Great War](../abstracts#work1)|
+|0830-0900|--|Registration|
+|0900-1600|[Rebecca Bartlett](../speakers#Bartlett), Carleton University, [Gordon Beck](../speakers#Beck) & [Jason Brodeur](../speakers#Brodeur), McMaster University, [Trevor Ford](../speakers#Ford), Wilfrid Laurier University|[Workshop: Building "Deep" Maps of The Great War](../abstracts#work1)|
 |1830|--|Icebreaker: [TAPshack - Coal Harbour, 1199 W Cordova St](http://tapshack.ca/menu.html)|
 
 # Wednesday, 21-June
@@ -26,7 +26,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 
 |Time      | Speaker(s) | Title |
 |:------------:|-----------|-----------|
-|0830 to 0900|--|Registration|
+|0830-0900|--|Registration|
 |0900|--|Opening Remarks & Welcome|
 |0915|[Chris Ames](../speakers#Ames), The Firelight Group|[Keynote Address: Indigeneous Mapping in Canada](../abstracts#keynote1)|
 |1015|--|Morning Break|
