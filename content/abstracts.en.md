@@ -90,7 +90,6 @@ This session will provide participants an opportunity to engage in informal disc
 
 ## Thursday, 22-June
 ### <a name="keynote2"></a>Keynote Address: TBA
-#### Speaker
 Coming Soon
 
 ### <a name="pres03a"></a>Unearthing geological history: Revealing and protecting GSC research through improved metadata and stewardship
