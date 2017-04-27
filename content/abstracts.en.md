@@ -117,6 +117,7 @@ This paper will look at approaches to data visualization focusing on innovative 
 
 Digital and content marketing strategies boosted attendance at GIS workshops at the University of Manitoba dramatically. The first strategy involved the development of a Geospatial Semester of seven basic to intermediate workshops that would appeal to graduate students and faculty as well as undergraduates. The content of our workshops was changed to address the top strategic research goals at the University of Manitoba.  The second strategy involved the marketing of those workshops to graduate students by the Faculty of Graduate Studies on their webpage two weeks prior to each semester and thereafter. Not to deny all U. of Manitoba affiliates an opportunity, identical workshops were offered to faculty, staff and all students within a day or two of the graduate offerings. All workshops were advertised by the Library through its subject guides.  Tools introduced in the workshops seemed to be in demand. They included visualizations using maps and charts, the use of map series, hot spot analyses showing degrees of confidence, georeferencing maps for historical analyses, analyzing satellite imagery and shoreline change, map analysis, and the use of photos, videos and webpages in a Story Map. Details will be offered concerning the attendance and registrations by department and faculty.
 
+---
 ### <a name="pres04c"></a>Mapping en Plein Air: Painting the Way to Experiential Learning 
 [Francine Berish](../speakers#Berish), Queen's University
 
