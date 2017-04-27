@@ -36,16 +36,16 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 ||[Quin Shirk-Luckett](../speakers#Shirk-Luckett) & [Teresa Lewitzky](../speakers#Lewitzky), University of Guelph|[Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph](../abstracts#pres01b)|
 ||[Deena Yanofsky](../speakers#Yanofsky) & [Nathalie Cooke](../speakers#Cooke), McGill University|[GIS Lite & Online Visualization Tools in the Humanities Classroom: Tales From the Front Lines of a Librarian-Faculty Collaboration](../abstracts#pres01d)|
 
-|1215<td colspan="2" align="left">**Lunch (on own)**</td>
+|1200<td colspan="2" align="left">**Lunch (on own)**</td>
 
-|1345<td colspan="2" align="left">**Presentation Session 02: Digitization,  Digital Mapping, and Historical GIS**</td>
+|1330<td colspan="2" align="left">**Presentation Session 02: Digitization,  Digital Mapping, and Historical GIS**</td>
 ||[Marcel Fortin](../speakers#Fortin), University of Toronto|[HGIS Using ArcGIS Online](../abstracts#pres01c)|
 ||[Rebecca Bartlett](../speakers#Bartlett), Carleton University & [Trevor Ford](../speakers#Ford), Wilfrid Laurier University|[Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge](../abstracts#pres02b)|
 ||[Kara Handren](../speakers#Handren), Scholars Portal, [Sarah Simpkin](../speakers#Simpkin), University of Ottawa, [Jason Brodeur](../speakers#Brodeur), McMaster University|[Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project](../abstracts#pres02c)|
 
-|1515|--|Afternoon Break|
+|1500|--|Afternoon Break|
 
-|1530|[Julie Jones](../speakers#Jones), Simon Fraser University|[Roundtable Discussion](../abstracts#roundtable)|
+|1515|[Julie Jones](../speakers#Jones), Simon Fraser University|[Roundtable Discussion](../abstracts#roundtable)|
 
 ---
 # Thursday, 22-June
