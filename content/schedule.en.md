@@ -21,6 +21,7 @@ Location: SFU Vancouver - Computer Lab 1350
 |0900-1600|[Rebecca Bartlett](../speakers#Bartlett), Carleton University, [Gordon Beck](../speakers#Beck) & [Jason Brodeur](../speakers#Brodeur), McMaster University, [Trevor Ford](../speakers#Ford), Wilfrid Laurier University|[Workshop: Building "Deep" Maps of The Great War](../abstracts#work1)|
 |1830|--|Icebreaker: [TAPshack - Coal Harbour, 1199 W Cordova St](http://tapshack.ca/menu.html)|
 
+---
 # Wednesday, 21-June
 Location: SFU Vancouver - 1400-1420 Segal Centre 
 
@@ -43,6 +44,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 |1515|--|Afternoon Break|
 |1530|[Julie Jones](../speakers#Jones), Simon Fraser University|[Roundtable Discussion](../abstracts#roundtable)|
 
+---
 # Thursday, 22-June
 Location: SFU Vancouver - 1400-1420 Segal Centre
 
@@ -63,6 +65,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 |1530|--|Afternoon Break|
 |1545|[Jason Brodeur](../speakers#Brodeur), McMaster University|[Breakout Session](../abstracts#breakout)|
 
+---
 # Friday, 23-June
 Location: SFU Vancouver - 1700 Labatt Hall
 
