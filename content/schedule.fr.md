@@ -14,9 +14,9 @@ layout = "single-para"
 # Mardi 20 juin
 Lieu: SFU Vancouver - Salle informatique 1350
 
-|Temps      | Speaker(s) | Title |
+|Temps      | Conférencier | Titre |
 |:------------:| -----------| -----------|
-|0830-0900|--|Registration|
+|0830-0900|--|Inscription|
 |0900-1600|[Rebecca Bartlett](../speakers#Bartlett), Carleton University, [Gordon Beck](../speakers#Beck) & [Jason Brodeur](../speakers#Brodeur), McMaster University, [Trevor Ford](../speakers#Ford), Wilfrid Laurier University|[Workshop: Building "Deep" Maps of The Great War](../abstracts#work1)|
 |1830|--|Icebreaker: [TAPshack - Coal Harbour, 1199 W Cordova St](http://tapshack.ca/menu.html)|
 
@@ -24,11 +24,11 @@ Lieu: SFU Vancouver - Salle informatique 1350
 # Mercredi 21 juin
 Lieu: SFU Vancouver - 1400-1420 Segal Centre 
 
-|Time      | Speaker(s) | Title |
+|Time      | Speaker(s) | Titre |
 |:------------:|-----------|-----------|
-|0830-0900|--|Registration|
-|0900|--|Opening Remarks & Welcome|
-|0915|[Chris Ames](../speakers#Ames), The Firelight Group|[Keynote Address: Indigeneous Mapping in Canada](../abstracts#keynote1)|
+|0830-0900|--|Inscription|
+|0900|--|Remarques d'ouverture|
+|0915|[Chris Ames](../speakers#Ames), The Firelight Group|[Discours D'ouverture: Indigeneous Mapping in Canada](../abstracts#keynote1)|
 |1015|--|Morning Break|
 |1030<td colspan="2" align="left">**Presentation Session 01: Supporting Digital and Spatial Humanities**</td>
 ||[Julie Jones](../speakers#Jones), Simon Fraser University|[Spatial Humanities: Collaborating, Facilitating, Supporting](../abstracts#pres01a)|
@@ -49,8 +49,8 @@ Lieu: SFU Vancouver - 1400-1420 Segal Centre
 
 |Time      | Speaker(s) | Title |
 |:-----------|-----------|-----------|
-|0830-0900|--|Registration|
-|0900|TBA|Keynote Address|
+|0830-0900|--|Inscription|
+|0900|TBA|Discours D'ouverture|
 |1000|--|Morning Break|
 |1015<td colspan="2" align="left">**Presentation Session 03: Reconsidering and Revitalizing Map Collections**</td>
 ||[Francine Berish](../speakers#Berish), Queen's University|[Unearthing Geological History: Revealing and Protecting GSC Research Through Improved Metadata and Stewardship](../abstracts#pres03a)|
@@ -70,7 +70,7 @@ Lieu: SFU Vancouver - 1700 Labatt Hall
 
 |Time      | Speaker(s) | Title |
 |:------------|-----------|-----------|
-|0930-1000|--|Registration|
+|0930-1000|--|Inscription|
 |1000<td colspan="2" align="left">**Presentation Session 05**</td>
 |||*Speakers TBA*|
 |1130|--|Closing Remarks|
