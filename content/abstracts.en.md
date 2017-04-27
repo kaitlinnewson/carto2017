@@ -84,7 +84,7 @@ In a follow-up to our 2015 Carto presentation, we will present the entirety of t
 What has kept you awake at night this year? What has you inspired and excited?
 This session will provide participants an opportunity to engage in informal discussion around one of a number of emerging issues in map libraries and archives. Attendees will collaborate in groups to discuss challenges and opportunities in these areas, with the purpose of improving understanding, developing potential solutions and, at the end of the session, communicating group discussion outcomes to the larger audience.
 #### Facilitator
-Julie Jones, Simon Fraser University
+[Julie Jones](../speakers#Jones), Simon Fraser University
 
 ## Thursday, 22-June
 ### <a name="keynote2"></a>Keynote Address: TBA
