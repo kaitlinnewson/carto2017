@@ -12,8 +12,5 @@ layout = "single-para"
 |Early-bird registration ends |Wednesday, 31-May, 2017|
 
 ### Notes on Banquet Tickets:
-* Banquet tickets are included in full conference registration fees.
+* A banquet ticket is included in the full conference registration fee (no additional purchase required).
 * Banquet tickets may be purchased for additional guests, students, and retirees.
-
-
-
