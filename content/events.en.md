@@ -11,8 +11,6 @@ layout = "single-para"
 </div>
 <br />
 
-### Events
-
 | Event | Date | Time (PDT) | Location|
 |------|-------|-------|-------|
 |Pre-Conference Workshops|Tuesday, 20-June|0900-1700|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html) - Computer Lab 1350|
