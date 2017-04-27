@@ -118,8 +118,7 @@ Digital and content marketing strategies boosted attendance at GIS workshops at 
 
 ### <a name="pres04c"></a>Mapping en Plein Air: Painting the Way to Experiential Learning
 It is one thing to scan, georeference and overlay a fire insurance plan onto a contemporary base map creating an artifact—although providing some well-needed context, these maps still require  imagination. It is another thing entirely to overlay the historic features onto a life-sized, true-to-scale context, allowing tour goers to step into another world. Standing on the green grass in Douglas Fluhrer Park on the St. Lawrence River in downtown Kingston, Ontario, it is hard to imagine the once dark and industrial landscape marked with oil drums, factories and rail lines. One windy day, armed with coordinates pulled from a georeferenced fire insurance plan overlay, our smartphones, and some flags, a few of us conspired to bring social history to life by transposing the historic rail lines onto the grass using field marking paint. We began by marking the endpoints for our volunteer field painter, and by the following morning the park was transformed into an immersive backdrop for sharing oral histories from this often overlooked Inner Harbour neighbourhood of industrial waterfront. This project was the brainchild of Laura Murray and the Swamp Ward and Inner Harbour History Project (SWIHHP), and in addition to the experiential learning component provided by life-size learning, the project was also able to feature the georeferenced historical map and fire insurance plan artefacts by passing them around during the tour as well as posting them on the project blog.
-#### Speaker
-[Francine Berish](../speakers#Berish), Queen's University
+**Speaker:**[Francine Berish](../speakers#Berish), Queen's University
 
 ### <a name="breakout"></a>Breakout Session
 #### Facilitator
