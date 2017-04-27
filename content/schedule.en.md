@@ -48,14 +48,14 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 
 |Time      | Speaker(s) | Title |
 |:-----------:|-----------|-----------|
-|0830 to 0900|--|Registration|
+|0830-0900|--|Registration|
 |0900|TBA|Keynote Address|
 |1000|--|Morning Break|
 |1015<td colspan="2" align="left">**Presentation Session 03: Reconsidering and Revitalizing Map Collections**</td>
 ||[Francine Berish](../speakers#Berish), Queen's University|[Unearthing Geological History: Revealing and Protecting GSC Research Through Improved Metadata and Stewardship](../abstracts#pres03a)|
 ||[Gordon Beck](../speakers#Beck) & [Jason Brodeur](../speakers#Brodeur), McMaster University|[OK, We’ve Scanned the Maps--What Now? Reflecting on Five Years of Map Digitization](../abstracts#pres03b)|
 ||[Rachel Bergquist](../speakers#Bergquist) & [Emily Sugerman](../speakers#Sugerman), University of British Columbia|[Time to Talk: Seeing, Holding and Sharing Print Map Collections](../abstracts#pres03c)|
-|1200 to 1400<td colspan="2" align="left">**ACMLA-ACACC Annual General Meeting (Boxed lunch provided to ACMLA Members)**</td>
+|1200-1400<td colspan="2" align="left">**ACMLA-ACACC Annual General Meeting (Boxed lunch provided to ACMLA Members)**</td>
 |1400<td colspan="2" align="left">**Presentation Session 04: Improving Spatial Literacy**</td>
 ||[Barbara Znamirowski](../speakers#Znamirowski), Trent University|[Spatial Thinking by the Numbers](../abstracts#pres04a)|
 ||[Cynthia Dietz](../speakers#Dietz), University of Manitoba|[Digital Content and Marketing Strategies to Boost GIS Workshop Attendance](../abstracts#pres04b)|
