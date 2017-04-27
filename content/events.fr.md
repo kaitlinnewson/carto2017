@@ -15,7 +15,7 @@ layout = "single-para"
 
 | événement | date | temps (PDT) | emplacement|
 |------|-------|-------|-------|
-|Ateliers|Mardi 20 juin|0900-1700|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html)|
+|Ateliers|Mardi 20 juin|0900-1600|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html) - Computer Lab 1350|
 |Activité brise-glace|Mardi 20 juin|1830 (approx.)|TBA|
 |Conférence, première journée|Mercredi 21 juin|0830-1600|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html)|
 |Conférence, deuxième journée|Jeudi 22 juin|0830-1600|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html)|
