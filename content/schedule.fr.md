@@ -72,7 +72,7 @@ Lieu: SFU Vancouver - 1700 Labatt Hall
 |Temps      | Conférencier(s) | Titre |
 |:------------|-----------|-----------|
 |0930-1000|--|Inscription|
-|1000<td colspan="2" align="left">**Presentation Session 05: Improving Access to Governmental Information** </td>
+|1000<td colspan="2" align="left">**Presentation Session 05: Improving Access to Government Information** </td>
 ||[Martin Gingras]((../speakers#Gingras)), Surveyor General Branch, Natural Resources Canada|[Transformation of Legal Canada Lands Surveys Records to Authoritative Digital Records](../abstracts#pres02a)|
 |||*More speakers TBA*|
 |1130|--|Closing Remarks|
