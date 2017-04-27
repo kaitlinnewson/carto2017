@@ -14,7 +14,7 @@ layout = "single-para"
 # Mardi 20 juin
 Lieu: SFU Vancouver - Salle informatique 1350
 
-|Temps      | Conférencier | Titre |
+|Temps      | Conférencier(s) | Titre |
 |:------------:| -----------| -----------|
 |0830-0900|--|Inscription|
 |0900-1600|[Rebecca Bartlett](../speakers#Bartlett), Carleton University, [Gordon Beck](../speakers#Beck) & [Jason Brodeur](../speakers#Brodeur), McMaster University, [Trevor Ford](../speakers#Ford), Wilfrid Laurier University|[Workshop: Building "Deep" Maps of The Great War](../abstracts#work1)|
@@ -24,7 +24,7 @@ Lieu: SFU Vancouver - Salle informatique 1350
 # Mercredi 21 juin
 Lieu: SFU Vancouver - 1400-1420 Segal Centre 
 
-|Time      | Speaker(s) | Titre |
+|Temps      | Conférencier(s) | Titre |
 |:------------:|-----------|-----------|
 |0830-0900|--|Inscription|
 |0900|--|Remarques d'ouverture|
@@ -47,7 +47,7 @@ Lieu: SFU Vancouver - 1400-1420 Segal Centre
 # Jeudi 22 juin
 Lieu: SFU Vancouver - 1400-1420 Segal Centre
 
-|Time      | Speaker(s) | Title |
+|Temps      | Conférencier(s) | Titre |
 |:-----------|-----------|-----------|
 |0830-0900|--|Inscription|
 |0900|TBA|Discours D'ouverture|
@@ -68,7 +68,7 @@ Lieu: SFU Vancouver - 1400-1420 Segal Centre
 # Vendredi 23 juin
 Lieu: SFU Vancouver - 1700 Labatt Hall
 
-|Time      | Speaker(s) | Title |
+|Temps      | Conférencier(s) | Titre |
 |:------------|-----------|-----------|
 |0930-1000|--|Inscription|
 |1000<td colspan="2" align="left">**Presentation Session 05**</td>
