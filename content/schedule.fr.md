@@ -43,6 +43,7 @@ Lieu: SFU Vancouver - 1400-1420 Segal Centre
 ||[Kara Handren](../speakers#Handren), Scholars Portal, [Sarah Simpkin](../speakers#Simpkin), University of Ottawa, [Jason Brodeur](../speakers#Brodeur), McMaster University|[Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project](../abstracts#pres02c)|
 
 |1500|--|Afternoon Break|
+
 |1515|[Julie Jones](../speakers#Jones), Simon Fraser University|[Roundtable Discussion](../abstracts#roundtable)|
 
 ---
@@ -73,7 +74,8 @@ Lieu: SFU Vancouver - 1700 Labatt Hall
 |Temps      | Conférencier(s) | Titre |
 |:------------|-----------|-----------|
 |0930-1000|--|Inscription|
-|1000<td colspan="2" align="left">**Presentation Session 05**</td>
-|||*TBA*|
+|1000<td colspan="2" align="left">**Presentation Session 05: Improving Access to Governmental Information** </td>
+||[Martin Gingras]((../speakers#Gingras)), Surveyor General Branch, Natural Resources Canada|[Transformation of Legal Canada Lands Surveys Records to Authoritative Digital Records](../abstracts#pres02a)|
+|||*More speakers TBA*|
 |1130|--|Closing Remarks|
 |1200-1700|--|Field Trip: Aquataxi Tour of False Creek, City of Vancouver Archives, and the Museum of Vancouver|
