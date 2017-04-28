@@ -72,7 +72,7 @@ Quin Shirk-Luckett works in the Data Resource Centre at the University of Guelph
 
 ---
 ### <a name="Simpkin"></a>Sarah Simpkin
-
+Sarah Simpkin is currently serving as Interim Digital Scholarship Librarian at the University of Ottawa, where she is working on advancing digital humanities initiatives across campus (and bringing in maps and GIS whenever possible!). ACMLA members may also know her as the mailing list moderator and book reviews editor. Sarah holds an Hon. BSc. in Physical Geography from the University of Toronto and a Masters of Library and Information Science degree from the University of Western Ontario.
 ---
 ### <a name="Sugerman"></a>Emily Sugerman
 Emily Sugerman os a Master’s of Library and Information Science candidate at the University of British Columbia, with a BA in Comparative Literature and Culture from the University of Western Ontario. Print map love runs deep!
