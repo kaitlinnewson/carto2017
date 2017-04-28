@@ -17,8 +17,6 @@ The conference banquet will be held at the SFU [Burnaby Campus](https://www.sfu.
 
 [YVR Airport to SFU Vancouver by Skytrain](https://www.google.ca/maps/dir/YVR-Airport,+Richmond,+BC/Harbour+Centre,+West+Hastings+Street,+Vancouver,+BC/@49.2392857,-123.1800167,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x54860b35cf6b5445:0xa4e577cdca813aa5!2m2!1d-123.1781014!2d49.1942659!1m5!1m1!1s0x548671786785c251:0xa13de85753959110!2m2!1d-123.1119349!2d49.2846966!3e3) Canada Line: YVR/Airport Station - Waterfront Station. Cost: $9.00 for 2 zones. Time: 25-30 minutes. Very fast, very easy! 
 
-![YVR to Waterfront.jpg]({{site.baseurl}}/content/YVR to Waterfront.jpg)
-
 YVR Airport to SFU Vancouver by **taxi**. Cost: about $40. Time: About 40 minutes.
 
 ### Transportation
