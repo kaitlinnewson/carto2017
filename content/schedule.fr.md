@@ -76,4 +76,4 @@ Lieu: SFU Vancouver - 1700 Labatt Hall
 ||[Martin Gingras]((../speakers#Gingras)), Surveyor General Branch, Natural Resources Canada|[Transformation of Legal Canada Lands Surveys Records to Authoritative Digital Records](../abstracts#pres02a)|
 |||*More speakers TBA*|
 |1130|--|Closing Remarks|
-|1200-1700|--|Field Trip: Aquataxi Tour of False Creek, City of Vancouver Archives, and the Museum of Vancouver|
+|1200-1700|--|[Field Trip](../events#fieldtrip): Boat tour of False Creek, lunch at Granville Island Public Market, and behind the scenes tour of the City of Vancouver Archives|
