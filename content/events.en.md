@@ -20,4 +20,23 @@ layout = "single-para"
 |ACMLA AGM|Thursday, 22-June|1200-1400|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html) - 1400-1420 Segal Centre|
 |Banquet|Thursday, 22-June|1730-2000 (approx.)|[SFU Burnaby](http://www.sfu.ca/campuses/burnaby.html)|
 |Conference, Day 3|Friday, 23-June|0930-1200|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html) - 1700 Labatt Hall|
-|Field Trip|Friday, 23-June|1330-1530 (approx.)|Private boat tour of False Creek with drop off at Granville Island Public Market for lunch. Tour of the [City of Vancouver Archives](http://vancouver.ca/your-government/city-of-vancouver-archives.aspx) and a visit to the [Museum of Vancouver](http://www.museumofvancouver.ca/). Cost: $21.75, including all transportation (but not lunch!).|
+|[Field Trip](#fieldtrip)|Friday, 23-June|1330-1530 (approx.)|Private boat tour of False Creek with drop off at Granville Island Public Market for lunch. Tour of the [City of Vancouver Archives](http://vancouver.ca/your-government/city-of-vancouver-archives.aspx). Cost: $11, including all transportation (but not lunch!).|
+
+### <a name="fieldtrip"></a>Field Trip
+
+**What:** Boat tour of False Creek, lunch at Granville Island Public Market, and behind the scenes tour of the City of Vancouver Archives 
+
+Join us for the 2017 field trip! We will start with our own private boat tour of False Creek on a chartered Vancouver Aquabus, which will take us to Granville Island Public Market for lunch (buy your own). 
+
+After lunch at Granville Island we will take a 20 minute walk along the seawall to the City of Vancouver Archives for a behind the scenes tour. The Archives has an extensive collection of Vancouver maps, architectural plans, and fire insurance plans, and has completed a number of major digitization projects focused on this content in recent years. 
+
+We'll then take a short walk to catch a quick bus ride back to SFU Vancouver, for a 4:00 p.m. arrival. 
+
+Cost: $11. Includes all transportation (but not lunch!)
+
+**Mobility issues:** If the walking involved in this field trip is a concern for you, please get in touch with [Julie Jones](mailto:jsj7@sfu.ca) so that alternate arrangements can be made.
+
+Need to catch a flight and worried about timing? Get in touch with [Julie Jones](mailto:jsj7@sfu.ca). It may be possible to have you join us for a part of the field trip or to arrange different transportation for you. 
+
+
+
