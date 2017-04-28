@@ -28,7 +28,7 @@ layout = "single-para"
 
 Join us for the 2017 field trip! We will start with our own private boat tour of False Creek on a chartered [Vancouver Aquabus](http://theaquabus.com/), which will take us to [Granville Island Public Market](http://granvilleisland.com/public-market) for lunch (buy your own). 
 
-After lunch at Granville Island we will take a 20 minute walk along the seawall to the [City of Vancouver Archives](http://vancouver.ca/your-government/city-of-vancouver-archives.aspx) for a behind the scenes tour. The Archives has an extensive collection of Vancouver maps, architectural plans, and fire insurance plans, and has completed a number of major digitization projects focused on this content in recent years. 
+After lunch at Granville Island we will take a 20 minute walk along the seawall to the [City of Vancouver Archives](http://vancouver.ca/your-government/city-of-vancouver-archives.aspx) for a behind the scenes tour. The Archives has an extensive collection of [Vancouver maps, architectural plans, and fire insurance plans](https://www.flickr.com/photos/vancouver-archives/sets/72157666436867171), and has completed a number of major digitization projects focused on this content in recent years. 
 
 We'll then take a short walk to catch a quick bus ride back to SFU Vancouver, for a 3:45 p.m. arrival. 
 
