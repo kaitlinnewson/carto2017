@@ -30,7 +30,7 @@ Join us for the 2017 field trip! We will start with our own private boat tour of
 
 After lunch at Granville Island we will take a 20 minute walk along the seawall to the City of Vancouver Archives for a behind the scenes tour. The Archives has an extensive collection of Vancouver maps, architectural plans, and fire insurance plans, and has completed a number of major digitization projects focused on this content in recent years. 
 
-We'll then take a short walk to catch a quick bus ride back to SFU Vancouver, for a 4:00 p.m. arrival. 
+We'll then take a short walk to catch a quick bus ride back to SFU Vancouver, for a 3:45 p.m. arrival. 
 
 Cost: $11. Includes all transportation (but not lunch!)
 
