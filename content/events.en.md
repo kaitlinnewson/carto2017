@@ -24,7 +24,7 @@ layout = "single-para"
 
 ### <a name="fieldtrip"></a>Field Trip
 
-**What:** Boat tour of False Creek, lunch at Granville Island Public Market, and behind the scenes tour of the City of Vancouver Archives 
+**Details:** Boat tour of False Creek, lunch at Granville Island Public Market, and behind the scenes tour of the City of Vancouver Archives 
 
 Join us for the 2017 field trip! We will start with our own private boat tour of False Creek on a chartered Vancouver Aquabus, which will take us to Granville Island Public Market for lunch (buy your own). 
 
