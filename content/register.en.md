@@ -20,4 +20,8 @@ To assist in achieving and maintaining a diverse and inclusive conference makeup
 
 We ask all applicants to first try and find funding at their own institutions. Please note that applicants who are contributing to the Annual Conference/AGM program will be considered first. All applicants to this fund must be members of ACMLA in good standing. 
 
-To apply for travel assistance, please complete and submit the [Conference Assistance Application Form](https://goo.gl/forms/ooP0wqD8HDvmW9iI2) by May 15, 2017. Questions regarding the application process should be sent to Siobhan Hanratty, ACMLA Past-President, at past.president@acmla-acacc.ca
+To apply for travel assistance, please complete and submit the [Conference Assistance Application Form](https://goo.gl/forms/ooP0wqD8HDvmW9iI2) by May 15, 2017. Questions regarding the application process should be sent to Siobhan Hanratty, ACMLA Past-President, at [past.president@acmla-acacc.ca](mailto:past.president@acmla-acacc.ca)
+
+---
+
+<script src="https://memberservices.membee.com/feeds/Events/EventScript.ashx?id=103&cid=688&wid=501" type="text/javascript"></script>

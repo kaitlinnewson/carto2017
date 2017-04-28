@@ -5,6 +5,6 @@
 		<h3>{{ .Site.Params.hero.herotitle }}</h3>
 		<p class="hero-subtitle">{{ .Site.Params.hero.herosubtitle }}</p>
 		<p>{{ .Site.Params.hero.herodescription }}</p>
-		<a href="register" class="button primary">{{ .Site.Params.hero.btnblue }}</a>
+		<a href="{{ .Site.BaseURL | relLangURL }}/register/#id=103&wid=501&cid=688" class="button primary">{{ .Site.Params.hero.btnblue }}</a>
 	</div>
 </section> {{ "<!-- END HERO PANEL -->" | safeHTML }}

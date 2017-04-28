@@ -14,66 +14,249 @@ layout = "single-para"
 # Mardi 20 juin
 Lieu: SFU Vancouver - Salle informatique 1350
 
-|Temps      | Conférencier(s) | Titre |
-|:------------:| -----------| -----------|
-|0830-0900|--|Inscription|
-|0900-1600|[Rebecca Bartlett](../speakers#Bartlett), Carleton University, [Gordon Beck](../speakers#Beck) & [Jason Brodeur](../speakers#Brodeur), McMaster University, [Trevor Ford](../speakers#Ford), Wilfrid Laurier University|[Workshop: Building "Deep" Maps of The Great War](../abstracts#work1)|
-|1830|--|Icebreaker: [TAPshack - Coal Harbour, 1199 W Cordova St](http://tapshack.ca/menu.html)|
+<table>
+	<thead>
+		<tr>
+			<th>Temps</th>
+			<th>Conférencier(s)</th>
+			<th>Titre</th>
+		</tr>
+	</thead>
+
+	<tbody>
+		<tr>
+			<td>0830-0900</td>
+			<td>–</td>
+			<td>Inscription</td>
+		</tr>
+		<tr>
+			<td>0900-1600</td>
+			<td><a href="../speakers#Bartlett">Rebecca Bartlett</a>, Carleton University, <a href="../speakers#Beck">Gordon Beck</a> &amp; <a href="../speakers#Brodeur">Jason Brodeur</a>, McMaster University, <a href="../speakers#Ford">Trevor Ford</a>, Wilfrid Laurier University</td>
+			<td><a href="../abstracts#work1">Workshop: Building “Deep” Maps of The Great War</a></td>
+		</tr>
+		<tr>
+			<td>1830</td>
+			<td>–</td>
+			<td>Icebreaker: <a href="http://tapshack.ca/menu.html">TAPshack - Coal Harbour, 1199 W Cordova St</a></td>
+		</tr>
+	</tbody>
+</table>
 
 ---
 # Mercredi 21 juin
 Lieu: SFU Vancouver - 1400-1420 Segal Centre 
 
-|Temps      | Conférencier(s) | Titre |
-|:------------:|-----------|-----------|
-|0830-0900|--|Inscription|
-|0900|--|Remarques d'ouverture|
-|0915|[Chris Ames](../speakers#Ames), The Firelight Group|[Discours D'ouverture: Indigeneous Mapping in Canada](../abstracts#keynote1)|
-|1015|--|Morning Break|
-|1030<td colspan="2" align="left">**Presentation Session 01: Supporting Digital and Spatial Humanities**</td>
-||[Julie Jones](../speakers#Jones), Simon Fraser University|[Spatial Humanities: Collaborating, Facilitating, Supporting](../abstracts#pres01a)|
-||[Quin Shirk-Luckett](../speakers#Shirk-Luckett) & [Teresa Lewitzky](../speakers#Lewitzky), University of Guelph|[Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph](../abstracts#pres01b)|
-||[Deena Yanofsky](../speakers#Yanofsky) & [Nathalie Cooke](../speakers#Cooke), McGill University|[GIS Lite & Online Visualization Tools in the Humanities Classroom: Tales From the Front Lines of a Librarian-Faculty Collaboration](../abstracts#pres01d)|
-|1215<td colspan="2" align="left">**Lunch (on own)**</td>
-|1330<td colspan="2" align="left">**Presentation Session 02: Digitization,  Digital Mapping, and Historical GIS**</td>
-||[Marcel Fortin](../speakers#Fortin), University of Toronto|[HGIS Using ArcGIS Online](../abstracts#pres01c)|
-||[Rebecca Bartlett](../speakers#Bartlett), Carleton University & [Trevor Ford](../speakers#Ford), Wilfrid Laurier University|[Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge](../abstracts#pres02b)|
-||[Kara Handren](../speakers#Handren), Scholars Portal, [Sarah Simpkin](../speakers#Simpkin), University of Ottawa, [Jason Brodeur](../speakers#Brodeur), McMaster University|[Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project](../abstracts#pres02c)|
+<table>
+	<thead>
+		<tr>
+			<th>Temps</th>
+			<th>Conférencier(s)</th>
+			<th>Titre</th>
+		</tr>
+	</thead>
 
-|1500|--|Afternoon Break|
-
-|1515|[Julie Jones](../speakers#Jones), Simon Fraser University|[Roundtable Discussion](../abstracts#roundtable)|
+	<tbody>
+		<tr>
+			<td>0830-0900</td>
+			<td>–</td>
+			<td>Inscription</td>
+		</tr>
+		<tr>
+			<td>0900</td>
+			<td>–</td>
+			<td>Remarques d'ouverture</td>
+		</tr>
+		<tr>
+			<td>0915</td>
+			<td><a href="../speakers#Ames">Chris Ames</a>, The Firelight Group</td>
+			<td><a href="../abstracts#keynote1">Keynote Address: Indigeneous Mapping in Canada</a></td>
+		</tr>
+		<tr>
+			<td>1015</td>
+			<td>–</td>
+			<td>Morning Break</td>
+		</tr>
+		<tr>
+			<td>1030</td>
+			<td colspan="2"><strong>Presentation Session 01: Supporting Digital and Spatial Humanities</strong></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a href="../speakers#Jones">Julie Jones</a>, Simon Fraser University</td>
+			<td><a href="../abstracts#pres01a">Spatial Humanities: Collaborating, Facilitating, Supporting</a></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a href="../speakers#Shirk-Luckett">Quin Shirk-Luckett</a> &amp; <a href="../speakers#Lewitzky">Teresa Lewitzky</a>, University of Guelph</td>
+			<td><a href="../abstracts#pres01b">Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph</a></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a href="../speakers#Yanofsky">Deena Yanofsky</a> &amp; <a href="../speakers#Cooke">Nathalie Cooke</a>, McGill University</td>
+			<td><a href="../abstracts#pres01d">GIS Lite &amp; Online Visualization Tools in the Humanities Classroom: Tales From the Front Lines of a Librarian-Faculty Collaboration</a></td>
+		</tr>
+		<tr>
+			<td>1200</td>
+			<td><strong>Lunch (on own)</strong></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>1330</td>
+			<td colspan="2"><strong>Presentation Session 02: Digitization,  Digital Mapping, and Historical GIS</strong></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a href="../speakers#Fortin">Marcel Fortin</a>, University of Toronto</td>
+			<td><a href="../abstracts#pres01c">HGIS Using ArcGIS Online</a></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a href="../speakers#Bartlett">Rebecca Bartlett</a>, Carleton University &amp; <a href="../speakers#Ford">Trevor Ford</a>, Wilfrid Laurier University</td>
+			<td><a href="../abstracts#pres02b">Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge</a></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a href="../speakers#Handren">Kara Handren</a>, Scholars Portal, <a href="../speakers#Simpkin">Sarah Simpkin</a>, University of Ottawa, <a href="../speakers#Brodeur">Jason Brodeur</a>, McMaster University</td>
+			<td><a href="../abstracts#pres02c">Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project</a></td>
+		</tr>
+		<tr>
+			<td>1500</td>
+			<td colspan="2">Afternoon Break</td>
+		</tr>
+		<tr>
+			<td>1515</td>
+			<td><a href="../speakers#Jones">Julie Jones</a>, Simon Fraser University</td>
+			<td><a href="../abstracts#roundtable">Roundtable Discussion</a></td>
+		</tr>
+	</tbody>
+</table>
 
 ---
 # Jeudi 22 juin
 Lieu: SFU Vancouver - 1400-1420 Segal Centre
 
-|Temps      | Conférencier(s) | Titre |
-|:-----------|-----------|-----------|
-|0830-0900|--|Inscription|
-|0900|TBA|Discours D'ouverture|
-|1000|--|Morning Break|
-|1015<td colspan="2" align="left">**Presentation Session 03: Reconsidering and Revitalizing Map Collections**</td>
-||[Francine Berish](../speakers#Berish), Queen's University|[Unearthing Geological History: Revealing and Protecting GSC Research Through Improved Metadata and Stewardship](../abstracts#pres03a)|
-||[Gordon Beck](../speakers#Beck) & [Jason Brodeur](../speakers#Brodeur), McMaster University|[OK, We’ve Scanned the Maps--What Now? Reflecting on Five Years of Map Digitization](../abstracts#pres03b)|
-||[Rachel Bergquist](../speakers#Bergquist) & [Emily Sugerman](../speakers#Sugerman), University of British Columbia|[Time to Talk: Seeing, Holding and Sharing Print Map Collections](../abstracts#pres03c)|
-|1200-1400<td colspan="2" align="left">**ACMLA-ACACC Annual General Meeting (Boxed lunch provided to ACMLA Members)**</td>
-|1400<td colspan="2" align="left">**Presentation Session 04: Improving Spatial Literacy**</td>
-||[Barbara Znamirowski](../speakers#Znamirowski), Trent University|[Spatial Thinking by the Numbers](../abstracts#pres04a)|
-||[Cynthia Dietz](../speakers#Dietz), University of Manitoba|[Digital Content and Marketing Strategies to Boost GIS Workshop Attendance](../abstracts#pres04b)|
-||[Francine Berish](../speakers#Berish), Queen's University|[Mapping en Plein Air: Painting the Way to Experiential Learning](../abstracts#pres04c)|
-|1530|--|Afternoon Break|
-|1545|[Jason Brodeur](../speakers#Brodeur), McMaster University|[Breakout Session](../abstracts#breakout)|
+<table>
+	<thead>
+		<tr>
+			<th>Temps</th>
+			<th>Conférencier(s)</th>
+			<th>Titre</th>
+		</tr>
+	</thead>
+
+	<tbody>
+		<tr>
+			<td>0830-0900</td>
+			<td>–</td>
+			<td>Inscription</td>
+		</tr>
+		<tr>
+			<td>0900</td>
+			<td>TBA</td>
+			<td>Discours D'ouverture</td>
+		</tr>
+		<tr>
+			<td>1000</td>
+			<td>–</td>
+			<td>Morning Break</td>
+		</tr>
+		<tr>
+			<td>1015</td>
+			<td colspan="2"><strong>Presentation Session 03: Reconsidering and Revitalizing Map Collections</strong></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a href="../speakers#Berish">Francine Berish</a>, Queen’s University</td>
+			<td><a href="../abstracts#pres03a">Unearthing Geological History: Revealing and Protecting GSC Research Through Improved Metadata and Stewardship</a></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a href="../speakers#Beck">Gordon Beck</a> &amp; <a href="../speakers#Brodeur">Jason Brodeur</a>, McMaster University</td>
+			<td><a href="../abstracts#pres03b">OK, We’ve Scanned the Maps–What Now? Reflecting on Five Years of Map Digitization</a></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a href="../speakers#Bergquist">Rachel Bergquist</a> &amp; <a href="../speakers#Sugerman">Emily Sugerman</a>, University of British Columbia</td>
+			<td><a href="../abstracts#pres03c">Time to Talk: Seeing, Holding and Sharing Print Map Collections</a></td>
+		</tr>
+		<tr>
+			<td>1200-1400</td>
+			<td colspan="2"><strong>ACMLA-ACACC Annual General Meeting (Boxed lunch provided to ACMLA Members)</strong></td>
+		</tr>
+		<tr>
+			<td>1400</td>
+			<td colspan="2"><strong>Presentation Session 04: Developing and Promoting Spatial Literacy</strong></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a href="../speakers#Znamirowski">Barbara Znamirowski</a>, Trent University</td>
+			<td><a href="../abstracts#pres04a">Spatial Thinking by the Numbers</a></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a href="../speakers#Dietz">Cynthia Dietz</a>, University of Manitoba</td>
+			<td><a href="../abstracts#pres04b">Digital Content and Marketing Strategies to Boost GIS Workshop Attendance</a></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a href="../speakers#Berish">Francine Berish</a>, Queen’s University</td>
+			<td><a href="../abstracts#pres04c">Mapping en Plein Air: Painting the Way to Experiential Learning</a></td>
+		</tr>
+		<tr>
+			<td>1530</td>
+			<td>–</td>
+			<td>Afternoon Break</td>
+		</tr>
+		<tr>
+			<td>1545</td>
+			<td><a href="../speakers#Brodeur">Jason Brodeur</a>, McMaster University</td>
+			<td><a href="../abstracts#breakout">Breakout Session</a></td>
+		</tr>
+	</tbody>
+</table>
 
 ---
 # Vendredi 23 juin
 Lieu: SFU Vancouver - 1700 Labatt Hall
 
-|Temps      | Conférencier(s) | Titre |
-|:------------|-----------|-----------|
-|0930-1000|--|Inscription|
-|1000<td colspan="2" align="left">**Presentation Session 05: Improving Access to Government Information** </td>
-||[Martin Gingras]((../speakers#Gingras)), Surveyor General Branch, Natural Resources Canada|[Transformation of Legal Canada Lands Surveys Records to Authoritative Digital Records](../abstracts#pres02a)|
-|||*More speakers TBA*|
-|1130|--|Closing Remarks|
-|1200-1700|--|[Field Trip](../events#fieldtrip): Boat tour of False Creek, lunch at Granville Island Public Market, and behind the scenes tour of the City of Vancouver Archives|
+<table>
+	<thead>
+		<tr>
+			<th>Temps</th>
+			<th>Conférencier(s)</th>
+			<th>Titre</th>
+		</tr>
+	</thead>
+
+	<tbody>
+		<tr>
+			<td>0930-1000</td>
+			<td>–</td>
+			<td>Inscription</td>
+		</tr>
+		<tr>
+			<td>1000</td>
+			<td colspan="2"><strong>Presentation Session 05: Improving Access to Government Information</strong></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a href="(../speakers#Gingras)">Martin Gingras</a>, Surveyor General Branch, Natural Resources Canada</td>
+			<td><a href="../abstracts#pres02a">Transformation of Legal Canada Lands Surveys Records to Authoritative Digital Records</a></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td><em>More speakers TBA</em></td>
+		</tr>
+		<tr>
+			<td>1130</td>
+			<td>–</td>
+			<td>Closing Remarks</td>
+		</tr>
+		<tr>
+			<td>1200-1700</td>
+			<td>–</td>
+			<td><a href="../events#fieldtrip">Field Trip</a>: Boat tour of False Creek, lunch at Granville Island Public Market, and behind the scenes tour of the City of Vancouver Archives</td>
+		</tr>
+	</tbody>
+</table>

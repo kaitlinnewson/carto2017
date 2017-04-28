@@ -21,7 +21,7 @@ keywords = "libraries, archives, maps, cartography, data"
 [Languages.en.hero]
 herotitle = "Digital Revolutions | Analog Renaissance"
 herodescription = "The 51st Annual Conference of the Association of Canadian Map Libraries and Archives (ACMLA) Conference hosted by Simon Fraser University, Vancouver, British Columbia"
-btnblue = "Registration Coming Soon!"
+btnblue = "Register"
 logo = "img/Carto2017header.png"
 logoalt = "Carto 2017 logo"
 [Languages.en.main]
@@ -47,7 +47,7 @@ url = "/accommodations"
 weight = 3
 [[Languages.en.menu.main]]
 name = "Register"
-url = "/register"
+url = "/register/#id%3D103%26wid%3D501%26cid%3D688"
 weight = 4
 [[Languages.en.menu.main]]
 name = "About"
@@ -64,7 +64,7 @@ description = "51e colloque annuel de l’Association des cartothèques et archi
 [Languages.fr.hero]
 herotitle = "Révolution numérique | Renaissance analogique"
 herodescription = "51e colloque annuel de l’Association des cartothèques et archives cartographiques du Canada (ACACC). Colloque organisé par l’Université Simon Fraser, Vancouver, Colombie-Britannique"
-btnblue = "Inscription à venir!"
+btnblue = "Inscription"
 logo = "img/Carto2017header.png"
 logoalt = "Carto 2017 logo"
 [Languages.fr.main]
@@ -90,7 +90,7 @@ url = "/fr/accommodations"
 weight = 3
 [[Languages.fr.menu.main]]
 name = "Inscription"
-url = "/fr/register"
+url = "/fr/register/#id%3D103%26wid%3D501%26cid%3D688"
 weight = 4
 [[Languages.fr.menu.main]]
 name = "À propos"
