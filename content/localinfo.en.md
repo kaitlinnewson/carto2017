@@ -22,7 +22,7 @@ YVR Airport to SFU Vancouver by **taxi**. Cost: about $40. Time: About 40 minute
 ### Transportation
 
 **Public transit**
-Translink provides public transit for the region. Services consist of buses, Skytrain, Seabus (commuter ferry service to North Vancouver), and a commuter rail service to the eastern suburbs. Not sure what bus or train to catch? Use the [Translink Trip Planner](http://tripplanning.translink.ca/) or the very handy [Transit real-time app](https://transitapp.com/). Fare for travel within the City of Vancouver is $2.75. 
+Translink provides public transit for the region. Not sure what bus or train to catch? Use the [Translink Trip Planner](http://tripplanning.translink.ca/) or the very handy [Transit real-time app](https://transitapp.com/). Fare for travel within the City of Vancouver is $2.75. 
 
 **Taxi**
 Selected Vancouver taxi companies:
