@@ -55,6 +55,9 @@ With help from the Social Sciences and Humanities Research Council of Canada (SS
 ### <a name="Fortin"></a>Marcel Fortin
 
 ---
+### <a name="Gingras"></a>Martin Gingras
+
+---
 ### <a name="Handren"></a>Kara Handren 
 
 ---
