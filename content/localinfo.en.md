@@ -53,7 +53,4 @@ Coming soon.
 
 Coming soon.
 
-### Childcare 
-
-If you require childcare while you attend the conference, we can assist with connecting you with options for care in a childcare centre or with a temporary nanny. Contact [Julie Jones](mailto:jsj7@sfu.ca) for more information. 
 
