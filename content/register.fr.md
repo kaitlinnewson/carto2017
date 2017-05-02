@@ -19,7 +19,7 @@ Afin d’aider les membres ACACC-ACMLA à assister à la conférence , le tréso
 
 Nous demandons à tous les candidats d'abord essayer de trouver des fonds dans leurs propres institutions. Pour demander une assistance voyage, s'il vous plaît remplir et soumettre [cette formulaire d'assistance voyage](https://goo.gl/forms/QiQGFbtwXF8LpKMn1). La date limite pour les applications d'assistance voyage est le 15 mai 2017.
 
-###
+### Garde d'enfants
 
 Les services de garde d'enfants sont offerts par une garderie ou une nounou temporaire. Contactez [Julie Jones](mailto:jsj7@sfu.ca) pour plus d'informations.
 
