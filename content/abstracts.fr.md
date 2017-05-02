@@ -90,8 +90,8 @@ What has kept you awake at night this year? What has you inspired and excited?
 This session will provide participants an opportunity to engage in informal discussion around one of a number of emerging issues in map libraries and archives. Attendees will collaborate in groups to discuss challenges and opportunities in these areas, with the purpose of improving understanding, developing potential solutions and, at the end of the session, communicating group discussion outcomes to the larger audience.
 
 ## Jeudi 22 juin
-### <a name="keynote2"></a>Keynote Address: TBA
-Coming Soon
+### <a name="keynote2"></a>Keynote address
+[Andy Yan](../speakers#Yan), Director, The City Program, Simon Fraser University
 
 ---
 ### <a name="pres03a"></a>Unearthing geological history: Revealing and protecting GSC research through improved metadata and stewardship
