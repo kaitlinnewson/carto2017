@@ -90,7 +90,7 @@ What has kept you awake at night this year? What has you inspired and excited?
 This session will provide participants an opportunity to engage in informal discussion around one of a number of emerging issues in map libraries and archives. Attendees will collaborate in groups to discuss challenges and opportunities in these areas, with the purpose of improving understanding, developing potential solutions and, at the end of the session, communicating group discussion outcomes to the larger audience.
 
 ## Thursday, 22-June
-### <a name="keynote2"></a>Keynote Address
+### <a name="keynote2"></a>Keynote address
 [Andy Yan](../speakers#Yan), Director, The City Program, Simon Fraser University
 
 ---
