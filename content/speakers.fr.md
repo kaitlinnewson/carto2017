@@ -82,6 +82,10 @@ Sarah Simpkin is currently serving as Interim Digital Scholarship Librarian at t
 Emily Sugerman os a Master’s of Library and Information Science candidate at the University of British Columbia, with a BA in Comparative Literature and Culture from the University of Western Ontario. Print map love runs deep!
 
 ---
+### <a name="Yan"></a>Andy Yan
+Bio coming soon.
+
+---
 ### <a name="Yanofsky"></a>Deena Yanofsky
 Deena Yanofsky is a Map and Data Librarian at McGill University. Her current research interests focus on digital scholarship, open data, and civic engagement.
 
