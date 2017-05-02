@@ -154,8 +154,8 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 		</tr>
 		<tr>
 			<td>0900</td>
-			<td>TBA</td>
-			<td>Keynote Address</td>
+			<td><a href="../speakers#Yan">Andy Yan</a>, Director, The City Program, Simon Fraser University</td>
+			<td><a href="../abstracts#keynote2">Keynote Address</a></td>
 		</tr>
 		<tr>
 			<td>1000</td>
