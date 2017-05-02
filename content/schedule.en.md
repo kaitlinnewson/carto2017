@@ -83,11 +83,6 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 		</tr>
 		<tr>
 			<td></td>
-			<td><a href="../speakers#Jones">Julie Jones</a>, Simon Fraser University</td>
-			<td><a href="../abstracts#pres01a">Spatial Humanities: Collaborating, Facilitating, Supporting</a></td>
-		</tr>
-		<tr>
-			<td></td>
 			<td><a href="../speakers#Shirk-Luckett">Quin Shirk-Luckett</a> &amp; <a href="../speakers#Lewitzky">Teresa Lewitzky</a>, University of Guelph</td>
 			<td><a href="../abstracts#pres01b">Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph</a></td>
 		</tr>
@@ -95,6 +90,11 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 			<td></td>
 			<td><a href="../speakers#Yanofsky">Deena Yanofsky</a> &amp; <a href="../speakers#Cooke">Nathalie Cooke</a>, McGill University</td>
 			<td><a href="../abstracts#pres01d">GIS Lite &amp; Online Visualization Tools in the Humanities Classroom: Tales From the Front Lines of a Librarian-Faculty Collaboration</a></td>
+		</tr>
+        <tr>
+			<td></td>
+			<td><a href="../speakers#Jones">Julie Jones</a>, Simon Fraser University</td>
+			<td><a href="../abstracts#pres01a">Spatial Humanities: Collaborating, Facilitating, Supporting</a></td>
 		</tr>
 		<tr>
 			<td>1200</td>
