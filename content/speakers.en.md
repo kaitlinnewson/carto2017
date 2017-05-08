@@ -20,7 +20,7 @@ In addition to his work at Firelight, Chris continues to explore and publish on 
 
 ---
 ### <a name="Bartlett"></a>Rebecca Bartlett 
-Rebecca Bartlett is the GIS and Digital Resources Librarian at Carleton University. She takes great pleasure in finding elevation profiles for bike routes that foolish colleagues share with her, thinking that an 8 km hill climb will dissuade her from a "pleasant" Sunday ride.
+Rebecca Bartlett has been the GIS and Digital Resources Librarian at Carleton University since 2012 and the ACMLA Treasurer since 2014.
 
 ---
 ### <a name="Beck"></a>Gordon Beck
