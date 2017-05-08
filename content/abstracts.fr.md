@@ -71,7 +71,11 @@ Abstract coming soon.
 [Rebecca Bartlett](../speakers#Bartlett), Carleton University  
 [Trevor Ford](../speakers#Ford), Wilfrid Laurier University
 
-Absract coming soon.
+The First World War represents a watershed moment for Canada. During the course of four years, 620,000 Canadians were mobilized of which 67,000 Canadian lives were lost and a further 250,000 were wounded. Most visible of Canada’s war effort was the Canadian Expeditionary Force (CEF), which fought throughout France and Belgium and cemented Canada’s contribution to the war with famed battles such as 2nd Ypres, the Somme, Vimy Ridge, Passchendaele, and the Hundred Days Offensive. As such, the historiography of Canada’s military contributions during the war has typically focused on the CEF in North West Europe. Unfortunately, beyond written text, little has been formulated to bring this research into the digital world.  
+
+One such potential digital project is the use of scanned Commonwealth trench maps of which the originals date back to the battle itself. The Battle of Vimy Ridge is such a battle that has had a great deal of historical analysis, but is lacking in in-depth map analysis. It is proposed that through the collection of historical data, including original trench maps, and the development of a geospatial methodology; a visualization via a time generating map software could potentially catalogue a complete detailed collation of the actions taken at the battle by Canadian soldiers.  
+
+This presentation will explore the role of Canadian soldiers at Vimy Ridge through a geographic visualization animated over time that will highlight how the Canadian Corps advanced at Vimy Ridge. Further, Rebecca and Trevor seek to explore in which way a inter-disciplinary and inter-university project has allowed for a sort of collaboration that has proved vital to the success of the project. Consequently, Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge will fill a significant historical and digital mapping gap on Canadian actions in April of 1917. 
 
 ---
 ### <a name="pres02c"></a>Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project 
