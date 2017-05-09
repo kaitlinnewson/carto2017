@@ -11,7 +11,8 @@ layout = "single-para"
 </div>
 <br />
 
-# Tuesday, 20-June
+
+# <a name="Tues"></a>Tuesday, 20-June
 Location: SFU Vancouver - Computer Lab 1350
 (Register outside Room 1350)
 
@@ -44,7 +45,7 @@ Location: SFU Vancouver - Computer Lab 1350
 </table>
 
 ---
-# Wednesday, 21-June
+# <a name="Wed"></a>Wednesday, 21-June
 Location: SFU Vancouver - 1400-1420 Segal Centre 
 
 <table>
@@ -134,7 +135,7 @@ Peter Keller, Vice-President, Academic and Provost, Simon Fraser University</td>
 </table>
 
 ---
-# Thursday, 22-June
+# <a name="Thurs"></a>Thursday, 22-June
 Location: SFU Vancouver - 1400-1420 Segal Centre
 
 <table>
@@ -218,7 +219,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 </table>
 
 ---
-# Friday, 23-June
+# <a name="Fri"></a>Friday, 23-June
 Location: SFU Vancouver - 1700 Labatt Hall
 
 <table>
