@@ -56,7 +56,7 @@ With help from the Social Sciences and Humanities Research Council of Canada (SS
 
 ---
 ### <a name="Gingras"></a>Martin Gingras
-
+I studied at Laval University and I graduated with a bachelor degree in Geomatics. I am a Quebec land surveyor and a Canada land surveyor, meaning that I am authorized to practise survey in the province of Quebec and on any Canada lands across Canada.  I started my career as a party chief, in Guyana (South America), in the gold-mining industry working in the middle of the jungle. This is where I learned to speak English, hence the accent.  I then worked in the James Bay area for a full year to survey some of the hydro dams that needed some maintenance. After a year in the cold, I decided to go back to the mining industry, underground mining this time to protect me from the weather. This work environment was nice but a little too dark and dangerous to my liking so I joined the International Boundary Commission to travel the country,  to be outside and to contribute to demarcate the longest undefended border in the world. After 8 years of being away from home more than half of the year, I decided I needed an office job, settle down and start a family. I had an opportunity to join the Surveyor General Branch and I am with them since then.
 ---
 ### <a name="Handren"></a>Kara Handren 
 
