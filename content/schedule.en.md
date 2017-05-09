@@ -11,6 +11,10 @@ layout = "single-para"
 </div>
 <br />
 
+<a href="Tues">Tuesday, 20-June</a>
+<a href="Wed">Wednesday, 21-June</a>
+<a href="Thurs">Thursday, 22-June</a>
+<a href="Fri">Friday, 23-June</a>
 
 # <a name="Tues"></a>Tuesday, 20-June
 Location: SFU Vancouver - Computer Lab 1350
