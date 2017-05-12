@@ -191,7 +191,10 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 			<td colspan="2"><strong>ACMLA-ACACC Annual General Meeting (Boxed lunch provided to ACMLA Members)</strong></td>
 		</tr>
 		<tr>
+            <tr>
 			<td>1400</td>
+			<td>Peter Keller, Vice-President, Academic and Provost, Simon Fraser University</td>
+			<td>Welcome &amp; Remarks</td>
 			<td colspan="2"><strong>Presentation Session 04: Developing and Promoting Spatial Literacy</strong></td>
 		</tr>
 		<tr>
