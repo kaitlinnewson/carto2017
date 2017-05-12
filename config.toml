@@ -1,5 +1,5 @@
-# baseurl = "https://acmla-acacc.ca/carto2017/"
-baseurl = "http://localhost/carto2017/public/"
+baseurl = "https://acmla-acacc.ca/carto2017/"
+#baseurl = "http://localhost/carto2017/public/"
 author = "ACMLA-ACACC"
 title = "Carto 2017"
 theme = "hugof"
