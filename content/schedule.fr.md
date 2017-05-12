@@ -17,9 +17,9 @@ Lieu: SFU Vancouver - Salle informatique 1350
 <table>
 	<thead>
 		<tr>
-			<th>Temps</th>
-			<th>Conférencier(s)</th>
-			<th>Titre</th>
+			<th>Time</th>
+			<th>Speaker(s)</th>
+			<th>Title</th>
 		</tr>
 	</thead>
 
@@ -27,7 +27,7 @@ Lieu: SFU Vancouver - Salle informatique 1350
 		<tr>
 			<td>0830-0900</td>
 			<td>–</td>
-			<td>Inscription</td>
+			<td>Registration</td>
 		</tr>
 		<tr>
 			<td>0900-1600</td>
@@ -49,9 +49,9 @@ Lieu: SFU Vancouver - 1400-1420 Segal Centre
 <table>
 	<thead>
 		<tr>
-			<th>Temps</th>
-			<th>Conférencier(s)</th>
-			<th>Titre</th>
+			<th>Time</th>
+			<th>Speaker(s)</th>
+			<th>Title</th>
 		</tr>
 	</thead>
 
@@ -59,12 +59,12 @@ Lieu: SFU Vancouver - 1400-1420 Segal Centre
 		<tr>
 			<td>0830-0900</td>
 			<td>–</td>
-			<td>Inscription</td>
+			<td>Registration</td>
 		</tr>
 		<tr>
 			<td>0900</td>
-			<td>–</td>
-			<td>Remarques d'ouverture</td>
+			<td>Gwen Bird, University Librarian and Dean of Libraries, Simon Fraser University</td>
+			<td>Opening Remarks &amp; Welcome</td>
 		</tr>
 		<tr>
 			<td>0915</td>
@@ -138,9 +138,9 @@ Lieu: SFU Vancouver - 1400-1420 Segal Centre
 <table>
 	<thead>
 		<tr>
-			<th>Temps</th>
-			<th>Conférencier(s)</th>
-			<th>Titre</th>
+			<th>Time</th>
+			<th>Speaker(s)</th>
+			<th>Title</th>
 		</tr>
 	</thead>
 
@@ -148,12 +148,12 @@ Lieu: SFU Vancouver - 1400-1420 Segal Centre
 		<tr>
 			<td>0830-0900</td>
 			<td>–</td>
-			<td>Inscription</td>
+			<td>Registration</td>
 		</tr>
 		<tr>
 			<td>0900</td>
-			<td>TBA</td>
-			<td>Discours D'ouverture</td>
+			<td><a href="../speakers#Yan">Andy Yan</a>, Director, The City Program, Simon Fraser University</td>
+			<td><a href="../abstracts#keynote2">Keynote Address</a></td>
 		</tr>
 		<tr>
 			<td>1000</td>
@@ -187,6 +187,10 @@ Lieu: SFU Vancouver - 1400-1420 Segal Centre
 			<td>1400</td>
 			<td colspan="2"><strong>Presentation Session 04: Developing and Promoting Spatial Literacy</strong></td>
 		</tr>
+        <tr>
+        <td></td>
+        <td colspan="2">Special Introduction by Peter Keller, Vice-President, Academic and Provost, Simon Fraser University</td>
+        </tr>
 		<tr>
 			<td></td>
 			<td><a href="../speakers#Znamirowski">Barbara Znamirowski</a>, Trent University</td>
@@ -222,9 +226,9 @@ Lieu: SFU Vancouver - 1700 Labatt Hall
 <table>
 	<thead>
 		<tr>
-			<th>Temps</th>
-			<th>Conférencier(s)</th>
-			<th>Titre</th>
+			<th>Time</th>
+			<th>Speaker(s)</th>
+			<th>Title</th>
 		</tr>
 	</thead>
 
@@ -232,7 +236,7 @@ Lieu: SFU Vancouver - 1700 Labatt Hall
 		<tr>
 			<td>0930-1000</td>
 			<td>–</td>
-			<td>Inscription</td>
+			<td>Registration</td>
 		</tr>
 		<tr>
 			<td>1000</td>

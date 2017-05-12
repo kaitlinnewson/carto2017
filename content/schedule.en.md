@@ -69,8 +69,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 		</tr>
 		<tr>
 			<td>0900</td>
-			<td>Gwen Bird, University Librarian and Dean of Libraries, Simon Fraser University  
-Peter Keller, Vice-President, Academic and Provost, Simon Fraser University</td>
+			<td>Gwen Bird, University Librarian and Dean of Libraries, Simon Fraser University</td>
 			<td>Opening Remarks &amp; Welcome</td>
 		</tr>
 		<tr>
@@ -194,6 +193,10 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 			<td>1400</td>
 			<td colspan="2"><strong>Presentation Session 04: Developing and Promoting Spatial Literacy</strong></td>
 		</tr>
+        <tr>
+        <td></td>
+        <td colspan="2">Special Introduction by Peter Keller, Vice-President, Academic and Provost, Simon Fraser University</td>
+        </tr>
 		<tr>
 			<td></td>
 			<td><a href="../speakers#Znamirowski">Barbara Znamirowski</a>, Trent University</td>
