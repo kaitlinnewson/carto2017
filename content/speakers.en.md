@@ -61,6 +61,7 @@ I studied at Laval University and I graduated with a bachelor degree in Geomatic
 
 ---
 ### <a name="Handren"></a>Kara Handren 
+Kara Handren holds a M.I. in Library and Information Science from the University of Toronto, and is a Metadata Librarian at Scholar’s Portal, a service of the Ontario Council of University Libraries (OCUL). She works on a variety of metadata management projects involving eBooks, eJournals, and Geospatial data, and is interested in tools and projects for enhancing information discovery, access and literacy among the wider community.
 
 ---
 ### <a name="Jones"></a>Julie Jones
