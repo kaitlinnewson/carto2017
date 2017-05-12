@@ -53,6 +53,7 @@ With help from the Social Sciences and Humanities Research Council of Canada (SS
 
 ---
 ### <a name="Fortin"></a>Marcel Fortin
+Marcel Fortin is the Head of the Map and Data Library at the University of Toronto and has been responsible for the geospatial and map collections and services at the U of T since 1999. Marcel is a former librarian at the University of British Columbia, the University of Cape Breton, and the Toronto Star.
 
 ---
 ### <a name="Gingras"></a>Martin Gingras
