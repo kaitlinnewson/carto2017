@@ -191,10 +191,13 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 		</tr>
 		<tr>
 			<td>1400</td>
-			<td>Peter Keller, Vice-President, Academic and Provost, Simon Fraser University</td>
-			<td>Welcome &amp; Remarks</td>
 			<td colspan="2"><strong>Presentation Session 04: Developing and Promoting Spatial Literacy</strong></td>
 		</tr>
+        <tr>
+        <td></td>
+        <td>Peter Keller, Vice-President, Academic and Provost, Simon Fraser University</td>
+        <td>Special Introduction</td>
+        </tr>
 		<tr>
 			<td></td>
 			<td><a href="../speakers#Znamirowski">Barbara Znamirowski</a>, Trent University</td>
