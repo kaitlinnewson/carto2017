@@ -69,8 +69,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 		</tr>
 		<tr>
 			<td>0900</td>
-			<td>Gwen Bird, University Librarian and Dean of Libraries, Simon Fraser University  
-Peter Keller, Vice-President, Academic and Provost, Simon Fraser University</td>
+			<td>Gwen Bird, University Librarian and Dean of Libraries, Simon Fraser University</td>
 			<td>Opening Remarks &amp; Welcome</td>
 		</tr>
 		<tr>
