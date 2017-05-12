@@ -195,8 +195,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 		</tr>
         <tr>
         <td></td>
-        <td>Peter Keller, Vice-President, Academic and Provost, Simon Fraser University</td>
-        <td>Special Introduction</td>
+        <td colspan="2">Special Introduction by Peter Keller, Vice-President, Academic and Provost, Simon Fraser University</td>
         </tr>
 		<tr>
 			<td></td>
