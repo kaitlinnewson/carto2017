@@ -64,7 +64,7 @@ This session will focus on a collaboration between a disciplinary faculty member
 ### <a name="pres01c"></a>HGIS Using ArcGIS Online
 [Marcel Fortin](../speakers#Fortin), University of Toronto
 
-Abstract coming soon.
+This presentation will focus on the development of Historical GIS projects using ArcGIS Online. We will demonstrate useful methods, tools and templates that can be used to build applications that can bring to life historical maps and data.
 
 ---
 ### <a name="pres02b"></a>Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge
