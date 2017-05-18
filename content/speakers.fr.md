@@ -11,8 +11,8 @@ layout = "single-para"
 </div>
 <br />
 
-### <a name="Ames"></a>Andrew Thompson 
-
+### <a name="Ames"></a>Chris Ames 
+Andrew is a Research Coordinator with The Firelight Group, a British Columbian consulting group that works with Indigenous and local communities in Canada and beyond to provide high quality research, policy, planning, negotiation, and advisory services. Andrew works on traditional knowledge and use studies, and in the mapping and GIS team to create maps displaying First Nations land use, knowledge, and occupancy.
 
 ---
 ### <a name="Bartlett"></a>Rebecca Bartlett 
