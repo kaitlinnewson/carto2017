@@ -36,7 +36,7 @@ Instructional elements of this workshop will include:
 Abstract coming soon.
 
 ---
-### <a name="pres01a"></a>Spatial Humanities: Collaborating, Facilitating, Supporting
+### <a name="pres01a"></a>Bringing GIS into the Humanities Classroom 
 [Julie Jones](../speakers#Jones), Simon Fraser University
 
 Abstract coming soon.
