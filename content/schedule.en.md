@@ -251,7 +251,12 @@ Location: SFU Vancouver - 1700 Labatt Hall
 		<tr>
 			<td></td>
 			<td><a href="(../speakers#Gingras)">Martin Gingras</a>, Surveyor General Branch, Natural Resources Canada</td>
-			<td><a href="../abstracts#pres02a">Transformation of Legal Canada Lands Surveys Records to Authoritative Digital Records</a></td>
+			<td><a href="../abstracts#pres05a">Transformation of Legal Canada Lands Surveys Records to Authoritative Digital Records</a></td>
+		</tr>
+        <tr>
+			<td></td>
+			<td><a href="(../speakers#Bigelow)">Sue Bigelow</a> &amp; <a href="../speakers#Walz">Sharon Walz</a>, City of Vancouver Archives</td>
+			<td><a href="../abstracts#pres05b">Map digitization at the City of Vancouver Archives</a></td>
 		</tr>
 		<tr>
 			<td></td>
