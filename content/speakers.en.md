@@ -84,6 +84,10 @@ Sarah Simpkin is currently serving as Interim Digital Scholarship Librarian at t
 Emily Sugerman os a Master’s of Library and Information Science candidate at the University of British Columbia, with a BA in Comparative Literature and Culture from the University of Western Ontario. Print map love runs deep!
 
 ---
+### <a name="Walz"></a>Sharon Walz
+Sharon is a Digital Archivist at the City of Vancouver Archives, and works with both analogue and digital records in all formats. She has a professional interest in architectural, cartographic and business records, and regularly leads project teams working with those records. Her departmental portfolio includes Planning and Development Services, Community Services, and Housing Policy and Projects, amongst others.
+
+---
 ### <a name="Yan"></a>Andy Yan
 Bio coming soon.
 
