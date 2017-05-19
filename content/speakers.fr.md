@@ -81,7 +81,24 @@ Emily Sugerman os a Master’s of Library and Information Science candidate at t
 
 ---
 ### <a name="Yan"></a>Andy Yan
-Bio coming soon.
+Born and raised in Vancouver, Andy has worked extensively in the non-profit and private urban
+planning sectors, with projects in the metropolitan regions of Vancouver, San Francisco, New
+York City, Los Angeles and New Orleans. He specializes in the fields of urban regeneration,
+applied demographics, GIS, neighbourhood development, public outreach, social media, and
+quantitative research.
+
+Andy holds a master's in urban planning from the University of California – Los Angeles and a
+Bachelor of Arts from SFU. He is a registered professional planner with the Canadian Institute of
+Planners and a Certified GIS Professional. Andy is Director of The City Program at SFU and an 
+adjunct professor at UBC’s School of Regional and Community Planning and an affiliate of
+UBC’s School of Architecture and Landscape Architecture. He is also a member of SFU’s Urban
+Studies Advisory Council. He has been a visiting scholar at New York University’s
+Asian/Pacific/American Studies Institute (2002-2003, 2015-2016). Active in
+community service, Andy has served on the board of directors for the Downtown Eastside
+Neighbourhood House and the David Suzuki Foundation’s Climate Council. He was also
+reappointed to the City of Vancouver Commission in 2014. He is a former member of the City of
+Vancouver’s Development Permit Board Advisory Panel, and of the Academic Roundtable for
+the City of Vancouver’s Mayor’s Task Force on Housing Affordability
 
 ---
 ### <a name="Yanofsky"></a>Deena Yanofsky
