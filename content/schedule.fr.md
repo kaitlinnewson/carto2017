@@ -11,6 +11,11 @@ layout = "single-para"
 </div>
 <br />
 
+<a href="#mardi-20-juin">Mardi 20 juin</a> |
+<a href="#mercredi-21-juin">Mercredi 21 juin</a> |
+<a href="#jeudi-22-juin">Jeudi 22 juin</a> |
+<a href="#vendredi-23-juin">Vendredi 23 juin</a>
+
 # Mardi 20 juin
 Lieu: SFU Vancouver - Salle informatique 1350
 
@@ -68,7 +73,7 @@ Lieu: SFU Vancouver - 1400-1420 Segal Centre
 		</tr>
 		<tr>
 			<td>0915</td>
-			<td><a href="../speakers#Thompson">Andrew Thompson</a>, The Firelight Group</td>
+			<td><a href="../speakers#Ames">Chris Ames</a>, The Firelight Group</td>
 			<td><a href="../abstracts#keynote1">Keynote Address: Indigeneous Mapping in Canada</a></td>
 		</tr>
 		<tr>
@@ -93,7 +98,7 @@ Lieu: SFU Vancouver - 1400-1420 Segal Centre
         <tr>
 			<td></td>
 			<td><a href="../speakers#Jones">Julie Jones</a>, Simon Fraser University</td>
-			<td><a href="../abstracts#pres01a">Bringing GIS into the Humanities Classroom</a></td>
+			<td><a href="../abstracts#pres01a">Spatial Humanities: Collaborating, Facilitating, Supporting</a></td>
 		</tr>
 		<tr>
 			<td>1200</td>
@@ -245,12 +250,7 @@ Lieu: SFU Vancouver - 1700 Labatt Hall
 		<tr>
 			<td></td>
 			<td><a href="(../speakers#Gingras)">Martin Gingras</a>, Surveyor General Branch, Natural Resources Canada</td>
-			<td><a href="../abstracts#pres05a">Transformation of Legal Canada Lands Surveys Records to Authoritative Digital Records</a></td>
-		</tr>
-        <tr>
-			<td></td>
-			<td><a href="(../speakers#Bigelow)">Sue Bigelow</a> &amp; <a href="../speakers#Walz">Sharon Walz</a>, City of Vancouver Archives</td>
-			<td><a href="../abstracts#pres05b">Map Digitization at the City of Vancouver Archives</a></td>
+			<td><a href="../abstracts#pres02a">Transformation of Legal Canada Lands Surveys Records to Authoritative Digital Records</a></td>
 		</tr>
 		<tr>
 			<td></td>
