@@ -11,7 +11,7 @@ layout = "single-para"
 </div>
 <br />
 
-### <a name="Ames"></a>Andrew Thompson
+### <a name="Thompson"></a>Andrew Thompson
 Andrew is a Research Coordinator with The Firelight Group, a British Columbian consulting group that works with Indigenous and local communities in Canada and beyond to provide high quality research, policy, planning, negotiation, and advisory services. Andrew works on traditional knowledge and use studies, and in the mapping and GIS team to create maps displaying First Nations land use, knowledge, and occupancy.
 
 ---
@@ -78,6 +78,10 @@ Sarah Simpkin is currently serving as Interim Digital Scholarship Librarian at t
 ---
 ### <a name="Sugerman"></a>Emily Sugerman
 Emily Sugerman os a Master’s of Library and Information Science candidate at the University of British Columbia, with a BA in Comparative Literature and Culture from the University of Western Ontario. Print map love runs deep!
+
+---
+### <a name="Walz"></a>Sharon Walz
+Sharon is a Digital Archivist at the City of Vancouver Archives, and works with both analogue and digital records in all formats. She has a professional interest in architectural, cartographic and business records, and regularly leads project teams working with those records. Her departmental portfolio includes Planning and Development Services, Community Services, and Housing Policy and Projects, amongst others.
 
 ---
 ### <a name="Yan"></a>Andy Yan
