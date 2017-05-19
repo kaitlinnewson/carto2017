@@ -11,8 +11,9 @@ layout = "single-para"
 </div>
 <br />
 
-### <a name="Ames"></a>Andrew Thompson
+### <a name="Thompson"></a>Andrew Thompson
 Andrew is a Research Coordinator with The Firelight Group, a British Columbian consulting group that works with Indigenous and local communities in Canada and beyond to provide high quality research, policy, planning, negotiation, and advisory services. Andrew works on traditional knowledge and use studies, and in the mapping and GIS team to create maps displaying First Nations land use, knowledge, and occupancy.
+
 ---
 ### <a name="Bartlett"></a>Rebecca Bartlett 
 Rebecca Bartlett has been the GIS and Digital Resources Librarian at Carleton University since 2012 and the ACMLA Treasurer since 2014.
@@ -28,6 +29,10 @@ Rachel Bergquist is a Master’s of Library and Information Science candidate at
 ---
 ### <a name="Berish"></a>Francine Berish
 Francine Berish is the Geospatial Data Librarian and Liaison Librarian for Geography and Planning at Queen’s University.
+
+---
+### <a name="Bigelow"></a>Sue Bigelow
+Sue is a Digital Conservator at the City of Vancouver Archives, preserving both digital and analogue records in many media. She is also responsible for the Archives’ digitization program, which has expanded since its inception in 1997 to include images, textual records, maps and plans, film, video and audio.
 
 ---
 ### <a name="Brodeur"></a>Jason Brodeur
