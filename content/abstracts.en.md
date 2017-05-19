@@ -139,7 +139,14 @@ It is one thing to scan, georeference and overlay a fire insurance plan onto a c
 ## Friday, 23-June
 
 ---
-### <a name="pres02a"></a>Transformation of legal Canada Lands Surveys Records to Authoritative Digital Records
+### <a name="pres05a"></a>Transformation of Legal Canada Lands Surveys Records to Authoritative Digital Records
 [Martin Gingras]((../speakers#Gingras)), Surveyor General Branch, Natural Resources Canada
 
 The Canada Lands Surveys Records is a collection of official survey documents dating back to the early 1800’s, which supports land transactions on the Canada Lands Survey System. This collection has been appraised by Library and Archives Canada as the most valuable geospatial collection in the Government of Canada, and includes records confirming the extent of property rights on lands such as National Parks, Territories and First Nations lands. The transformation of legal Canada Lands Surveys Records to authoritative digital records was an ambitious project that resulted in the transfer of the legal value of these physical documents to an authoritative digital record, which now can be accessed instantly on the web to support economic and social development on these lands. This session will go over the standards and the methodology used to ensure high integrity of the conversion process.
+
+---
+### <a name="pres05b"></a>Map Digitization at the City of Vancouver Archives
+
+In 2015, the City of Vancouver Archives participated in a multi-departmental project to digitize, geo-rectify, and mosaic one of its most popular cartographic records, the 1912 Goad’s Atlas of Vancouver, with the goal of presenting it as a layer in the City’s publicly accessible GIS system, VanMap.  
+
+Digital Conservator Sue Bigelow and Digital Archivist Sharon Walz will discuss the genesis and execution of the project within the context of the City of Vancouver Archives’ digitization efforts.
