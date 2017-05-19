@@ -146,6 +146,7 @@ The Canada Lands Surveys Records is a collection of official survey documents da
 
 ---
 ### <a name="pres05b"></a>Map Digitization at the City of Vancouver Archives
+[Sue Bigelow](../speakers#Bigelow) and [Sharon Walz](../speakers#Walz), City of Vancouver Archives
 
 In 2015, the City of Vancouver Archives participated in a multi-departmental project to digitize, geo-rectify, and mosaic one of its most popular cartographic records, the 1912 Goad’s Atlas of Vancouver, with the goal of presenting it as a layer in the City’s publicly accessible GIS system, VanMap.  
 
