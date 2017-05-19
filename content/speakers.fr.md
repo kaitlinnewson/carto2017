@@ -31,6 +31,10 @@ Rachel Bergquist is a Master’s of Library and Information Science candidate at
 Francine Berish is the Geospatial Data Librarian and Liaison Librarian for Geography and Planning at Queen’s University.
 
 ---
+### <a name="Bigelow"></a>Sue Bigelow
+Sue is a Digital Conservator at the City of Vancouver Archives, preserving both digital and analogue records in many media. She is also responsible for the Archives’ digitization program, which has expanded since its inception in 1997 to include images, textual records, maps and plans, film, video and audio.
+
+---
 ### <a name="Brodeur"></a>Jason Brodeur
 Jason Brodeur holds a Ph.D. in Geography and Earth Sciences from McMaster University and is the Manager of Maps, Data, GIS in the McMaster University Library. His interests include projects that improve access to cartographic and geospatial information, and integrates them into research, teaching and learning, and public use.
 
@@ -102,7 +106,7 @@ community service, Andy has served on the board of directors for the Downtown Ea
 Neighbourhood House and the David Suzuki Foundation’s Climate Council. He was also
 reappointed to the City of Vancouver Commission in 2014. He is a former member of the City of
 Vancouver’s Development Permit Board Advisory Panel, and of the Academic Roundtable for
-the City of Vancouver’s Mayor’s Task Force on Housing Affordability
+the City of Vancouver’s Mayor’s Task Force on Housing Affordability.
 
 ---
 ### <a name="Yanofsky"></a>Deena Yanofsky
