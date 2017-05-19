@@ -99,7 +99,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
         <tr>
 			<td></td>
 			<td><a href="../speakers#Jones">Julie Jones</a>, Simon Fraser University</td>
-			<td><a href="../abstracts#pres01a">Spatial Humanities: Collaborating, Facilitating, Supporting</a></td>
+			<td><a href="../abstracts#pres01a">Bringing GIS into the Humanities Classroom</a></td>
 		</tr>
 		<tr>
 			<td>1200</td>
