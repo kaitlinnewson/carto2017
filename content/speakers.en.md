@@ -60,7 +60,7 @@ Kara Handren holds a M.I. in Library and Information Science from the University
 
 ---
 ### <a name="Hayes"></a>Geoff Hayes
-Coming Soon
+Geoff Hayes teaches Canadian history and War and Society at the University of Waterloo. He is the author of the forthcoming book with UBC Press, Crerar’s Lieutenants: Inventing the Canadian Junior Army Officer 1939-1945. His tours of Northwest Europe continue to fire his curiosity about the digital potential for teaching and researching the Canadian experience of war.
 
 ---
 ### <a name="Jones"></a>Julie Jones
