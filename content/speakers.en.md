@@ -11,7 +11,6 @@ layout = "single-para"
 </div>
 <br />
 
----
 ### <a name="Bartlett"></a>Rebecca Bartlett 
 Rebecca Bartlett has been the GIS and Digital Resources Librarian at Carleton University since 2012 and the ACMLA Treasurer since 2014.
 
@@ -80,6 +79,7 @@ Sarah Simpkin is currently serving as Interim Digital Scholarship Librarian at t
 ### <a name="Sugerman"></a>Emily Sugerman
 Emily Sugerman os a Master’s of Library and Information Science candidate at the University of British Columbia, with a BA in Comparative Literature and Culture from the University of Western Ontario. Print map love runs deep!
 
+---
 ### <a name="Thompson"></a>Andrew Thompson
 Andrew is a Research Coordinator with The Firelight Group, a British Columbian consulting group that works with Indigenous and local communities in Canada and beyond to provide high quality research, policy, planning, negotiation, and advisory services. Andrew works on traditional knowledge and use studies, and in the mapping and GIS team to create maps displaying First Nations land use, knowledge, and occupancy.
 
