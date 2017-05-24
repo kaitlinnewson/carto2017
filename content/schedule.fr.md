@@ -36,7 +36,7 @@ Lieu: SFU Vancouver - Salle informatique 1350
 		</tr>
 		<tr>
 			<td>0900-1600</td>
-			<td><a href="../speakers#Bartlett">Rebecca Bartlett</a>, Carleton University, <a href="../speakers#Beck">Gordon Beck</a> &amp; <a href="../speakers#Brodeur">Jason Brodeur</a>, McMaster University, <a href="../speakers#Ford">Trevor Ford</a>, Wilfrid Laurier University</td>
+			<td><a href="../speakers#Bartlett">Rebecca Bartlett</a>, Carleton University, <a href="../speakers#Beck">Gordon Beck</a> &amp; <a href="../speakers#Brodeur">Jason Brodeur</a>, McMaster University, <a href="../speakers#Ford">Trevor Ford</a>, Wilfrid Laurier University, <a href="../speakers#Hayes">Geoff Hayes</a>, University of Waterloo</td>
 			<td><a href="../abstracts#work1">Workshop: Building “Deep” Maps of The Great War</a></td>
 		</tr>
 		<tr>
