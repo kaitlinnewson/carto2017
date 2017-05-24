@@ -59,6 +59,10 @@ I studied at Laval University and I graduated with a bachelor degree in Geomatic
 Kara Handren holds a M.I. in Library and Information Science from the University of Toronto, and is a Metadata Librarian at Scholar’s Portal, a service of the Ontario Council of University Libraries (OCUL). She works on a variety of metadata management projects involving eBooks, eJournals, and Geospatial data, and is interested in tools and projects for enhancing information discovery, access and literacy among the wider community.
 
 ---
+### <a name="Hayes"></a>Geoff Hayes
+Coming Soon
+
+---
 ### <a name="Jones"></a>Julie Jones
 Julie Jones is GIS & Map Librarian and Librarian for Geography at Simon Fraser University. Previous to her role at SFU, she was Liaison Librarian for Geography, Urban Planning, and Social Work at McGill University and before that she held (concurrent!) librarian positions in the public, non-profit, and corporate sectors. 
 Julie holds a MLIS from McGill University and a BA in English Literature from UBC. She is interested in the ways spatial thinking and GIS can empower citizens and researchers and make complex data more accessible and understandable. Her recent research has included climate change research syntheses and the examination of the role of librarians in systematic reviews.
