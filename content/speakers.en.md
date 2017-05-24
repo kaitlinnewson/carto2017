@@ -32,7 +32,7 @@ Sue is a Digital Conservator at the City of Vancouver Archives, preserving both 
 
 ---
 ### <a name="Brodeur"></a>Jason Brodeur
-Jason Brodeur holds a Ph.D. in Geography and Earth Sciences from McMaster University and is the Manager of Maps, Data, GIS in the McMaster University Library. His interests include projects that improve access to cartographic and geospatial information, and integrates them into research, teaching and learning, and public use.
+Jason Brodeur manages the Maps, Data, GIS department in the McMaster University Library. His interests include improving access to cartographic and geospatial information, and integrating such material into research, teaching and learning, and public use.
 
 ---
 ### <a name="Cooke"></a>Nathalie Cooke 
