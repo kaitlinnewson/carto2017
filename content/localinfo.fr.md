@@ -49,7 +49,7 @@ Le train [VIA Rail](VIA Rail], le train [Rocky Mountaineer](https://www.rockymou
 [Ride the Ales](https://www.lgeo.co/blog/2017/2/27/ride-the-ales-a-brewery-map-for-modern-times) - carte de microbrasseries et transport collectif  
 [Carte de brasserie de Vancouver](http://craftbeervancouver.ca/breweries/) 
 
-**Attractions locales**
+**Attractions locales**  
 [Plages de Vancouver](http://vancouver.ca/parks-recreation-culture/beaches.aspx)
 
 [The Seawall](http://vancouver.ca/parks-recreation-culture/seawall.aspx) 
