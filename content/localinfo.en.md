@@ -21,14 +21,14 @@ YVR Airport to SFU Vancouver by **taxi**. Cost: about $40. Time: About 40 minute
 
 ### Transportation
 
-**Public transit**
+**Public transit**  
 Translink provides public transit for the region. Not sure what bus or train to catch? Use the [Translink Trip Planner](http://tripplanning.translink.ca/) or the very handy [Transit real-time app](https://transitapp.com/). Fare for travel within the City of Vancouver is $2.75. 
 
-**Taxi**
+**Taxi**  
 Selected Vancouver taxi companies:
-[Vancouver Taxi](http://www.vancouvertaxi.cab/) - 604.871.1111
-[Black Top & Checker Cabs](http://btccabs.ca/) - 604.731.1111
-[MacLure's Cabs](https://www.maclurescabs.ca/) - 604.831.1111
+[Vancouver Taxi](http://www.vancouvertaxi.cab/) - 604.871.1111  
+[Black Top & Checker Cabs](http://btccabs.ca/) - 604.731.1111  
+[MacLure's Cabs](https://www.maclurescabs.ca/) - 604.831.1111  
 
 **Cycling** 
 Vancouver has an [extensive network of cycling routes and paths](http://vancouver.ca/streets-transportation/cycling-routes-maps-and-trip-planner.aspx) as well as a [public bike share system called Mobi](http://vancouver.ca/streets-transportation/public-bike-share-system.aspx) for shorter trips. For longer trips (perhaps along a portion of the [28km Seawall](http://vancouver.ca/parks-recreation-culture/seawall.aspx), the longest uninterrupted waterfront path in the world?), there are many [bike rental shops](https://www.google.ca/search?q=bike+rental+vancouver&oq=bike+rental+vancouver&aqs=chrome..69i57j0l5.4375j0j7&sourceid=chrome&ie=UTF-8#q=bike+rental+vancouver&rflfq=1&rlha=0&rllag=49279207,-123122149,2007&tbm=lcl&tbs=lrf:!2m1!1e2!2m1!1e3!3sEAE,lf:1,lf_ui:10&rlfi=hd:;si:;mv:!1m3!1d12538.449380626442!2d-123.12634154738771!3d49.284441572200585!3m2!1i1500!2i925!4f13.1;tbs:lrf:!2m1!1e2!2m1!1e3!3sEAE,lf:1,lf_ui:10). 
