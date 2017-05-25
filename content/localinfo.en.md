@@ -49,7 +49,7 @@ Three seaplane companies operate out of the [Vancouver Harbour Flight Centre](ht
 
 [Scout Magazine's guide to local eateries](http://scoutmagazine.ca/community/food/)
 
-[Tourism Vancouver's resturant guide](https://www.tourismvancouver.com/restaurants/)
+[Tourism Vancouver's restaurant guide](https://www.tourismvancouver.com/restaurants/)
 
 [Ride the Ales](https://www.lgeo.co/blog/2017/2/27/ride-the-ales-a-brewery-map-for-modern-times) - Fun transit and brewery map for the Vancouver area. 
 
