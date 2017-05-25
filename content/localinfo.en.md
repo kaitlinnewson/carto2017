@@ -30,31 +30,34 @@ Selected Vancouver taxi companies:
 [Black Top & Checker Cabs](http://btccabs.ca/) - 604.731.1111  
 [MacLure's Cabs](https://www.maclurescabs.ca/) - 604.831.1111  
 
-**Cycling** 
+**Cycling**  
 Vancouver has an [extensive network of cycling routes and paths](http://vancouver.ca/streets-transportation/cycling-routes-maps-and-trip-planner.aspx) as well as a [public bike share system called Mobi](http://vancouver.ca/streets-transportation/public-bike-share-system.aspx) for shorter trips. For longer trips (perhaps along a portion of the [28km Seawall](http://vancouver.ca/parks-recreation-culture/seawall.aspx), the longest uninterrupted waterfront path in the world?), there are many [bike rental shops](https://www.google.ca/search?q=bike+rental+vancouver&oq=bike+rental+vancouver&aqs=chrome..69i57j0l5.4375j0j7&sourceid=chrome&ie=UTF-8#q=bike+rental+vancouver&rflfq=1&rlha=0&rllag=49279207,-123122149,2007&tbm=lcl&tbs=lrf:!2m1!1e2!2m1!1e3!3sEAE,lf:1,lf_ui:10&rlfi=hd:;si:;mv:!1m3!1d12538.449380626442!2d-123.12634154738771!3d49.284441572200585!3m2!1i1500!2i925!4f13.1;tbs:lrf:!2m1!1e2!2m1!1e3!3sEAE,lf:1,lf_ui:10). 
 
-**Boat**
+**Boat**  
 [BC Ferries](http://www.bcferries.com/) offers ferry service to nearby island and coastal destinations. The [Vancouver Aquabus](http://theaquabus.com/) and [False Creek Ferries](http://www.granvilleislandferries.bc.ca/) offer short boat rides between downtown and destinations along [False Creek](https://www.google.ca/maps/place/False+Creek/@49.2757354,-123.1415827,14z/data=!3m1!4b1!4m5!3m4!1s0x548673d6a4eb7d2b:0x3214eea038e80fc0!8m2!3d49.2698701!4d-123.1247632). 
 
-**Float Plane**
+**Float Plane**  
 Three seaplane companies operate out of the [Vancouver Harbour Flight Centre](http://vhfc.ca/) (a 10 minute walk from the conference venue) and [Helijet](http://helijet.com/) is nearby as well. 
 
-**Train**
+**Train**  
 [VIA Rail](http://www.viarail.ca/en), [Rocky Mountaineer](https://www.rockymountaineer.com/), and [Amtrak](https://www.amtrak.com/home) train service is available out of [Pacific Central Station](https://en.wikipedia.org/wiki/Pacific_Central_Station). 
 
-**Intercity Coach Bus**
+**Intercity Coach Bus**  
 [Greyhound](https://www.greyhound.ca/), [Pacific Coach Lines](http://www.pacificcoach.com/), and [BoltBus](https://www.boltbus.com/) are available out of [Pacific Central Station](https://en.wikipedia.org/wiki/Pacific_Central_Station). [Quick Coach](http://www.quickcoach.com/) operates between Vancouver and Seattle, leaving from many Vancouver locations daily. 
 
-### Food & Drink
+### Food & Drink  
+[Scout Magazine's guide to local eateries](http://scoutmagazine.ca/community/food/)  
+[Tourism Vancouver's restaurant guide](https://www.tourismvancouver.com/restaurants/)  
+[Ride the Ales](https://www.lgeo.co/blog/2017/2/27/ride-the-ales-a-brewery-map-for-modern-times) - Fun transit and brewery map for the Vancouver area.  
+[Vancouver Brewery Map](http://craftbeervancouver.ca/breweries/)  
 
-[Scout Magazine's guide to local eateries](http://scoutmagazine.ca/community/food/)
-
-[Tourism Vancouver's restaurant guide](https://www.tourismvancouver.com/restaurants/)
-
-[Ride the Ales](https://www.lgeo.co/blog/2017/2/27/ride-the-ales-a-brewery-map-for-modern-times) - Fun transit and brewery map for the Vancouver area. 
-
-[Vancouver Brewery Map](http://craftbeervancouver.ca/breweries/)
-
-### Local Attractions
-
-Coming soon.
+### Local Attractions  
+[Vancouver beaches](http://vancouver.ca/parks-recreation-culture/beaches.aspx)   
+[The Seawall](http://vancouver.ca/parks-recreation-culture/seawall.aspx)  
+[Stanley Park](http://vancouver.ca/parks-recreation-culture/stanley-park.aspx)  
+[Dr. Sun Yat-Sen Classical Chinese Garden](http://www.vancouverchinesegarden.com/)  
+[The Museum of Anthropology](http://moa.ubc.ca/)  
+[The Vancouver Art Gallery](http://www.vanartgallery.bc.ca/)  
+[Museum of Vancouver](http://www.museumofvancouver.ca/)  
+[Grouse Mountain](https://www.grousemountain.com/activities-guide)  
+[Bard on the Beach Shakespeare Festival](https://bardonthebeach.org/)  
