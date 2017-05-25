@@ -43,8 +43,11 @@ Le train [VIA Rail](VIA Rail], le train [Rocky Mountaineer](https://www.rockymou
 [Greyhound](https://www.greyhound.ca/), [Pacific Coach Lines](http://www.pacificcoach.com/), et [BoltBus](https://www.boltbus.com/) sont disponibles hors de [Pacific Central Station](https://en.wikipedia.org/wiki/Pacific_Central_Station). [Quick Coach](http://www.quickcoach.com/) opère entre Vancouver et Seattle, en partant de plusieurs endroits de Vancouver tous les jours. 
 
 **Nourriture et boissons**
-Bientôt
 
+[Restos - Guide de Scout Magazine](http://scoutmagazine.ca/community/food/)  
+[Restos - Guide de Tourisme Vancouver](https://www.tourismvancouver.com/restaurants/)
+[Ride the Ales](https://www.lgeo.co/blog/2017/2/27/ride-the-ales-a-brewery-map-for-modern-times) - carte de microbrasseries et transport collectif  
+[Carte de brasserie de Vancouver](http://craftbeervancouver.ca/breweries/) 
 **Attractions locales**
 Bientôt
 
