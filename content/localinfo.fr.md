@@ -48,6 +48,7 @@ Le train [VIA Rail](VIA Rail], le train [Rocky Mountaineer](https://www.rockymou
 [Restos - Guide de Tourisme Vancouver](https://www.tourismvancouver.com/restaurants/)
 [Ride the Ales](https://www.lgeo.co/blog/2017/2/27/ride-the-ales-a-brewery-map-for-modern-times) - carte de microbrasseries et transport collectif  
 [Carte de brasserie de Vancouver](http://craftbeervancouver.ca/breweries/) 
+
 **Attractions locales**
 Bientôt
 
