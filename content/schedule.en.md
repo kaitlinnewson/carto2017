@@ -99,7 +99,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
         <tr>
 			<td></td>
 			<td><a href="../speakers#Jones">Julie Jones</a>, Simon Fraser University</td>
-			<td><a href="../abstracts#pres01a">Bringing Spatial Thinking into the Humanities</a></td>
+			<td><a href="../abstracts#pres01a">Bringing Spatial Approaches into the Humanities</a></td>
 		</tr>
 		<tr>
 			<td>1200</td>
@@ -251,7 +251,12 @@ Location: SFU Vancouver - 1700 Labatt Hall
 		<tr>
 			<td></td>
 			<td><a href="(../speakers#Gingras)">Martin Gingras</a>, Surveyor General Branch, Natural Resources Canada</td>
-			<td><a href="../abstracts#pres02a">Transformation of Legal Canada Lands Surveys Records to Authoritative Digital Records</a></td>
+			<td><a href="../abstracts#pres05a">Transformation of Legal Canada Lands Surveys Records to Authoritative Digital Records</a></td>
+		</tr>
+         <tr>
+			<td></td>
+			<td><a href="(../speakers#Bigelow)">Sue Bigelow</a> and <a href="(../speakers#Walz)">Sharon Walz</a>, City of Vancouver Archives</td>
+			<td><a href="../abstracts#pres05b">Map Digitization at the City of Vancouver Archives</a></td>
 		</tr>
 		<tr>
 			<td></td>
