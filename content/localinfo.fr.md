@@ -50,22 +50,15 @@ Le train [VIA Rail](VIA Rail], le train [Rocky Mountaineer](https://www.rockymou
 [Carte de brasserie de Vancouver](http://craftbeervancouver.ca/breweries/) 
 
 **Attractions locales**  
-[Plages de Vancouver](http://vancouver.ca/parks-recreation-culture/beaches.aspx)
 
-[The Seawall](http://vancouver.ca/parks-recreation-culture/seawall.aspx) 
-
-[Parc Stanley](http://vancouver.ca/parks-recreation-culture/stanley-park.aspx )
-
-[Dr. Sun Yat-Sen Classical Chinese Garden](http://www.vancouverchinesegarden.com/) 
-
-[Musée d’anthropologie](http://moa.ubc.ca/) 
-
-[La Galerie d'art de Vancouver](http://www.vanartgallery.bc.ca/) 
-
-[Musée de Vancouver](http://www.museumofvancouver.ca/) 
-
-[Grouse Mountain](https://www.grousemountain.com/activities-guide) 
-
+[Plages de Vancouver](http://vancouver.ca/parks-recreation-culture/beaches.aspx)  
+[The Seawall](http://vancouver.ca/parks-recreation-culture/seawall.aspx)  
+[Parc Stanley](http://vancouver.ca/parks-recreation-culture/stanley-park.aspx)  
+[Dr. Sun Yat-Sen Classical Chinese Garden](http://www.vancouverchinesegarden.com/)  
+[Musée d’anthropologie](http://moa.ubc.ca/)  
+[La Galerie d'art de Vancouver](http://www.vanartgallery.bc.ca/)  
+[Musée de Vancouver](http://www.museumofvancouver.ca/)  
+[Grouse Mountain](https://www.grousemountain.com/activities-guide)  
 [Bard on the Beach, Shakespeare Festival](https://bardonthebeach.org/) 
 
 
