@@ -31,7 +31,7 @@ Instructional elements of this workshop will include:
 
 ## Mercredi 21 juin
 ### <a name="keynote1"></a>Keynote Address: Indigenous Mapping in Canada
-[Chris Ames](../speakers#Ames), The Firelight Group
+[Andrew Thompson](../speakers#Thompson), The Firelight Group
 
 Abstract coming soon.
 
