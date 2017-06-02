@@ -162,12 +162,12 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 			<td><a href="../abstracts#keynote2">Keynote Address</a></td>
 		</tr>
 		<tr>
-			<td>1000</td>
+			<td>1015</td>
 			<td>–</td>
 			<td>Morning Break</td>
 		</tr>
 		<tr>
-			<td>1015</td>
+			<td>1030</td>
 			<td colspan="2"><strong>Presentation Session 03: Reconsidering and Revitalizing Map Collections</strong></td>
 		</tr>
 		<tr>
