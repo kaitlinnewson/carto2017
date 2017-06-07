@@ -15,7 +15,7 @@ layout = "single-para"
 |------|-------|-------|-------|
 |Ateliers|Mardi 20 juin|0900-1600|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html) - Salle informatique 1350|
 |Activité brise-glace|Mardi 20 juin|1830 (approx.)|[TAPshack - Coal Harbour, 1199 W Cordova St](http://tapshack.ca/menu.html)|
-|Conférence, première journée|Mercredi 21 juin|0830-1630|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html) - 1400-1420 Segal Centre|
+|Conférence, première journée|Mercredi 21 juin|0830-1600|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html) - 1400-1420 Segal Centre|
 |Conférence, deuxième journée|Jeudi 22 juin|0830-1630|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html) - 1400-1420 Segal Centre|
 |Assemblée générale annuelle de l’ACACC|Jeudi 22 juin|1200-1400|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html) - 1400-1420 Segal Centre|
 |Banquet|Jeudi 22 juin|1730-2000 (approx.)|[SFU Burnaby](http://www.sfu.ca/campuses/burnaby.html)|
