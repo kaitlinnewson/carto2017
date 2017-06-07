@@ -41,7 +41,7 @@ Location: SFU Vancouver - Computer Lab 1350
 			<td><a href="../abstracts#work1">Workshop: Building “Deep” Maps of The Great War</a></td>
 		</tr>
 		<tr>
-			<td>1830</td>
+			<td>1800</td>
 			<td>–</td>
 			<td>Icebreaker: <a href="http://tapshack.ca/menu.html">TAPshack - Coal Harbour, 1199 W Cordova St</a></td>
 		</tr>
