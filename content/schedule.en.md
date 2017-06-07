@@ -107,7 +107,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 			<td></td>
 		</tr>
 		<tr>
-			<td>1330</td>
+			<td>1300</td>
 			<td colspan="2"><strong>Presentation Session 02: Digitization,  Digital Mapping, and Historical GIS</strong></td>
 		</tr>
 		<tr>
@@ -126,11 +126,11 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 			<td><a href="../abstracts#pres02c">Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project</a></td>
 		</tr>
 		<tr>
-			<td>1500</td>
+			<td>1430</td>
 			<td colspan="2">Afternoon Break</td>
 		</tr>
 		<tr>
-			<td>1515</td>
+			<td>1445</td>
 			<td><a href="../speakers#Jones">Julie Jones</a>, Simon Fraser University</td>
 			<td><a href="../abstracts#roundtable">Roundtable Discussion</a></td>
 		</tr>
