@@ -186,7 +186,7 @@ Lieu: SFU Vancouver - 1400-1420 Segal Centre
 		</tr>
 		<tr>
 			<td>1200-1400</td>
-			<td colspan="2"><strong>ACMLA-ACACC Annual General Meeting (Boxed lunch provided to ACMLA Members)</strong></td>
+			<td colspan="2"><strong>ACMLA-ACACC Annual General Meeting (Lunch provided to all registered attendees)</strong></td>
 		</tr>
 		<tr>
 			<td>1400</td>
