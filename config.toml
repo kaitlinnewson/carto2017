@@ -28,7 +28,7 @@ logoalt = "Carto 2017 logo"
 contentOneTitle = "Digital Revolutions | Analog Renaissance"
 contentOneBody = "The digital revolution has brought about considerable change for both users and stewards of cartographic and geospatial information: Advances in imaging technologies have facilitated a mass digital migration of physical collections; the rise of “born digital” cartographic and geospatial information has transformed how collections are developed and used; and expanding mandates for open scholarship are actively changing the expectations for managing and distributing this information. While this “digital transition” has introduced novel opportunities for gathering, investigating and sharing, it has also presented a variety of new challenges to be addressed. In addition, the expansion of digital collections has not left their analog counterparts obsolete; rather, it has provided an opportunity for critical reflection on the role of physical collections, and their persisting value to research, pedagogy and public engagement. <br><br> The members of the program committee are:<br><ul><li>Francine Berish, Queen’s University</li><li>Jason Brodeur, McMaster University</li><li>Sue McKee, University of Calgary</li><li>Andrew Nicholson, University of Toronto Mississauga</li><li>Sarah Simpkin, University of Ottawa</li><li>Wenonah Van Heyst, Brandon University</li></ul>"
 [Languages.en.footer]
-email = "webmaster@acmla-acacc.ca"
+email = "carto2017@acmla-acacc.ca"
 copy = "2017 ACMLA-ACACC"
 footlogo = "img/sfu-white.png"
 footlogoalt = "Simon Fraser University"
