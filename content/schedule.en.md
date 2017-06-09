@@ -75,7 +75,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 		<tr>
 			<td>0915</td>
 			<td><a href="../speakers#Thompson">Andrew Thompson</a>, The Firelight Group</td>
-			<td><a href="../abstracts#keynote1">Keynote Address: Indigeneous Mapping in Canada</a></td>
+			<td><a href="../abstracts#keynote1">Keynote Address: Indigenous Mapping in Canada</a></td>
 		</tr>
 		<tr>
 			<td>1015</td>
