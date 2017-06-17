@@ -158,7 +158,7 @@ Lieu: SFU Vancouver - 1400-1420 Segal Centre
 		<tr>
 			<td>0900</td>
 			<td><a href="../speakers#Yan">Andy Yan</a>, Director, The City Program, Simon Fraser University</td>
-			<td><a href="../abstracts#keynote2">Keynote Address</a></td>
+			<td><a href="../abstracts#keynote2">Keynote Address: Closed to Open: A Data and Geographic Information System Metanarrative on Real Estate in the City of Vancouver</a></td>
 		</tr>
 		<tr>
 			<td>1015</td>
