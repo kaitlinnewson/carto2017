@@ -29,17 +29,17 @@ Instructional elements of this workshop will include:
 * Creating geospatial information from historical materials
 * Developing ‘deep maps’: An introduction to a variety of platforms for creating interactive map exhibits.
 
-## Mercredi 21 juin
+## Wednesday, 21-June
 ### <a name="keynote1"></a>Keynote Address: Indigenous Mapping in Canada
 [Andrew Thompson](../speakers#Thompson), The Firelight Group
 
-Abstract coming soon.
+This session will introduce the concept of indigenous mapping in Canada and outline how First Nations are using GIS technologies to advance their interests within the context of environmental assessment. Mapping plays a critical role in communicating different perspectives of land use.
 
 ---
-### <a name="pres01a"></a>Bringing Spatial Approaches into the Humanities
+### <a name="pres01a"></a>Bringing Spatial Approaches into the Humanities 
 [Julie Jones](../speakers#Jones), Simon Fraser University
 
-Abstract coming soon.
+This presentation will discuss strategies for introducing GIS and spatial thinking to researchers in the Humanities, with a focus on literature students. It can be a leap for this population of learners to think of the content they study as "data" or as something that can be visualized spatially. Dealing with these and other barriers will be addressed as approaches that are non-intimidating, accessible, and that also meet non-spatial learning objectives are shared.
 
 ---
 ### <a name="pres01b"></a>Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph 
@@ -94,8 +94,10 @@ What has kept you awake at night this year? What has you inspired and excited?
 This session will provide participants an opportunity to engage in informal discussion around one of a number of emerging issues in map libraries and archives. Attendees will collaborate in groups to discuss challenges and opportunities in these areas, with the purpose of improving understanding, developing potential solutions and, at the end of the session, communicating group discussion outcomes to the larger audience.
 
 ## Jeudi 22 juin
-### <a name="keynote2"></a>Keynote address
+### <a name="keynote2"></a>Keynote address: Closed to Open: A Data and Geographic Information System Metanarrative on Real Estate in the City of Vancouver  
 [Andy Yan](../speakers#Yan), Director, The City Program, Simon Fraser University
+
+Real estate in Vancouver can be a riddle wrapped in a mystery inside an enigma. Data visualizations and spatial analysis can be a beacon into the murkiness of residential real estate in the City of Vancouver. However, while tools like Geographic Information Systems software have been at the vanguard of a digital revolution in spatial and policy analysis for almost two decades, it is only the relatively recent advent of attitudes and practices of Open Data by local and provincial government that has enabled researchers and scholars to comprehensively examine and explore Vancouver’s real estate market. Without Open Data advocates, policies, practices, and infrastructure, data on Vancouver real estate was locked behind the analog gates of cost, acquisition, and social and professional network centric access.  With the great leaps in mapping and data visualization tools, access to reliable, transparent, and documented data needs to keep pace and is arguably just as important as the development of the tools to analyze these datasets.
 
 ---
 ### <a name="pres03a"></a>Unearthing geological history: Revealing and protecting GSC research through improved metadata and stewardship
