@@ -18,9 +18,15 @@ layout = "single-para"
 |Conférence, première journée|Mercredi 21 juin|0830-1600|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html) - 1400-1420 Segal Centre|
 |Conférence, deuxième journée|Jeudi 22 juin|0830-1630|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html) - 1400-1420 Segal Centre|
 |Assemblée générale annuelle de l’ACACC|Jeudi 22 juin|1200-1400|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html) - 1400-1420 Segal Centre|
-|Banquet|Jeudi 22 juin|1900-2215 (approx.)|[SFU Burnaby](http://www.sfu.ca/campuses/burnaby.html)|
+|[Banquet](#Banquet)|Jeudi 22 juin|1900-2215 (approx.)|[SFU Burnaby](http://www.sfu.ca/campuses/burnaby.html)|
 |Conférence, troisième journée|Vendredi 23 juin|0930-1200|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html) - 1700 Labatt Hall|
 |Excursion|Vendredi 23 juin|1330-1545 (approx.)|Private boat tour of False Creek with drop off at Granville Island Public Market for lunch. Tour of the [City of Vancouver Archives](http://vancouver.ca/your-government/city-of-vancouver-archives.aspx) and a visit to the [Museum of Vancouver](http://www.museumofvancouver.ca/). Cost: $21.75, including all transportation (but not lunch!).|
+
+### <a name="Banquet"></a>Banquet  
+
+**1830:** Chartered bus to banquet leaves Harbour Centre to take us to SFU's Diamond Alumni Club at the top of Burnaby Mountain  
+**1900–2015:** Banquet  
+**2030:** Chartered bus back to Harbour Centre leaves banquet
 
 ### Excursion
 
