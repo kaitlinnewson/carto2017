@@ -22,6 +22,8 @@ layout = "single-para"
 |Conference, Day 3|Friday, 23-June|0930-1200|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html) - 1700 Labatt Hall|
 |[Field Trip](#field-trip)|Friday, 23-June|1330-1545 (approx.)|Private boat tour of False Creek with drop off at Granville Island Public Market for lunch. Tour of the [City of Vancouver Archives](http://vancouver.ca/your-government/city-of-vancouver-archives.aspx). Cost: $11, including all transportation (but not lunch!).|
 
+### Banquet
+
 ### Field Trip
 
 **Details:** Boat tour of False Creek, lunch at Granville Island Public Market, and behind the scenes tour of the City of Vancouver Archives 
