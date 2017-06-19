@@ -17,7 +17,7 @@ layout = "single-para"
 <a href="#friday-23-june">Friday, 23-June</a>
 
 # Tuesday, 20-June
-Location: SFU Vancouver - Computer Lab 1350
+Location: SFU Vancouver Harbour Centre - Computer Lab 1350
 (Register outside Room 1350)
 
 <table>
