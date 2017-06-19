@@ -17,7 +17,7 @@ layout = "single-para"
 <a href="#vendredi-23-juin">Vendredi 23 juin</a>
 
 # Mardi 20 juin
-Lieu: SFU Vancouver - Salle informatique 1350
+Lieu: SFU Vancouver Harbour Centre - Salle informatique 1350
 
 <table>
 	<thead>
