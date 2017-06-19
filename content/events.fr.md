@@ -25,8 +25,8 @@ layout = "single-para"
 ### <a name="Banquet"></a>Banquet  
 
 **1830:** Chartered bus to banquet leaves Harbour Centre to take us to SFU's Diamond Alumni Club at the top of Burnaby Mountain  
-**1900–2015:** Banquet  
-**2030:** Chartered bus back to Harbour Centre leaves banquet
+**1900–2215:** Banquet  
+**2230:** Chartered bus back to Harbour Centre leaves banquet
 
 ### Excursion
 
