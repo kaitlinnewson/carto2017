@@ -81,7 +81,7 @@ Sarah Simpkin is currently serving as Interim Digital Scholarship Librarian at t
 
 ---
 ### <a name="Sugerman"></a>Emily Sugerman
-Emily Sugerman os a Master’s of Library and Information Science candidate at the University of British Columbia, with a BA in Comparative Literature and Culture from the University of Western Ontario. Print map love runs deep!
+Emily Sugerman is a Master’s of Library and Information Science candidate at the University of British Columbia, with a BA in Comparative Literature and Culture from the University of Western Ontario. Print map love runs deep!
 
 ---
 ### <a name="Thompson"></a>Andrew Thompson
