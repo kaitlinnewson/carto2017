@@ -13,7 +13,7 @@ layout = "single-para"
 
 | Event | Date | Time (PDT) | Location|
 |------|-------|-------|-------|
-|Pre-Conference Workshops|Tuesday, 20-June|0900-1600|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html) - Computer Lab 1350|
+|Pre-Conference Workshops|Tuesday, 20-June|0900-1600|[SFU Vancouver Harbour Centre](http://www.sfu.ca/campuses/vancouver.html) - Computer Lab 1350|
 |Ice Breaker|Tuesday, 20-June|1800 (approx.)|[TAPshack - Coal Harbour, 1199 W Cordova St](http://tapshack.ca/menu.html)|
 |Conference, Day 1|Wednesday, 21-June|0830-1600|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html) - 1400-1420 Segal Centre|
 |Conference, Day 2|Thursday, 22-June|0830-1630|[SFU Vancouver](http://www.sfu.ca/campuses/vancouver.html) - 1400-1420 Segal Centre|
