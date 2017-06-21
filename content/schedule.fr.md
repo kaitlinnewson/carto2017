@@ -93,7 +93,7 @@ Lieu: SFU Vancouver - 1400-1420 Segal Centre
 		<tr>
 			<td></td>
 			<td><a href="../speakers#Yanofsky">Deena Yanofsky</a> &amp; <a href="../speakers#Cooke">Nathalie Cooke</a>, McGill University</td>
-			<td><a href="../abstracts#pres01d">GIS Lite &amp; Online Visualization Tools in the Humanities Classroom: Tales From the Front Lines of a Librarian-Faculty Collaboration</a></td>
+			<td><a href="../abstracts#pres01d">Spatial tools in the humanities classroom: Tales from the frontlines of a faculty-librarian collaboration</a></td>
 		</tr>
         <tr>
 			<td></td>
