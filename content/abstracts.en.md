@@ -101,7 +101,7 @@ Real estate in Vancouver can be a riddle wrapped in a mystery inside an enigma. 
 
 ---
 ### <a name="pres03a"></a>Unearthing geological history: Revealing and protecting GSC research through improved metadata and stewardship
-[Francine Berish](../speakers#Berish), Queen's University
+[Francine Berish](../speakers#Berish),<td><a href="../speakers#Berish">, Morag Coyne, and Graeme Campbell, Queen's University
 
 Geological Survey of Canada (GSC) members were instrumental in the exploration and mapping of Canada's geology. The information collected over the past 174 years has been distributed as publications such as maps, reports, monograph series (e.g. GSC Memoirs, Papers, Bulletin), and data. These publications are valuable because geological observations remain relevant despite age; because these publications are so detailed; and because, in general, the information cannot be found elsewhere. GSC published series include various titles and formats. Unfortunately, these details are often omitted from brief series catalogue records, making these treasures less discoverable for users. In an ecosystem that is progressively digital, large physical collections like the GSC series pose significant challenges. At Queen’s University, these important series were historically duplicated across department libraries with varying levels of description, and, at times, different classification systems. Our project focuses on improving discoverability and ease of retrieval for these series through the creation and enhancement of electronic catalogue records; by co-locating maps and documents in order to create conditions for improved stewardship and preservation; and by uniting maps with scanning equipment, information services and support.
 
