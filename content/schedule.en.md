@@ -172,7 +172,7 @@ Location: SFU Vancouver - 1400-1420 Segal Centre
 		</tr>
 		<tr>
 			<td></td>
-			<td><a href="../speakers#Berish">Francine Berish</a>, Morag Coyne, and Graeme Campbell, Queen’s University</td>
+			<td><a href="../speakers#Berish">Francine Berish</a>, Morag Coyne, &amp; Graeme Campbell, Queen’s University</td>
 			<td><a href="../abstracts#pres03a">Unearthing Geological History: Revealing and Protecting GSC Research Through Improved Metadata and Stewardship</a></td>
 		</tr>
 		<tr>
