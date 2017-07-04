@@ -11,6 +11,10 @@ layout = "single-para"
 </div>
 <br />
 
+
+**Merci à tous ceux qui ont présenté à Carto 2017. Des diapositives de présentation peuvent être trouvées [ici](https://osf.io/view/Carto2017/#).**
+
+
 ## Mardi 20 juin
 ### <a name="work1"></a>Building "deep" maps of the Great War: Critical information and modern approaches for developing integrated, interactive map exhibits using historical resources
 [Rebecca Bartlett](../speakers#Bartlett), Carleton University  
