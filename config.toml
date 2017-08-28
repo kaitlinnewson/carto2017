@@ -21,10 +21,10 @@ keywords = "libraries, archives, maps, cartography, data"
 [Languages.en.hero]
 herotitle = "Digital Revolutions | Analog Renaissance"
 herodescription = "The 51st Annual Conference of the Association of Canadian Map Libraries and Archives (ACMLA) Conference hosted by Simon Fraser University, Vancouver, British Columbia"
-btnblue = "Register"
 logo = "img/Carto2017header.png"
 logoalt = "Carto 2017 logo"
 [Languages.en.main]
+contentOneAlert = "Thanks to all those who joined us at Carto 2017. Presentation slides can be found at https://osf.io/view/Carto2017"
 contentOneTitle = "Digital Revolutions | Analog Renaissance"
 contentOneBody = "The digital revolution has brought about considerable change for both users and stewards of cartographic and geospatial information: Advances in imaging technologies have facilitated a mass digital migration of physical collections; the rise of “born digital” cartographic and geospatial information has transformed how collections are developed and used; and expanding mandates for open scholarship are actively changing the expectations for managing and distributing this information. While this “digital transition” has introduced novel opportunities for gathering, investigating and sharing, it has also presented a variety of new challenges to be addressed. In addition, the expansion of digital collections has not left their analog counterparts obsolete; rather, it has provided an opportunity for critical reflection on the role of physical collections, and their persisting value to research, pedagogy and public engagement. <br><br> Conference Organizers:<br><ul><li>Julie Jones, Simon Fraser University Library, Local Arrangements Committee Chair [(carto2017@acmla-acacc.ca)](mailto:carto2017@acmla-acacc.ca)</li><li>Jay Brodeur, McMaster University Library, Program Committee Chair [(programme@acmla-acacc.ca)](mailto:programme@acmla-acacc.ca)</li></ul>"
 [Languages.en.footer]
@@ -46,13 +46,9 @@ name = "Accommodations"
 url = "/accommodations"
 weight = 3
 [[Languages.en.menu.main]]
-name = "Register"
-url = "/register/#id%3D103%26wid%3D501%26cid%3D688"
-weight = 4
-[[Languages.en.menu.main]]
 name = "About"
 url = "/about"
-weight = 5
+weight = 4
 
 [Languages.fr]
 languageCode = "fr"
@@ -64,10 +60,10 @@ description = "51e colloque annuel de l’Association des cartothèques et archi
 [Languages.fr.hero]
 herotitle = "Révolution numérique | Renaissance analogique"
 herodescription = "51e colloque annuel de l’Association des cartothèques et archives cartographiques du Canada (ACACC). Colloque organisé par l’Université Simon Fraser, Vancouver, Colombie-Britannique"
-btnblue = "Inscription"
 logo = "img/Carto2017header.png"
 logoalt = "Carto 2017 logo"
 [Languages.fr.main]
+contentOneAlert = "Merci à tous ceux qui nous ont rejoints à Carto 2017. Les diapositives de présentation peuvent être trouvées à l'adresse https://osf.io/view/Carto2017"
 contentOneTitle = "Révolution numérique | Renaissance analogique"
 contentOneBody = "La révolution numérique a entraîné des changements considérables tant pour les utilisateurs que pour les administrateurs de l'information cartographique et géospatiale : les progrès des technologies d'imagerie ont facilité la migration numérique massive des collections physiques; la montée de l'information cartographique et géospatiale « née numérique » a transformé la façon dont les collections sont développées et utilisées; et l'élargissement des mandats de libre accès change activement les attentes en matière de gestion et de diffusion de ces données. Bien que cette « transition numérique » ait introduit de nouvelles possibilités de collecte, d'enquête et de partage, elle a également présenté une variété de nouveaux défis à relever. De plus, l'expansion des collections numériques n'a pas laissé obsolètes leurs homologues analogiques. Elle fournit plutôt une occasion de réflexion critique sur le rôle des collections physiques et leur valeur persistante pour la recherche, la pédagogie et l'engagement du public. <br><br> Conference Organizers:<br><ul><li>Julie Jones, Simon Fraser University Library, Local Arrangements Committee Chair [(carto2017@acmla-acacc.ca)](mailto:carto2017@acmla-acacc.ca)</li><li>Jay Brodeur, McMaster University Library, Program Committee Chair [(programme@acmla-acacc.ca)](mailto:programme@acmla-acacc.ca)</li></ul>"
 [Languages.fr.footer]
@@ -89,10 +85,6 @@ name = "Hébergement"
 url = "/fr/accommodations"
 weight = 3
 [[Languages.fr.menu.main]]
-name = "Inscription"
-url = "/fr/register/#id%3D103%26wid%3D501%26cid%3D688"
-weight = 4
-[[Languages.fr.menu.main]]
 name = "À propos"
 url = "/fr/about"
-weight = 5
+weight = 4
